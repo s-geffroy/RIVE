@@ -2,28 +2,39 @@
 
 ## 19.1 Matrice des décisions validées
 
-| Domaine | Décision V1 |
+| Domaine | Décision V1 (v1.1) |
 |---|---|
 | Nom | RIVE |
 | Sigle | Réseau Intégré de Vie Éducative |
-| Âge | 3 mois–16 ans |
-| Forme | campus-réseau |
+| Âge | 3 mois–18 ans (jusqu’au baccalauréat, voies G/T/P) |
+| Forme | campus-réseau local ; maillage à l’échelle bassin |
+| Unité RIVE | 500–900 enfants |
+| Bassin | ≈ 8 RIVEs pour 7 000 enfants |
 | Territoire V1 | ville moyenne / périurbain mixte |
 | Vague 2 | bassin mixte + quartier populaire |
 | Bâtiments | existants prioritairement |
-| Horaires | 08:00–09:00 à 17:00, puis 17:00–19:00 intégré |
-| 17:00–19:00 | non obligatoire |
-| Vacances | intégrées, garanties, modulées |
-| Sport/culture | tronc commun + parcours |
-| Sport club | interne + partenaires en V1 |
-| Musique | conservatoire intégré progressif |
+| Horaires | 07:30 (accueil échelonné) – 09:00 (noyau) – 17:00 – 19:00 |
+| Noyau éducatif | 09:00–17:00 |
+| 17:00–19:00 | intégré, parcours sérieux possibles, rien d’essentiel exclusif |
+| Calendrier | propre : semaines allégées, été 5–6 semaines |
+| Pauses éducatives | RIVE ouvert en mode centre de loisirs intégré |
+| Sport/culture | tronc commun + parcours sérieux hébergés intégralement |
+| Sport club | club RIVE en convention avec clubs locaux |
+| Musique | conservatoire intégré progressif (cycles dans RIVE) |
 | Théâtre | école théâtre/oralité complète |
 | Arts | école arts/design/matière |
-| Restauration | cuisine locale/bio, monde, végétarienne forte |
+| Lycée | voies générale, technologique, professionnelle |
+| Plateaux techniques | mutualisés à l’échelle bassin |
+| Restauration | cuisine locale/bio, monde, végétarienne forte, **petit-déjeuner** |
 | Végétarien | option quotidienne garantie |
+| Santé | cellule santé intégrée (infirmerie, médecin référent, psy, PMI) |
+| Inclusion | référent + AESH mutualisés + UPE2A intégrée + lien MDPH |
 | Devoirs | pas d’apprentissage obligatoire dépendant des parents |
 | LLM | non frontaux, appui pédagogique |
 | Données | compartimentation stricte |
+| Portage juridique | à instruire (voir ch. 22) |
+| Articulation EN | à instruire (voir ch. 23) |
+| Ratios budgétaires | voir ch. 24 |
 | Évaluation | indépendante |
 
 ## 19.2 Protocole mobilité minimal
@@ -44,11 +55,22 @@ Toute convention doit inclure : objectif, public, horaires, lieu, qualifications
 
 | Terme | Définition |
 |---|---|
-| RIVE | Réseau Intégré de Vie Éducative |
-| Campus-réseau | architecture locale multi-sites intégrée |
-| Maison RIVE | site ou unité d’âge |
-| Parcours RIVE | approfondissement sportif, culturel, artistique ou scientifique |
+| RIVE | Réseau Intégré de Vie Éducative — unité locale couvrant 500–900 enfants |
+| Bassin | zone géographique couverte par plusieurs RIVEs en maillage |
+| Maillage de bassin | ≈ 8 RIVEs pour 7 000 enfants |
+| Campus-réseau | architecture locale multi-sites intégrée d’une RIVE |
+| Maison RIVE | site ou unité d’âge à l’intérieur d’une RIVE |
+| Maison Nid | unité 3 mois–3 ans |
+| Maison Éveil | unité 3–6 ans |
+| Maison Fondations | unité 6–8 ans |
+| Maison Exploration | unité 8–11 ans |
+| Maison Adolescence | unité 11–16 ans |
+| Maison Horizon | unité 16–18 ans (lycée G/T/P) |
+| Parcours RIVE | approfondissement sportif, culturel, artistique ou scientifique hébergé dans RIVE |
 | Tronc commun | expérience garantie à tous |
+| Pause éducative | période hors progression scolaire structurée, RIVE ouvert en mode centre de loisirs intégré |
+| Calendrier propre | calendrier annuel RIVE distinct du calendrier national |
+| Cellule santé intégrée | unité regroupant infirmerie, médecin, psychologue, PMI, médecine scolaire à l’échelle RIVE |
 | Droit à l’oubli pédagogique | effacement ou révision des profils temporaires |
 | LLM non frontal | IA utilisée en soutien, pas chatbot libre enfant |
 | Fausse intégration | coordination apparente sans gouvernance unique |

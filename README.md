@@ -1,15 +1,17 @@
-# RIVE — Blue Book V1 découpé en chapitres
+# RIVE — Blue Book V1 (révision v1.1)
 
-Ce pack contient le contenu du Blue Book RIVE V1 consolidé, découpé en fichiers Markdown.
+Ce dépôt contient le Blue Book RIVE — Réseau Intégré de Vie Éducative — découpé en chapitres Markdown.
 
 ## Principe
 
 - Un fichier Markdown par chapitre.
-- Le contenu source est conservé sans réécriture de fond.
-- La version reste **V1**.
+- La version courante est **v1.1** (juin 2026).
 - Le fichier `00_index.md` sert de table de navigation.
+- Le fichier `CHANGELOG.md` trace les évolutions.
 
-## Fichiers
+## Structure
+
+### Corps doctrinal (V1, révisé en v1.1)
 
 - `00_avant_propos.md` — Avant-propos
 - `01_resume_executif.md` — Résumé exécutif
@@ -18,10 +20,10 @@ Ce pack contient le contenu du Blue Book RIVE V1 consolidé, découpé en fichie
 - `04_perimetre_de_la_v1.md` — Périmètre de la V1
 - `05_forme_territoriale_le_campus_reseau.md` — Forme territoriale : le campus-réseau
 - `06_organisation_par_age.md` — Organisation par âge
-- `07_la_journee_08_00_19_00.md` — La journée 08:00–19:00
-- `08_periodes_scolaires_et_vacances.md` — Périodes scolaires et vacances
+- `07_la_journee_08_00_19_00.md` — La journée 07:30–19:00
+- `08_periodes_scolaires_et_vacances.md` — Périodes éducatives, calendrier propre et pauses
 - `09_sport_musique_theatre_arts_et_clubs.md` — Sport, musique, théâtre, arts et clubs
-- `10_restauration_et_sante_quotidienne.md` — Restauration et santé quotidienne
+- `10_restauration_et_sante_quotidienne.md` — Restauration, santé et inclusion quotidiennes
 - `11_travail_personnel_et_devoirs.md` — Travail personnel et devoirs
 - `12_familles_fratries_et_mobilite.md` — Familles, fratries et mobilité
 - `13_rh_metiers_et_gouvernance.md` — RH, métiers et gouvernance
@@ -34,4 +36,17 @@ Ce pack contient le contenu du Blue Book RIVE V1 consolidé, découpé en fichie
 - `20_references_publiques_a_verifier_avant_instruction.md` — Références publiques à vérifier avant instruction
 - `21_conclusion.md` — Conclusion
 
-Date de génération : 2026-06-02
+### Chapitres d’instruction politique (ajoutés en v1.1)
+
+- `22_portage_juridique.md` — Portage juridique
+- `23_articulation_education_nationale.md` — Articulation avec l’Éducation nationale
+- `24_ratios_budgetaires.md` — Ratios budgétaires
+- `25_coherence_doctrinale.md` — Cohérence doctrinale
+- `26_vacances_pauses_educatives_et_droits.md` — Pauses éducatives et droits associés
+
+## Statut
+
+Document d’instruction politique destiné à être discuté avec des décideurs publics (collectivités, État, cabinets ministériels). Le Blue Book n’engage que son auteur. Toute mise à jour de la documentation doit être tracée dans `CHANGELOG.md`.
+
+Date initiale : 2026-06-02
+Révision v1.1 : 2026-06-08

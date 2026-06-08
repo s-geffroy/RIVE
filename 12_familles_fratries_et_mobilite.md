@@ -23,6 +23,7 @@ La mobilité est différenciée par âge :
 | 6–8 ans | courte et encadrée |
 | 8–11 ans | régulière mais limitée |
 | 11–16 ans | régulière, encadrée, autonomie progressive |
+| 16–18 ans | autonomie réelle, déplacements vers plateaux techniques et stages, en dérogation explicite |
 
 Chaque trajet est classé vert, jaune, orange ou rouge selon distance, circulation, âge, météo, éclairage, sécurité et historique d’incidents.
 

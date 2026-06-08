@@ -2,15 +2,19 @@
 
 ## 13.1 Direction
 
-RIVE V1 doit avoir un directeur général de réseau. Il n’est pas un coordinateur symbolique. Il porte l’arbitrage réel.
+Une RIVE doit avoir un **directeur général de RIVE**. Il n’est pas un coordinateur symbolique. Il porte l’arbitrage réel.
 
-Autour de lui : direction petite enfance, direction 3–11, direction 11–16, responsable sport/culture/clubs, responsable santé/inclusion/protection, responsable familles, responsable mobilité, responsable restauration, responsable SI/données/IA, responsable vacances, responsable budget/partenariats.
+Autour de lui : direction petite enfance (3 mois–3 ans), direction 3–11 ans, direction 11–16 ans, **direction 16–18 ans (lycée G/T/P)**, responsable sport/culture/clubs, responsable santé/inclusion/protection, responsable familles, responsable mobilité, responsable restauration, responsable SI/données/IA, responsable pauses éducatives, responsable budget/partenariats.
+
+Au niveau bassin, quand plusieurs RIVEs coexistent, une **coordination de bassin** légère (et non une hyperstructure) assure la mutualisation (cuisine centrale, plateaux techniques, SI, doctrine partagée) sans déposséder les DG de leur autorité opérationnelle. Voir ch. 22 (portage juridique) pour le véhicule.
 
 ## 13.2 Métiers essentiels
 
-RIVE repose sur des enseignants, éducateurs petite enfance, éducateurs sportifs, artistes/intervenants, musiciens, référents de maison, agents de vie éducative, personnels santé, psychologues, référents inclusion, cuisiniers, logisticiens, responsables SI et personnels administratifs.
+RIVE repose sur des enseignants (primaire, collège, lycée G/T/P), éducateurs petite enfance, éducateurs sportifs, artistes/intervenants, musiciens diplômés conservatoire, comédiens/metteurs en scène, référents de maison, agents de vie éducative, infirmières scolaires, médecins référents, psychologues, psychomotriciens / orthophonistes (vacations), référents inclusion, AESH, cuisiniers, logisticiens, responsables SI, personnels administratifs, **enseignants de plateaux techniques pour les voies pro/techno**.
 
-Le métier le plus fragile est probablement celui d’agent de vie éducative. S’il est mal défini, mal payé ou mal formé, RIVE deviendra une garderie améliorée. Ce métier doit être professionnalisé.
+Le métier le plus fragile est probablement celui d’agent de vie éducative. S’il est mal défini, mal payé ou mal formé, RIVE deviendra une garderie améliorée. Ce métier doit être professionnalisé : convention propre, formation initiale et continue, perspective de carrière, salaire au-dessus du SMIC, ratio adulte/enfant garanti.
+
+Le statut des enseignants détermine la viabilité juridique du projet : détachement, mise à disposition, recrutement contractuel sur statut RIVE propre — voir ch. 23 (articulation EN).
 
 ## 13.3 Culture commune
 

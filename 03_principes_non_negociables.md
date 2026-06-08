@@ -33,9 +33,13 @@ Formule centrale :
 
 > **Mêmes ambitions, chemins différenciés.**
 
-## 3.4 Aucun apprentissage essentiel après 17:00
+## 3.4 Aucun apprentissage essentiel exclusivement après 17:00
 
-Le créneau 17:00–19:00 est intégré au système, mais non obligatoire. Il ne doit donc jamais contenir seul les activités les plus riches ou les compétences nécessaires. Un enfant qui part à 17:00 ne doit pas être pénalisé.
+Le créneau 17:00–19:00 est intégré au système. Dans la pratique, il accueille la majorité des enfants dont les parents travaillent, et peut héberger des **parcours sérieux** (sport de club, conservatoire, théâtre, arts) qui structurellement se pratiquent en fin de journée.
+
+Mais le créneau ne doit jamais détenir **seul** les activités les plus riches ou les compétences nécessaires au socle commun. Un enfant qui part à 17:00 ne doit pas être pénalisé sur les apprentissages essentiels ni sur l’accès au tronc commun culturel et sportif.
+
+Cette précision corrige la formulation initiale et résout la tension entre intégration des parcours sérieux et égalité d’accès. Voir ch. 25 pour le traitement doctrinal complet.
 
 ## 3.5 Droit au repos et au jeu
 

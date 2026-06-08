@@ -10,4 +10,6 @@ RIVE ne cherche pas à tout faire à la place des familles. Il cherche à faire 
 
 La V1 doit maintenant être instruite froidement : territoire réel, bâtiments réels, coût réel, RH réelle, partenaires réels, risques réels. C’est seulement à cette condition que RIVE peut passer de l’idée forte au système testable.
 
-**Fin du Blue Book RIVE V1.**
+**Fin du corps doctrinal du Blue Book RIVE V1 (révision v1.1).**
+
+Les chapitres 22 à 26 qui suivent complètent le Blue Book à la demande d’une instruction politique : portage juridique, articulation Éducation nationale, ratios budgétaires, cohérence doctrinale et reformulation du droit aux pauses éducatives. Ils n’ajoutent pas de doctrine nouvelle ; ils instruisent ce qui restait ouvert dans la v1 initiale.

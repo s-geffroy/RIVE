@@ -36,4 +36,16 @@ Les familles les plus informées pourraient capter les meilleurs parcours. Il fa
 
 Les critiques seront prévisibles : école-caserne, coût fou, dépossession familiale, privatisation, expérimentation sur enfants. Il faut y répondre par les droits, la transparence, l’évaluation et la progressivité.
 
+## 17.10 Désalignement calendrier
+
+Un calendrier RIVE propre (semaines allégées, été raccourci) désaligne RIVE des écoles voisines hors RIVE — au préjudice des fratries scolarisées ailleurs et des familles inscrites en zone touristique (vacances zonales). À traiter par : communication très anticipée, alignement des grandes pauses sur les zones académiques pour préserver les départs familiaux, conventions de coexistence (voir ch. 23 et 26).
+
+## 17.11 Dépendance à l’absorption EN
+
+Si l’articulation avec l’Éducation nationale repose sur l’absorption des enseignants par RIVE (mise à disposition, détachement, statut propre), l’ensemble du projet devient juridiquement et politiquement dépendant d’une autorisation ministérielle. Le scénario de repli (RIVE en partenaire d’une école EN intacte) doit être préparé dès la phase 0 — voir ch. 23.
+
+## 17.12 Risque lycée pro
+
+Le lycée professionnel est, parmi les trois voies, la plus exigeante en plateaux techniques, sécurité, partenariats entreprises et statuts des enseignants spécialisés. Une RIVE qui sous-investit le lycée pro reproduirait l’une des fractures sociales les plus durables du système actuel. À mutualiser à l’échelle bassin (voir ch. 6.7 et 24).
+
 ---

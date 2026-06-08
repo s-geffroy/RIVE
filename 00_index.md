@@ -1,10 +1,12 @@
-# RIVE — Blue Book V1
+# RIVE — Blue Book V1 (révision v1.1)
 
 ## Index des chapitres
 
 **RIVE** signifie **Réseau Intégré de Vie Éducative**.
 
-Ce dossier contient le Blue Book V1 découpé en chapitres, avec un fichier Markdown par chapitre.
+Ce dossier contient le Blue Book RIVE découpé en chapitres, avec un fichier Markdown par chapitre.
+
+### Corps doctrinal (V1, révisé en v1.1)
 
 00. [Avant-propos](./00_avant_propos.md)
 01. [Résumé exécutif](./01_resume_executif.md)
@@ -13,10 +15,10 @@ Ce dossier contient le Blue Book V1 découpé en chapitres, avec un fichier Mark
 04. [Périmètre de la V1](./04_perimetre_de_la_v1.md)
 05. [Forme territoriale : le campus-réseau](./05_forme_territoriale_le_campus_reseau.md)
 06. [Organisation par âge](./06_organisation_par_age.md)
-07. [La journée 08:00–19:00](./07_la_journee_08_00_19_00.md)
-08. [Périodes scolaires et vacances](./08_periodes_scolaires_et_vacances.md)
+07. [La journée 07:30–19:00](./07_la_journee_08_00_19_00.md)
+08. [Périodes éducatives, calendrier propre et pauses](./08_periodes_scolaires_et_vacances.md)
 09. [Sport, musique, théâtre, arts et clubs](./09_sport_musique_theatre_arts_et_clubs.md)
-10. [Restauration et santé quotidienne](./10_restauration_et_sante_quotidienne.md)
+10. [Restauration, santé et inclusion quotidiennes](./10_restauration_et_sante_quotidienne.md)
 11. [Travail personnel et devoirs](./11_travail_personnel_et_devoirs.md)
 12. [Familles, fratries et mobilité](./12_familles_fratries_et_mobilite.md)
 13. [RH, métiers et gouvernance](./13_rh_metiers_et_gouvernance.md)
@@ -29,6 +31,14 @@ Ce dossier contient le Blue Book V1 découpé en chapitres, avec un fichier Mark
 20. [Références publiques à vérifier avant instruction](./20_references_publiques_a_verifier_avant_instruction.md)
 21. [Conclusion](./21_conclusion.md)
 
+### Chapitres d’instruction politique (ajoutés en v1.1)
+
+22. [Portage juridique](./22_portage_juridique.md)
+23. [Articulation avec l’Éducation nationale](./23_articulation_education_nationale.md)
+24. [Ratios budgétaires](./24_ratios_budgetaires.md)
+25. [Cohérence doctrinale](./25_coherence_doctrinale.md)
+26. [Pauses éducatives et droits associés](./26_vacances_pauses_educatives_et_droits.md)
+
 ---
 
-La version indiquée dans les fichiers est **V1**. Le découpage ne modifie pas le contenu de fond.
+La version courante est **v1.1** (juin 2026). Elle intègre les changements doctrinaux suivants : ouverture à 07:30, continuité jusqu’au baccalauréat (≈ 18 ans, voies G/T/P), calendrier annuel propre, RIVE = unité de 500–900 enfants / bassin = maillage de ≈ 8 RIVEs, parcours sérieux intégrés, cellule santé intégrée. Voir `CHANGELOG.md`.
