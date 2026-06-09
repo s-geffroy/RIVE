@@ -134,7 +134,7 @@ L’absence d’ouverture législative pendant 5 à 10 ans est probable. RIVE_li
 
 L’opposition syndicale enseignante peut bloquer le scénario A (ch. 23). La voie de repli reste le scénario B (partenariat structuré). L’intégration promise est partielle. Le projet n’en est pas pour autant abandonné.
 
-L’insuffisance budgétaire peut conduire à étaler la trajectoire dans le temps. La cible bassin (8 RIVEs) peut être ajournée. La première implantation peut être pérennisée comme expérimentation autonome.
+L’insuffisance budgétaire peut conduire à étaler la trajectoire dans le temps. La cible bassin (maillage complet) peut être ajournée. La première implantation peut être pérennisée comme expérimentation autonome.
 
 Une alternance politique défavorable peut conduire à l’arrêt du dispositif. Les verrous de réversibilité décrits au ch. 18.10.2 sont précisément conçus pour rendre l’arrêt coûteux : engagements pluriannuels écrits, investissements bâtimentaires, compétences déléguées, communauté éducative mobilisée, évaluation indépendante publiée. Aucun verrou ne garantit la pérennité absolue. Tous renchérissent le coût politique d’une rupture.
 

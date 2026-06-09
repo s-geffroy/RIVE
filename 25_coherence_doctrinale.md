@@ -4,7 +4,7 @@
 
 Plusieurs tensions internes à la doctrine méritent d’être identifiées, exposées et tranchées. Faute de quoi, un lecteur instruit aurait le sentiment que le document évite les contradictions de fond.
 
-Quatre tensions sont traitées : le créneau 17:00–19:00 non obligatoire et l’hébergement des parcours sérieux intrinsèquement tardifs ; l’engagement jusqu’au baccalauréat alors que la scolarité obligatoire s’arrête à 16 ans ; la capture sociale d’une RIVE isolée et la cible bassin par maillage de 8 RIVEs ; l’interdiction du profilage durable et l’autorisation de la personnalisation et des profils révisables.
+Quatre tensions sont traitées : le créneau 17:00–19:00 non obligatoire et l’hébergement des parcours sérieux intrinsèquement tardifs ; l’engagement jusqu’au baccalauréat alors que la scolarité obligatoire s’arrête à 16 ans ; la capture sociale d’une RIVE isolée et la cible bassin par maillage complet ; l’interdiction du profilage durable et l’autorisation de la personnalisation et des profils révisables.
 
 ## 25.2 Tension 1 : le créneau 17:00–19:00
 
@@ -34,9 +34,9 @@ L’arbitrage tient. Il est cohérent avec le principe de non-substitution famil
 
 ## 25.4 Tension 3 : capture sociale et maillage de bassin
 
-Une RIVE isolée (500 à 900 places) dans un bassin de 7 000 enfants couvre environ un enfant sur douze. Les familles informées peuvent capter les meilleures places. C’est une contradiction frontale avec le principe d’égalité.
+Une RIVE isolée (500 à 900 places) ne couvre qu’une fraction du bassin dans lequel elle s’implante (à titre d’illustration, environ un enfant sur douze pour un bassin de 7 000 enfants). Les familles informées peuvent capter les meilleures places. C’est une contradiction frontale avec le principe d’égalité.
 
-La cible doctrinale est la couverture totale par maillage de 8 RIVEs. Le problème serait donc, en théorie, temporaire et borné. C’est partiellement vrai, mais cela évite la question pendant la durée de la première implantation (3 à 5 ans).
+La cible doctrinale est la couverture totale du bassin par maillage complet. Le problème serait donc, en théorie, temporaire et borné. C’est partiellement vrai, mais cela évite la question pendant la durée de la première implantation (3 à 5 ans).
 
 Pendant la première implantation, RIVE est par construction à petite échelle dans son bassin. Le risque de capture sociale est réel sur la période. Il doit être traité par des règles d’accès explicites et opérationnelles, et non par une promesse différée.
 
@@ -102,7 +102,7 @@ Sur le créneau 17:00–19:00 : distinction explicite entre un socle commun gara
 
 Sur la borne d’âge : l’engagement va jusqu’au baccalauréat, sans obligation après 16 ans. La Maison Horizon porte la voie générale et le Pôle Lycée Bassin porte les voies technologique et professionnelle. Aucune RIVE seule ne porte les trois voies.
 
-Sur l’échelle : RIVE est l’unité (500 à 900 enfants) ; le bassin est le maillage (environ 8 RIVEs). Les Pôles bassin sont nommés (Lycée, Santé, Cuisine, SI). La troisième vague est explicite.
+Sur l’échelle : RIVE est l’unité (500 à 900 enfants) ; le bassin est le maillage (autant de RIVEs que nécessaire pour couvrir la population locale). Les Pôles bassin sont nommés (Lycée, Santé, Cuisine, SI). La troisième vague est explicite.
 
 Sur la capture sociale : règles d’accès opérationnelles pendant la première implantation, indicateur de composition sociale publié annuellement, possibilité de révision automatique.
 

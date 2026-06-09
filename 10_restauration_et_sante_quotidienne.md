@@ -58,7 +58,7 @@ Il faut le dire sans ambiguïté : la cible AESH RIVE n’est pas atteignable sa
 
 ### 10.7.2 Pôle Santé Bassin
 
-Au niveau du bassin, plusieurs RIVEs partagent un Pôle Santé Bassin (ch. 5.6). Il mutualise le médecin référent (au moins un équivalent temps plein pour environ 8 RIVEs, soit environ 7 000 enfants, en référence à une densité médicale rurale acceptable), des vacations spécialisées (orthophoniste, psychomotricien, ophtalmologie, dentiste, pédopsychiatre), des campagnes annuelles ou pluriannuelles de dépistage (visuel, dentaire, auditif, troubles d’apprentissage) et une veille santé du bassin (épidémie, allergie groupée, signaux faibles).
+Au niveau du bassin, plusieurs RIVEs partagent un Pôle Santé Bassin (ch. 5.6). Il mutualise le médecin référent (avec un dimensionnement de l’ordre d’un équivalent temps plein pour 7 000 à 8 000 enfants, en référence à une densité médicale rurale acceptable), des vacations spécialisées (orthophoniste, psychomotricien, ophtalmologie, dentiste, pédopsychiatre), des campagnes annuelles ou pluriannuelles de dépistage (visuel, dentaire, auditif, troubles d’apprentissage) et une veille santé du bassin (épidémie, allergie groupée, signaux faibles).
 
 Le Pôle Santé Bassin est conventionné avec l’ARS, le département (pour la protection maternelle et infantile) et le ministère de l’Éducation nationale (pour la médecine scolaire). Le médecin référent du Pôle peut être détaché de l’Éducation nationale, recruté en contractuel par le porteur de RIVE, ou délégué par l’ARS, selon le véhicule juridique retenu (ch. 22).
 

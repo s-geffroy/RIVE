@@ -76,7 +76,7 @@ La part RH est explicite et structurelle. Une part RH inférieure à 55 % serait
 
 Le fonds d’égalité a été revu à la hausse, dans une fourchette de 3 à 5 % du budget total. La justification est la suivante.
 
-Sur 7 000 enfants d’un bassin (cible maillage), environ 20 % vivent sous le seuil de pauvreté ([REF-16, REF-17], moyenne nationale, fortement à actualiser par bassin réel : 5 % en péri-urbain favorisé, jusqu’à 40 % en quartier prioritaire). Avec une hypothèse moyenne de 20 %, cela représente environ 1 400 enfants.
+À titre d’illustration, pour un bassin de 7 000 enfants pris en référence, environ 20 % vivent sous le seuil de pauvreté ([REF-16, REF-17], moyenne nationale, fortement à actualiser par bassin réel : 5 % en péri-urbain favorisé, jusqu’à 40 % en quartier prioritaire). Avec une hypothèse moyenne de 20 %, cela représente environ 1 400 enfants.
 
 Un séjour long correctement organisé coûte 1 500 à 3 000 euros par enfant. Pour garantir un séjour long par cycle à ces 1 400 enfants, il faut donc mobiliser environ 2,5 millions d’euros par an, soit environ 2 % d’un budget de bassin à 100 millions. À cela s’ajoutent la tarification sociale des repas, les séjours courts, l’accès aux parcours sport et culture sans cotisation famille, les équipements (instruments, équipements sportifs personnels) et les petits déplacements famille-RIVE pour les enfants éloignés.
 
@@ -106,7 +106,7 @@ Pour les 11 à 18 ans dans une RIVE, les mètres carrés intérieurs varient ent
 
 Pour les 14 à 18 ans dans un Pôle Lycée Bassin, voie professionnelle, les mètres carrés intérieurs varient entre 12 et 18 (plateaux techniques inclus). Les mètres carrés extérieurs varient entre 4 et 6. Le total se situe entre 16 et 24.
 
-Pour une RIVE de 875 enfants, l’ensemble représente 6 000 à 8 500 mètres carrés intérieurs bâtis utiles, complétés par un accès partagé à des extérieurs (parcs, équipements sportifs, espaces naturels). Pour un Pôle Lycée Bassin servant les 8 RIVEs du maillage, il faut compter 5 000 à 8 000 mètres carrés intérieurs supplémentaires, dont une part importante en plateaux techniques de la voie professionnelle, ateliers spécialisés, laboratoires et lieux de stage.
+Pour une RIVE d’environ 875 enfants prise en référence, l’ensemble représente 6 000 à 8 500 mètres carrés intérieurs bâtis utiles, complétés par un accès partagé à des extérieurs (parcs, équipements sportifs, espaces naturels). Pour un Pôle Lycée Bassin servant l’ensemble des RIVEs du maillage, il faut compter 5 000 à 8 000 mètres carrés intérieurs supplémentaires, dont une part importante en plateaux techniques de la voie professionnelle, ateliers spécialisés, laboratoires et lieux de stage.
 
 Ces ratios supposent une mutualisation forte de l’existant (anciennes écoles, salles communales, friches publiques requalifiées, gymnases municipaux, conservatoires). Une RIVE construite intégralement en neuf serait financièrement et écologiquement absurde, ce qui justifie le choix « bâtiments existants prioritairement » (ch. 19.1).
 
@@ -122,7 +122,7 @@ L’année 1 mobilise 350 à 500 enfants pour un budget annuel brut de 7 à 10 m
 
 Le coût par enfant décroît à mesure que les effectifs augmentent, car beaucoup de coûts fixes (direction, système d’information, cellule santé) s’amortissent. C’est l’une des justifications budgétaires de la taille cible de 500 à 900 enfants par RIVE.
 
-À l’échelle du maillage bassin (environ 7 000 enfants, 8 RIVEs et 1 Pôle Lycée Bassin), le budget annuel cible se situe à 95 à 125 millions d’euros à régime stabilisé. Il est comparable au cumul actuel des budgets éducatifs publics consolidés sur le même bassin (instruction primaire et secondaire, crèches, périscolaire, restauration scolaire, conservatoire, soutien aux clubs, santé scolaire, accompagnants d’élèves), augmenté d’une marge qualité estimée à +15 à +25 %.
+À l’échelle d’un maillage bassin pris en référence (par exemple 7 000 enfants, environ 8 RIVEs et 1 Pôle Lycée Bassin), le budget annuel cible se situe à 95 à 125 millions d’euros à régime stabilisé. Il est comparable au cumul actuel des budgets éducatifs publics consolidés sur le même bassin (instruction primaire et secondaire, crèches, périscolaire, restauration scolaire, conservatoire, soutien aux clubs, santé scolaire, accompagnants d’élèves), augmenté d’une marge qualité estimée à +15 à +25 %.
 
 ## 24.11 Conditions de soutenabilité
 
@@ -134,6 +134,6 @@ La deuxième consiste à préserver les lignes incompressibles : santé, formati
 
 La troisième consiste à présenter explicitement les coûts évités, dans le même tableau que les coûts engagés. À défaut, l’élu lit un budget en hausse sans contrepartie.
 
-La quatrième consiste à conditionner la montée vers 8 RIVEs par bassin à un audit budgétaire conduit à l’issue de la troisième année de la première implantation.
+La quatrième consiste à conditionner la montée vers le maillage complet du bassin à un audit budgétaire conduit à l’issue de la troisième année de la première implantation.
 
 ---

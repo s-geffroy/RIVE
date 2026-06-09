@@ -4,7 +4,7 @@
 
 RIVE est un service public éducatif intégré, destiné aux enfants et aux adolescents de 3 mois jusqu’au baccalauréat (soit environ 18 ans). Il accueille les enfants à partir de 07:30 pour les familles qui travaillent, garantit un noyau éducatif entre 09:00 et 17:00, et prolonge la journée jusqu’à 19:00 par un créneau intégré consacré à l’étude, aux clubs, au sport, à la musique, au théâtre, aux arts, aux projets ou au repos selon l’âge.
 
-Une RIVE est une unité locale conçue pour environ 500 à 900 enfants. Un bassin n’est pas une RIVE : il s’agit d’un maillage de plusieurs RIVEs. À titre d’ordre de grandeur, un bassin de 7 000 enfants est couvert par environ 8 RIVEs. Cette taille humaine est explicite et structurante ; elle conditionne la qualité, la gouvernance et le refus de la garderie géante.
+Une RIVE est une unité locale conçue pour environ 500 à 900 enfants. Un bassin n’est pas une RIVE : il s’agit d’un maillage de plusieurs RIVEs, dont le nombre dépend de la population du bassin. À simple titre d’illustration, un bassin de 7 000 enfants serait couvert par un maillage d’environ 8 RIVEs. Cette taille humaine est explicite et structurante ; elle conditionne la qualité, la gouvernance et le refus de la garderie géante.
 
 Chaque RIVE est organisée comme un campus-réseau local. Elle mobilise prioritairement les bâtiments existants : crèches, écoles, collèges, lycées, équipements sportifs, conservatoires, médiathèques, salles municipales, centres culturels, espaces naturels, centres de loisirs. L’objectif n’est pas de construire immédiatement de grands campus neufs ; il consiste à piloter plusieurs lieux comme une seule institution éducative locale.
 

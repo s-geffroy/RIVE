@@ -2,7 +2,7 @@
 
 ## 19.1 Récapitulatif des décisions
 
-Le projet retient les choix suivants. Le nom public est RIVE, sigle de Réseau Intégré de Vie Éducative. L’âge couvert s’étend de 3 mois à 18 ans, jusqu’au baccalauréat, dans les voies générale, technologique et professionnelle. La forme territoriale est celle d’un campus-réseau local, qui se déploie à l’échelle du bassin sous la forme d’un maillage. L’unité RIVE accueille 500 à 900 enfants. Le bassin compte environ 8 RIVEs pour 7 000 enfants. Le territoire de première implantation est une ville moyenne ou un périurbain mixte. La deuxième vague associe un bassin mixte et un quartier populaire. Les bâtiments existants sont mobilisés en priorité.
+Le projet retient les choix suivants. Le nom public est RIVE, sigle de Réseau Intégré de Vie Éducative. L’âge couvert s’étend de 3 mois à 18 ans, jusqu’au baccalauréat, dans les voies générale, technologique et professionnelle. La forme territoriale est celle d’un campus-réseau local, qui se déploie à l’échelle du bassin sous la forme d’un maillage. L’unité RIVE accueille 500 à 900 enfants. Le nombre de RIVEs d’un bassin dépend de la population de ce dernier (à titre d’illustration, un bassin de 7 000 enfants correspondrait à environ 8 RIVEs). Le territoire de première implantation est une ville moyenne ou un périurbain mixte. La deuxième vague associe un bassin mixte et un quartier populaire. Les bâtiments existants sont mobilisés en priorité.
 
 Les horaires fixent un accueil échelonné à partir de 07:30, un noyau éducatif de 09:00 à 17:00, et un créneau intégré de 17:00 à 19:00. Le créneau 17:00–19:00 accueille des parcours sérieux, mais rien d’essentiel n’y est exclusif. Le calendrier est propre : semaines allégées, été ramené à 5 ou 6 semaines. Les pauses éducatives maintiennent RIVE en mode centre de loisirs intégré.
 
@@ -34,7 +34,7 @@ Toute convention doit préciser : l’objectif, le public, les horaires, le lieu
 
 ## 19.5 Glossaire
 
-RIVE désigne le Réseau Intégré de Vie Éducative et, par extension, une unité locale couvrant 500 à 900 enfants. Le bassin est la zone géographique couverte par plusieurs RIVEs en maillage. Le maillage de bassin réunit environ 8 RIVEs pour 7 000 enfants.
+RIVE désigne le Réseau Intégré de Vie Éducative et, par extension, une unité locale couvrant 500 à 900 enfants. Le bassin est la zone géographique couverte par plusieurs RIVEs en maillage. La taille du maillage dépend de la population du bassin (à titre d’illustration, un bassin de 7 000 enfants correspondrait à environ 8 RIVEs).
 
 Le campus-réseau correspond à l’architecture locale multi-sites intégrée d’une RIVE. Les Maisons RIVE sont les sites ou unités d’âge à l’intérieur d’une RIVE. La Maison Nid accueille les 3 mois à 3 ans, la Maison Éveil les 3 à 6 ans, la Maison Fondations les 6 à 8 ans, la Maison Exploration les 8 à 11 ans, la Maison Adolescence les 11 à 16 ans, la Maison Horizon les 16 à 18 ans (lycée général, technologique, professionnel).
 

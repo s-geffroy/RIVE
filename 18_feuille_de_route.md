@@ -34,7 +34,7 @@ Elle ne doit être lancée que si la première implantation a produit des résul
 
 La troisième vague traduit opérationnellement la cible doctrinale : couverture totale d’un bassin par maillage.
 
-Sur le bassin de la première implantation, les 6 autres RIVEs sont ouvertes progressivement, pour atteindre les 8 RIVEs cibles (hypothèse d’un bassin d’environ 7 000 enfants). Le rythme attendu est de 1 à 2 RIVEs ouvertes par an.
+Sur le bassin de la première implantation, les RIVEs restantes du maillage sont ouvertes progressivement, jusqu’à la couverture complète du bassin. Le rythme attendu est de 1 à 2 RIVEs ouvertes par an. À titre d’ordre de grandeur, un bassin d’environ 7 000 enfants correspondrait à un maillage d’environ 8 RIVEs ; la première implantation ayant ouvert la RIVE pilote, il en resterait environ 6 ou 7 à déployer.
 
 Pendant cette troisième vague, les Pôles bassin se mettent en place : Pôle Lycée Bassin (voies technologique et professionnelle, ch. 6.7), Pôle Santé Bassin (médecin référent partagé), Pôle Cuisine Bassin (cuisine centrale partagée), Pôle SI Bassin. La gouvernance de bassin s’installe sous la forme d’une coordination légère entre les 8 directeurs généraux de RIVE et d’une instance politique de pilotage stratégique. Le véhicule juridique évolue, du véhicule pilote (groupement d’intérêt public ou établissement public expérimental) vers le véhicule définitif (établissement public créé par la loi, recommandé au ch. 22).
 

@@ -6,7 +6,7 @@ RIVE désigne le Réseau Intégré de Vie Éducative. Il s’agit d’un service
 
 **Unité.** Une RIVE accueille 500 à 900 enfants. Elle s’organise en 5 à 7 sites coordonnés et mobilise 130 à 180 équivalents temps plein. La taille humaine est tenue fermement. Au-delà, la qualité s’effondre.
 
-**Territoire.** Une RIVE forme un campus-réseau local. Un bassin, qui compte environ 7 000 enfants, est couvert par un maillage d’environ 8 RIVEs, articulé à des Pôles bassin mutualisés (Lycée, Santé, Cuisine, SI). L’instruction proposée porte d’abord sur une RIVE pilote. La cible visée est la couverture totale du bassin par maillage.
+**Territoire.** Une RIVE forme un campus-réseau local. Un bassin est couvert par un maillage de plusieurs RIVEs, dont le nombre dépend de la population du bassin (à titre d’illustration, un bassin de 7 000 enfants correspondrait à environ 8 RIVEs), articulé à des Pôles bassin mutualisés (Lycée, Santé, Cuisine, SI). L’instruction proposée porte d’abord sur une RIVE pilote. La cible visée est la couverture totale du bassin par maillage.
 
 **Journée.** L’accueil commence à 07:30, avec une plage échelonnée et un petit-déjeuner. Le noyau éducatif occupe la plage 09:00 à 17:00. Le créneau 17:00 à 19:00 prolonge la journée, en accueillant les parcours sérieux ou le départ. Aucun enfant, pris individuellement, ne dépasse 9 à 11 heures de présence selon son âge.
 

@@ -20,11 +20,11 @@ Le bassin recherché dispose de bâtiments publics existants, d’une diversité
 
 Une RIVE est une unité locale. Un bassin est une zone géographique couverte par un maillage de RIVEs.
 
-Pour fixer un ordre de grandeur, un bassin d’environ 7 000 enfants âgés de 3 mois à 18 ans correspond à une cible doctrinale d’environ 8 RIVEs. Cela représente une moyenne d’environ 875 enfants par RIVE en régime stabilisé.
+Le dimensionnement repose sur la taille humaine d’une RIVE (500 à 900 enfants). Le nombre de RIVEs nécessaires pour couvrir un bassin dépend donc directement de la population de ce dernier. À titre d’illustration, un bassin de 7 000 enfants âgés de 3 mois à 18 ans correspondrait à un maillage d’environ 8 RIVEs, soit une moyenne approximative de 875 enfants par RIVE.
 
 La taille maximale d’une RIVE est tenue fermement. Au-delà d’environ 900 enfants, une RIVE devient ingérable et la promesse de qualité, de stabilité des équipes et de connaissance individuelle s’effondre. Le seuil distingue précisément RIVE d’un grand établissement public unique.
 
-L’unité locale couvre 500 à 900 enfants sur un campus-réseau local. Le maillage de bassin assure la couverture territoriale totale par plusieurs RIVEs, à raison d’environ 1 RIVE pour 875 enfants.
+L’unité locale couvre 500 à 900 enfants sur un campus-réseau local. Le maillage de bassin assure la couverture territoriale totale par plusieurs RIVEs, dimensionnées sur la population locale.
 
 ## 4.4 Deuxième vague
 
@@ -38,6 +38,6 @@ L’hypothèse de montée en charge raisonnable est la suivante : 350 à 500 enf
 
 La couverture de tous les âges, de 3 mois jusqu’au lycée, doit être effective dès la première année, même si les groupes y sont réduits. Une ouverture immédiate à 900 enfants serait risquée. Les fonctions ressources humaines, mobilité, restauration, familles, système d’information et partenariats ne seraient pas assez éprouvées.
 
-Le passage du bassin entier au maillage de 8 RIVEs ne relève pas de la première implantation. Il constitue l’objectif de moyen terme, conditionné aux résultats du pilote et à la décision politique de portage. Les chapitres 18 (feuille de route) et 22 (portage juridique) précisent les conditions et le calendrier.
+Le passage du bassin entier au maillage complet ne relève pas de la première implantation. Il constitue l’objectif de moyen terme, conditionné aux résultats du pilote et à la décision politique de portage. Les chapitres 18 (feuille de route) et 22 (portage juridique) précisent les conditions et le calendrier.
 
 ---

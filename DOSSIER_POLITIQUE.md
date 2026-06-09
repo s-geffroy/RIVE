@@ -18,7 +18,7 @@ Cinq verrous d’intégration sont retenus. Une direction unique par RIVE, compl
 
 Une RIVE constitue une unité locale, accueillant 500 à 900 enfants sur 5 à 7 sites coordonnés. Les sites sont la Maison Nid pour la petite enfance, la Maison Éveil, la Maison Fondations, la Maison Exploration, la Maison Adolescence, la Maison Horizon pour le lycée, ainsi qu’un pôle central. La taille humaine est tenue fermement.
 
-Un bassin constitue un maillage de RIVEs. Un bassin d’environ 7 000 enfants est couvert par environ 8 RIVEs. Des Pôles bassin sont mutualisés.
+Un bassin constitue un maillage de RIVEs. Le nombre de RIVEs dépend de la population du bassin (à titre d’illustration, un bassin d’environ 7 000 enfants correspondrait à environ 8 RIVEs). Des Pôles bassin sont mutualisés.
 
 Le Pôle Lycée Bassin réunit les voies technologique et professionnelle, les plateaux techniques et les spécialités rares de la voie générale. Le Pôle Santé Bassin organise le médecin référent et les vacations spécialisées (orthophonie, psychomotricité, pédopsychiatrie). Le Pôle Cuisine Bassin met en place une cuisine centrale qualitative. Le Pôle SI Bassin opère le système d’information commun, à données compartimentées. Le Pôle Partenaires Bassin signe les conventions cadres avec les fédérations sportives, les conservatoires et les écoles d’art.
 
@@ -52,7 +52,7 @@ Les données sont minimisées, compartimentées, auditées. Sont interdits : tou
 
 Le coût moyen s’établit à 13 000 à 16 500 euros par enfant et par an dans une RIVE moyenne, soit environ +17 à +30 % par rapport au cumul actuel des dépenses publiques équivalentes. Le surcoût d’intégration est ventilé ligne par ligne (amplitude horaire, santé, inclusion, parcours, pauses, plateaux techniques, direction unifiée). Les sources, auditables, proviennent de la DEPP/RERS, de l’INSEE, de la CAF, du HCFEA et de la Cour des comptes ([chapitre 20.10](./20_references_publiques_a_verifier_avant_instruction.md) de l’index complet).
 
-Le budget annuel cible pour un maillage de bassin (environ 7 000 enfants) se situe entre 95 et 125 millions d’euros par an à régime stabilisé.
+À titre d’illustration, pour un maillage de bassin pris en référence (par exemple 7 000 enfants), le budget annuel cible se situe entre 95 et 125 millions d’euros par an à régime stabilisé.
 
 Les financeurs possibles sont l’État, les communes et intercommunalités, le département, la région, la CAF, l’ARS selon les volets, l’Europe (FSE+, FEDER), les familles via une tarification sociale limitée et un mécénat encadré sans accès à la gouvernance.
 
@@ -76,7 +76,7 @@ La chaîne juridique mobilise neuf instruments cumulatifs : loi de programmation
 
 ## 10. Trajectoire
 
-La phase 0 (3 à 6 mois) couvre la pré-instruction, le choix du territoire, l’identification des bâtiments, le tour de table des partenaires, le budget initial, les scénarios RH et la décision politique. La phase 1 (6 à 9 mois) couvre la conception opérationnelle. La phase 2 (environ 6 mois) couvre la pré-ouverture. La première vague (années 1 à 3) déploie la RIVE pilote, qui accueille 350 à 900 enfants en montée en charge progressive. La deuxième vague (années 4 à 6) ouvre un double pilote (bassin mixte et quartier populaire). La troisième vague (années 6 à 12) achève le maillage du bassin pilote (les 6 autres RIVEs sont ouvertes progressivement).
+La phase 0 (3 à 6 mois) couvre la pré-instruction, le choix du territoire, l’identification des bâtiments, le tour de table des partenaires, le budget initial, les scénarios RH et la décision politique. La phase 1 (6 à 9 mois) couvre la conception opérationnelle. La phase 2 (environ 6 mois) couvre la pré-ouverture. La première vague (années 1 à 3) déploie la RIVE pilote, qui accueille 350 à 900 enfants en montée en charge progressive. La deuxième vague (années 4 à 6) ouvre un double pilote (bassin mixte et quartier populaire). La troisième vague (années 6 à 12) achève le maillage du bassin pilote, en ouvrant progressivement les RIVEs restantes du maillage.
 
 L’horizon est trans-mandats : 10 à 15 ans. La survie politique de RIVE exige une stratégie trans-partisane explicite. Elle repose sur un portage par l’infra-politique (élus locaux dans la durée, directeurs généraux des services, préfet, recteur, conseil de bassin RIVE) et sur des verrous de réversibilité (engagements pluriannuels, investissements, compétences déléguées, communauté éducative mobilisée, évaluation indépendante publique).
 
@@ -88,7 +88,7 @@ Le risque d’institution totale (RIVE capte trop la vie de l’enfant) est trai
 
 RIVE n’est pas une promesse de réussir. C’est une proposition à tester, chiffrer, critiquer, corriger.
 
-Le projet exige une loi de programmation pour atteindre sa cible d’intégration. À défaut, la voie RIVE_lite reste plus modeste. Les ratios budgétaires sont sourcés, mais à actualiser sur la dernière édition des sources et à localiser sur le bassin réel en phase 0. L’inégalité d’accès aux parcours sérieux est réduite, non supprimée. La cible bassin (8 RIVEs) suppose 10 à 15 ans et donc une stratégie trans-mandats explicite.
+Le projet exige une loi de programmation pour atteindre sa cible d’intégration. À défaut, la voie RIVE_lite reste plus modeste. Les ratios budgétaires sont sourcés, mais à actualiser sur la dernière édition des sources et à localiser sur le bassin réel en phase 0. L’inégalité d’accès aux parcours sérieux est réduite, non supprimée. La cible bassin (maillage complet) suppose 10 à 15 ans et donc une stratégie trans-mandats explicite.
 
 L’[index complet](./00_index.md) instruit chacun de ces points en détail.
 

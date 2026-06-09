@@ -56,7 +56,7 @@ L’architecture est organisée en deux étages.
 
 La Maison Horizon est installée dans chaque RIVE. Elle assure l’orientation, le tronc commun lycée (humanités, sciences communes, éducation physique et sportive, langues, philosophie), le socle d’étude, le suivi de l’inclusion, la santé, la restauration et les parcours sport et culture intégrés. Elle porte la voie générale courante, avec les spécialités les plus demandées.
 
-Le Pôle Lycée Bassin opère au niveau du bassin (un Pôle pour environ 8 RIVEs). Il porte les spécialités rares de la voie générale (grec ancien, numérique et sciences informatiques de haut niveau, arts plastiques approfondis), l’intégralité de la voie technologique, l’intégralité de la voie professionnelle, les plateaux techniques, les ateliers et les partenariats avec les entreprises locales.
+Le Pôle Lycée Bassin opère au niveau du bassin (un Pôle pour l’ensemble des RIVEs du maillage). Il porte les spécialités rares de la voie générale (grec ancien, numérique et sciences informatiques de haut niveau, arts plastiques approfondis), l’intégralité de la voie technologique, l’intégralité de la voie professionnelle, les plateaux techniques, les ateliers et les partenariats avec les entreprises locales.
 
 Le lycéen reste rattaché à sa Maison Horizon, qui demeure sa RIVE de référence, pour son suivi institutionnel, sa restauration, sa santé, son inclusion et ses parcours sport et culture. Il se déplace, sur les créneaux pédagogiques concernés, vers le Pôle Lycée Bassin pour les enseignements spécialisés et les plateaux techniques. La mobilité est aménagée par RIVE (ch. 12).
 

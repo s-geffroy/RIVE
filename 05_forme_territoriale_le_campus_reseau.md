@@ -6,7 +6,7 @@ L’architecture RIVE comporte deux niveaux territoriaux distincts. Leur confusi
 
 Le niveau RIVE est celui d’une unité locale. Il s’agit d’un campus-réseau accueillant 500 à 900 enfants, organisé en plusieurs sites coordonnés. Le présent chapitre lui est consacré.
 
-Le niveau bassin est celui d’un maillage de plusieurs RIVEs. Il couvre la totalité d’un bassin de vie. Pour un bassin d’environ 7 000 enfants, le maillage comprend approximativement 8 RIVEs.
+Le niveau bassin est celui d’un maillage de plusieurs RIVEs. Il couvre la totalité d’un bassin de vie, et le nombre de RIVEs y dépend de la population du bassin. À titre d’illustration, un bassin d’environ 7 000 enfants correspondrait à un maillage d’environ 8 RIVEs.
 
 Une RIVE n’est pas un bassin ; un bassin n’est pas une RIVE. Le pilote instruit le niveau RIVE ; la cible de doctrine est la couverture du bassin par maillage (ch. 18 et 22).
 
