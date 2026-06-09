@@ -1,0 +1,19 @@
+title: RIVE, Blue Book
+description: Réseau Intégré de Vie Éducative. Document d'instruction politique.
+author: Sylvain Geffroy
+theme: jekyll-theme-cayman
+show_downloads: false
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - RIVE.code-workspace
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

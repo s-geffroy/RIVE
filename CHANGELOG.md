@@ -6,6 +6,11 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le pr
 
 ## [Unreleased]
 
+### Added
+
+- Publication du Blue Book via GitHub Pages : configuration Jekyll minimale (`_config.yml`, thème `jekyll-theme-cayman`). Site accessible à l'adresse https://s-geffroy.github.io/RIVE/.
+- Mise à jour du `.gitignore` pour ignorer les artefacts Jekyll (`_site/`, `.jekyll-cache/`, `.jekyll-metadata`, `Gemfile.lock`).
+
 ### Changed
 
 - Refonte intégrale de la rédaction du Blue Book pour atteindre une voix unifiée de note d'instruction (haut fonctionnaire), sans signaux IA : suppression des tirets cadratins, conversion des listes à puces et tables récapitulatives en prose, retrait des tics lexicaux récurrents.
