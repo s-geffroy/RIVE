@@ -1,12 +1,19 @@
 title: RIVE
 description: "Réseau Intégré de Vie Éducative.<br>Document d'instruction politique."
 author: Sylvain Geffroy
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_downloads: false
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CHANGELOG.md
 exclude:
   - RIVE.code-workspace
   - .DS_Store
