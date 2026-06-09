@@ -20,6 +20,6 @@ RIVE désigne le Réseau Intégré de Vie Éducative. Il s’agit d’un service
 
 **Évaluation indépendante.** Les indicateurs primaires couvrent la sécurité, le langage, la lecture, les mathématiques, la fatigue, le climat éducatif, les ressources humaines, l’inclusion, le coût, la satisfaction, la composition sociale (publiée annuellement), le décrochage post-16 ans et l’accès aux parcours sérieux par décile de revenu. Si l’écart à la composition sociale du bassin dépasse 15 %, une révision des règles d’accès est automatiquement déclenchée.
 
-**Trois entrées documentaires.** Le présent brief ; le dossier politique court (`DOSSIER_POLITIQUE.md`) ; le document complet en 28 chapitres (`00_index.md`).
+**Pour aller plus loin.** [Dossier politique court](./DOSSIER_POLITIQUE.md) ou [index complet](./00_index.md).
 
 **Statut.** Document d’instruction politique. Il n’engage que son auteur.

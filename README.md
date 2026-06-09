@@ -2,11 +2,10 @@
 
 Le présent dépôt contient le document RIVE (Réseau Intégré de Vie Éducative), découpé en chapitres au format Markdown.
 
-## Trois entrées selon le temps disponible
+## Lectures courtes
 
 - [**Brief exécutif**](./EXEC_BRIEF.md), lecture en 2 minutes, à destination du ministre, du président d’EPCI ou du décideur.
 - [**Dossier politique court**](./DOSSIER_POLITIQUE.md), lecture en 15 minutes, à destination du cabinet, du directeur général des services ou du chef de bureau.
-- [**Document complet**](./00_index.md), 28 chapitres, comme référence opérationnelle complète.
 
 ## Corps doctrinal
 

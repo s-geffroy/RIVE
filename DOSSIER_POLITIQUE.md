@@ -6,7 +6,7 @@ Le système éducatif français traite l’enfant en compartiments. La petite en
 
 Cet éclatement produit quatre effets mesurables. Une inégalité d’accès : les familles informées et disposant de temps compensent ; les autres décrochent. L’écart se creuse dès la petite enfance et culmine à l’orientation post-3e. Une charge invisible sur les familles : les parents sont les véritables coordinateurs de fait. Aucune institution ne porte la cohérence de la vie de l’enfant. Il faut un parent disponible pour orchestrer école, cantine, mercredi, vacances, conservatoire, club, santé, orthophoniste et le reste. Une perte de qualité : chaque institution optimise son fragment, sans souci des autres. L’enfant subit les transitions et la dispersion. Une inefficacité budgétaire : les acteurs se renvoient les coûts et personne n’investit dans la qualité d’ensemble.
 
-Ce diagnostic n’est pas idéologique. Il est partagé par la Cour des comptes, le CNESCO, France Stratégie, le HCFEA et l’OCDE. Les références sont précisées au ch. 20.10 du document complet.
+Ce diagnostic n’est pas idéologique. Il est partagé par la Cour des comptes, le CNESCO, France Stratégie, le HCFEA et l’OCDE. Les références sont précisées au [chapitre 20.10](./20_references_publiques_a_verifier_avant_instruction.md) de l’index complet.
 
 ## 2. La proposition
 
@@ -50,7 +50,7 @@ Les données sont minimisées, compartimentées, auditées. Sont interdits : tou
 
 ## 7. Budget et financement
 
-Le coût moyen s’établit à 13 000 à 16 500 euros par enfant et par an dans une RIVE moyenne, soit environ +17 à +30 % par rapport au cumul actuel des dépenses publiques équivalentes. Le surcoût d’intégration est ventilé ligne par ligne (amplitude horaire, santé, inclusion, parcours, pauses, plateaux techniques, direction unifiée). Les sources, auditables, proviennent de la DEPP/RERS, de l’INSEE, de la CAF, du HCFEA et de la Cour des comptes (ch. 20.10 du document complet).
+Le coût moyen s’établit à 13 000 à 16 500 euros par enfant et par an dans une RIVE moyenne, soit environ +17 à +30 % par rapport au cumul actuel des dépenses publiques équivalentes. Le surcoût d’intégration est ventilé ligne par ligne (amplitude horaire, santé, inclusion, parcours, pauses, plateaux techniques, direction unifiée). Les sources, auditables, proviennent de la DEPP/RERS, de l’INSEE, de la CAF, du HCFEA et de la Cour des comptes ([chapitre 20.10](./20_references_publiques_a_verifier_avant_instruction.md) de l’index complet).
 
 Le budget annuel cible pour un maillage de bassin (environ 7 000 enfants) se situe entre 95 et 125 millions d’euros par an à régime stabilisé.
 
@@ -90,7 +90,7 @@ RIVE n’est pas une promesse de réussir. C’est une proposition à tester, ch
 
 Le projet exige une loi de programmation pour atteindre sa cible d’intégration. À défaut, la voie RIVE_lite reste plus modeste. Les ratios budgétaires sont sourcés, mais à actualiser sur la dernière édition des sources et à localiser sur le bassin réel en phase 0. L’inégalité d’accès aux parcours sérieux est réduite, non supprimée. La cible bassin (8 RIVEs) suppose 10 à 15 ans et donc une stratégie trans-mandats explicite.
 
-Le document complet (`00_index.md`, 28 chapitres) instruit chacun de ces points en détail.
+L’[index complet](./00_index.md) instruit chacun de ces points en détail.
 
 ---
 

@@ -13,6 +13,19 @@
   align-items: center;
 }
 
+.project-name a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  line-height: 0;
+}
+
+.project-name a:hover,
+.project-name a:focus {
+  text-decoration: none;
+  opacity: 0.92;
+}
+
 .project-logo {
   width: 100%;
   max-width: 320px;
