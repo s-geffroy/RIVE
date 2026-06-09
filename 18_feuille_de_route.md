@@ -1,97 +1,69 @@
 # 18. Feuille de route
 
-## Phase 0 — Pré-instruction
+## 18.1 Phase 0 : pré-instruction
 
-Durée : 3 à 6 mois.
+La phase 0 dure 3 à 6 mois. Elle livre le choix de territoire, l’identification des bâtiments mobilisables, la cartographie des partenaires, le budget initial, l’analyse des risques juridiques, l’évaluation de l’acceptabilité locale, le scénario de ressources humaines et la décision politique.
 
-Livrables : territoire, bâtiments, partenaires, budget initial, risques juridiques, acceptabilité, scénario RH, décision politique.
+## 18.2 Phase 1 : conception opérationnelle
 
-## Phase 1 — Conception opérationnelle
+La phase 1 dure 6 à 9 mois. Elle livre l’organigramme, les fiches métiers, le planning enfant, le planning des ressources humaines, les conventions, le protocole de mobilité, le protocole de protection, un système d’information minimal, le budget localisé et le protocole d’évaluation.
 
-Durée : 6 à 9 mois.
+## 18.3 Phase 2 : pré-ouverture
 
-Livrables : organigramme, fiches métiers, planning enfant, planning RH, conventions, protocole mobilité, protocole protection, SI MVP, budget localisé, protocole évaluation.
+La phase 2 dure environ 6 mois. Elle comprend le recrutement de la direction, le recrutement des ressources humaines critiques, des travaux légers, la formation des équipes, le test du système d’information, la simulation de la mobilité, les essais de menus, la mise en relation avec les familles et les partenaires, puis un audit de décision.
 
-## Phase 2 — Pré-ouverture
+## 18.4 Phase 3 : année 1 de la RIVE pilote
 
-Durée : environ 6 mois.
+L’année 1 mobilise 350 à 500 enfants au sein d’une seule RIVE. Tous les âges, de 3 mois à 18 ans, sont couverts, avec des groupes réduits. L’objectif consiste à éprouver l’intégration réelle.
 
-Actions : recrutement direction, recrutement RH critique, travaux légers, formation, test SI, simulation mobilité, menus test, familles, partenaires, audit go/no-go.
+## 18.5 Phase 4 : année 2
 
-## Phase 3 — Année 1 (RIVE pilote)
+L’année 2 mobilise 550 à 700 enfants. Il s’agit d’une période de consolidation et d’élargissement.
 
-350 à 500 enfants dans une RIVE. Tous les âges couverts (3 mois – 18 ans), groupes réduits. Objectif : tester l’intégration réelle.
+## 18.6 Phase 5 : année 3
 
-## Phase 4 — Année 2
+L’année 3 mobilise 750 à 900 enfants. Une décision est prise au terme : poursuite, correction, réplication, arrêt.
 
-550 à 700 enfants. Consolidation et élargissement.
+## 18.7 Deuxième vague : double pilote (années 4 à 6 environ)
 
-## Phase 5 — Année 3
+La deuxième vague ouvre deux RIVEs supplémentaires : l’une sur un bassin mixte comparable à la première implantation, l’autre sur un quartier populaire.
 
-750 à 900 enfants. Décision : continuer, corriger, répliquer ou arrêter.
+Elle ne doit être lancée que si la première implantation a produit des résultats suffisamment solides et des corrections documentées. Elle teste la transférabilité de la doctrine, à petite échelle encore.
 
-## Vague 2 — Double pilote (années 4–6 environ)
+## 18.8 Troisième vague : maillage de bassin (années 6 à 12 environ)
 
-Deux RIVEs supplémentaires : une dans un bassin mixte comparable à la V1 ; une dans un quartier populaire.
+La troisième vague traduit opérationnellement la cible doctrinale : couverture totale d’un bassin par maillage.
 
-La Vague 2 ne doit commencer que si la V1 a produit des résultats suffisamment solides et des corrections documentées. Elle teste la **transférabilité** de la doctrine, mais reste à petite échelle.
+Sur le bassin de la première implantation, les 6 autres RIVEs sont ouvertes progressivement, pour atteindre les 8 RIVEs cibles (hypothèse d’un bassin d’environ 7 000 enfants). Le rythme attendu est de 1 à 2 RIVEs ouvertes par an.
 
-## Vague 3 — Maillage de bassin (années 6–12 environ)
+Pendant cette troisième vague, les Pôles bassin se mettent en place : Pôle Lycée Bassin (voies technologique et professionnelle, ch. 6.7), Pôle Santé Bassin (médecin référent partagé), Pôle Cuisine Bassin (cuisine centrale partagée), Pôle SI Bassin. La gouvernance de bassin s’installe sous la forme d’une coordination légère entre les 8 directeurs généraux de RIVE et d’une instance politique de pilotage stratégique. Le véhicule juridique évolue, du véhicule pilote (groupement d’intérêt public ou établissement public expérimental) vers le véhicule définitif (établissement public créé par la loi, recommandé au ch. 22).
 
-Vague 3 est la **traduction opérationnelle** de la cible doctrinale : couverture totale d’un bassin par maillage.
+La troisième vague est conditionnée à un audit positif de la deuxième vague, à un accord politique de niveau national, à une trajectoire budgétaire pluriannuelle votée (ch. 24) et à un accord consolidé avec l’Éducation nationale sur le statut des enseignants détachés (ch. 23).
 
-Sur le bassin de la V1, ouverture progressive des **6 autres RIVEs** pour atteindre les ≈ 8 RIVEs cibles (en supposant un bassin de ≈ 7 000 enfants). Le rythme attendu : 1 à 2 RIVEs ouvertes par an.
+## 18.9 Cible doctrinale à terme
 
-Pendant la Vague 3 se mettent en place :
+Une fois le bassin pilote couvert (troisième vague achevée), la doctrine est diffusée à d’autres bassins selon une logique d’adoption volontaire et conditionnée. Trois conditions doivent être réunies : l’initiative d’une collectivité ou d’un établissement public de coopération intercommunale candidat ; un cadre national stabilisé (établissement public créé par la loi) ; une évaluation comparative entre bassins.
 
-- **Les Pôles bassin** : Pôle Lycée Bassin (voies techno et pro, voir ch. 6.7), Pôle Santé Bassin (médecin référent partagé), Pôle Cuisine Bassin (cuisine centrale partagée), Pôle SI Bassin.
-- **La gouvernance bassin** : coordination légère des 8 DG de RIVE, instance politique de pilotage stratégique.
-- **Le véhicule juridique cible** : passage du véhicule pilote (GIP ou EP expérimental V1) au véhicule définitif (EP par la loi recommandé — voir ch. 22).
+Aucune ouverture nationale uniforme n’est dans la doctrine RIVE. La qualité dépend de la taille humaine de chaque unité et de l’ancrage local de chaque maillage.
 
-Vague 3 est conditionnée à : audit positif Vague 2, accord politique de niveau national, trajectoire budgétaire pluriannuelle votée (voir ch. 24), accord EN consolidé sur le statut des enseignants détachés (voir ch. 23).
+## 18.10 Horizon trans-mandats : posture stratégique
 
-## Cible doctrinale à terme
+L’horizon entre la phase 0 et le maillage complet d’un bassin s’étend sur 10 à 15 ans. Il dépasse structurellement la durée d’un mandat politique (5 ans pour le président de la République, 6 ans pour le maire, 5 ans pour le conseiller régional).
 
-Une fois le bassin V1 couvert (Vague 3 achevée), la doctrine est **diffusée** à d’autres bassins selon une logique d’adoption volontaire et conditionnée :
+Aucun élu ne porte personnellement un projet à 12 ans. La survie politique de RIVE exige donc une stratégie trans-mandats explicite.
 
-- Initiative d’une collectivité ou d’un EPCI candidat.
-- Cadre national stabilisé (EP par la loi).
-- Évaluation comparative entre bassins.
+### 18.10.1 Portage par l’infra-politique
 
-Aucune ouverture nationale uniforme n’est dans la doctrine RIVE — la qualité tient à la taille humaine de chaque unité et à l’ancrage local de chaque maillage.
+Plusieurs acteurs garantissent la continuité au-delà des alternances. Les élus locaux peuvent porter le projet dans la durée : un président d’intercommunalité ou un maire réélu peut le suivre sur 12 ans (deux mandats), à condition que la coalition locale tienne. Les hauts fonctionnaires territoriaux (directeurs généraux des services, directeurs généraux adjoints chargés de l’enfance et de l’éducation) restent souvent en poste plus longtemps que les élus et constituent les garants de la continuité. Le préfet, le recteur d’académie et le directeur de la caisse d’allocations familiales constituent des portages d’État relativement stables et transmissibles entre titulaires. Le conseil de bassin RIVE (instance citoyenne associant familles, équipes, partenaires) devient enfin progressivement le gardien du projet, au-delà des alternances.
 
-## Horizon trans-mandats : posture stratégique
+### 18.10.2 Verrous de réversibilité
 
-RIVE est un projet à horizon 10 à 15 ans entre la phase 0 et le maillage complet d’un bassin. Cet horizon **dépasse structurellement la durée d’un mandat politique** (5 ans pour le président, 6 ans pour le maire, 5 ans pour le conseiller régional).
+Plusieurs verrous rendent l’arrêt de RIVE coûteux politiquement, y compris pour un successeur hostile. Des engagements pluriannuels écrits figurent dans la convention constitutive du véhicule (ch. 22), pour des durées de 5 à 7 ans renouvelables. Des investissements bâtimentaires sont déjà réalisés et difficiles à revendre. Des compétences sont déléguées entre acteurs publics, ce qui rend les reprises unilatérales malaisées. Une communauté éducative (familles, équipes, partenaires) est mobilisée et constitue une force d’opposition à tout arrêt brutal. La publication annuelle d’une évaluation indépendante rend enfin l’arrêt sans justification publique coûteux pour le successeur.
 
-Aucun élu ne porte personnellement un projet à 12 ans. La survie politique de RIVE exige donc une **stratégie trans-mandats explicite** :
+### 18.10.3 Doctrine trans-partisane
 
-### Portage par l’infra-politique
+RIVE doit pouvoir être adopté par des coalitions de couleurs politiques différentes. Plusieurs conditions doivent en conséquence être tenues : éviter tout marqueur idéologique fort dans le nom et la communication ; rédiger une doctrine qui parle à la fois aux thèmes de gauche (égalité d’accès, service public fort, lutte contre la fragmentation) et aux thèmes de droite (qualité, autorité, ancrage territorial, lien parents-enfants protégé) ; choisir un véhicule juridique (ch. 22) qui ne soit pas associé à une seule famille politique ; appuyer la doctrine sur une évaluation indépendante (ch. 16) qui la protège des contestations partisanes.
 
-- **Élus locaux dans la durée** : un président d’EPCI ou un maire peut être réélu et porter le projet sur 12 ans (deux mandats), à condition que la coalition locale tienne.
-- **Hauts fonctionnaires territoriaux** : DGS et DGA enfance/éducation restent souvent en poste plus longtemps que les élus et sont les garants de la continuité.
-- **Préfet, recteur d’académie, directeur CAF** : portages d’État relativement stables, transmissibles entre titulaires.
-- **Conseil de bassin RIVE** : instance citoyenne (familles, équipes, partenaires) qui devient progressivement le gardien du projet, au-delà des alternances.
-
-### Verrous de réversibilité
-
-Le Blue Book doit prévoir des **verrous** qui rendent l’arrêt de RIVE coûteux politiquement, même pour un successeur hostile :
-
-- **Engagements pluriannuels écrits** dans la convention constitutive du véhicule (ch. 22), 5 à 7 ans renouvelables.
-- **Investissements bâtimentaires** déjà réalisés et difficiles à revendre.
-- **Compétences déléguées** entre acteurs publics, difficile à reprendre unilatéralement.
-- **Communauté éducative** mobilisée (familles, équipes, partenaires) qui devient une force d’opposition à tout arrêt brutal.
-- **Publication annuelle d’une évaluation indépendante** qui rend l’arrêt sans justification coûteux pour le successeur.
-
-### Doctrine trans-partisane
-
-RIVE doit être conçu pour être **adopté par des coalitions de couleurs politiques différentes**. Cela suppose :
-
-- Pas de marqueur idéologique fort dans le nom et la communication.
-- Une doctrine qui parle à la fois aux thèmes de gauche (égalité d’accès, service public fort, lutte contre la fragmentation) et aux thèmes de droite (qualité, autorité, ancrage territorial, lien parents-enfants protégé).
-- Un véhicule juridique (ch. 22) qui n’est pas associé à une seule famille politique.
-- Une évaluation indépendante (ch. 16) qui protège la doctrine des contestations partisanes.
-
-L’honnêteté : si la stratégie trans-mandats échoue, RIVE risque l’abandon ou le démantèlement à mi-parcours. C’est l’un des risques majeurs (ch. 17.9).
+Il faut le reconnaître : si la stratégie trans-mandats échoue, RIVE risque l’abandon ou le démantèlement à mi-parcours. Le risque est l’un des plus structurants (ch. 17.9).
 
 ---

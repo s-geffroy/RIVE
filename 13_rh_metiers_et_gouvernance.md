@@ -2,67 +2,50 @@
 
 ## 13.1 Direction
 
-Une RIVE doit avoir un **directeur général de RIVE**. Il n’est pas un coordinateur symbolique. Il porte l’arbitrage réel.
+Chaque RIVE est dirigée par un directeur général. Il n’est pas un coordinateur symbolique : il porte l’arbitrage réel.
 
-Autour de lui : direction petite enfance (3 mois–3 ans), direction 3–11 ans, direction 11–16 ans, **direction Maison Horizon 16–18 ans** (tronc commun lycée + voie générale courante), responsable sport/culture/clubs, responsable santé/inclusion/protection, responsable familles, responsable mobilité, responsable restauration, responsable SI/données/IA, responsable pauses éducatives, responsable budget/partenariats.
+Sa direction s’appuie sur plusieurs responsables fonctionnels. Une direction est dédiée à la petite enfance (3 mois à 3 ans), une autre aux 3 à 11 ans, une autre aux 11 à 16 ans. Une direction Maison Horizon couvre les 16 à 18 ans (tronc commun lycée et voie générale courante). Sept autres responsables complètent l’équipe : sport, culture et clubs ; santé, inclusion et protection ; familles ; mobilité ; restauration ; système d’information, données et intelligence artificielle ; pauses éducatives ; budget et partenariats.
 
-Au niveau bassin, plusieurs **Pôles bassin** complètent l’architecture sans déposséder les DG de leur autorité opérationnelle :
+Au niveau du bassin, plusieurs Pôles complètent l’architecture sans déposséder les directeurs généraux de leur autorité opérationnelle. Le Pôle Lycée Bassin a sa propre direction et porte les voies technologique et professionnelle ainsi que les spécialités rares (environ un directeur lycée bassin pour 8 RIVEs, voir ch. 6.7). Le Pôle Santé Bassin est conduit par un médecin référent de bassin. Le Pôle SI Bassin par un responsable SI mutualisé. Le Pôle Cuisine Bassin par un responsable restauration mutualisé.
 
-- **Pôle Lycée Bassin** : direction propre, portant voies technologique et professionnelle + spécialités rares (≈ 1 directeur lycée bassin pour ≈ 8 RIVEs, voir ch. 6.7).
-- **Pôle Santé Bassin** : médecin référent bassin.
-- **Pôle SI Bassin** : responsable SI mutualisé.
-- **Pôle Cuisine Bassin** : responsable restauration mutualisé.
-
-Une **coordination de bassin** légère (et non une hyperstructure) assure la cohérence entre les DG de RIVE et les directions de Pôle bassin. Voir ch. 22 (portage juridique) pour le véhicule.
+Une coordination de bassin légère, et non une hyperstructure, assure la cohérence entre les directeurs généraux de RIVE et les directions de Pôles bassin. Le ch. 22, consacré au portage juridique, précise le véhicule pertinent.
 
 ## 13.2 Métiers essentiels
 
-RIVE repose sur des enseignants (primaire, collège, lycée G/T/P), éducateurs petite enfance, éducateurs sportifs, artistes/intervenants, musiciens diplômés conservatoire, comédiens/metteurs en scène, référents de maison, agents de vie éducative, infirmières scolaires, médecins référents, psychologues, psychomotriciens / orthophonistes (vacations), référents inclusion, AESH, cuisiniers, logisticiens, responsables SI, personnels administratifs, **enseignants de plateaux techniques pour les voies pro/techno**.
+RIVE repose sur une grande diversité de métiers : enseignants (primaire, collège, lycée général, technologique, professionnel), éducateurs petite enfance, éducateurs sportifs, artistes intervenants, musiciens diplômés du conservatoire, comédiens et metteurs en scène, référents de Maison, agents de vie éducative, infirmières scolaires, médecins référents, psychologues, psychomotriciens, orthophonistes (vacations), référents inclusion, accompagnants d’élèves en situation de handicap, cuisiniers, logisticiens, responsables SI, personnels administratifs, enseignants des plateaux techniques des voies professionnelle et technologique.
 
-Le métier le plus fragile est probablement celui d’agent de vie éducative. S’il est mal défini, mal payé ou mal formé, RIVE deviendra une garderie améliorée. Ce métier doit être professionnalisé : convention propre, formation initiale et continue, perspective de carrière, salaire au-dessus du SMIC, ratio adulte/enfant garanti.
+Le métier le plus fragile, à ce stade, demeure probablement celui d’agent de vie éducative. Mal défini, mal rémunéré ou mal formé, il ferait de RIVE une garderie améliorée. Il doit donc être professionnalisé : convention propre, formation initiale et continue, perspective de carrière, salaire au-dessus du SMIC, ratio adulte-enfant garanti.
 
-Le statut des enseignants détermine la viabilité juridique du projet : détachement, mise à disposition, recrutement contractuel sur statut RIVE propre — voir ch. 23 (articulation EN).
+Le statut des enseignants détermine la viabilité juridique de l’ensemble : détachement, mise à disposition, ou recrutement contractuel sur un statut RIVE propre. Le ch. 23 (articulation avec l’Éducation nationale) en traite.
 
 ## 13.3 Culture commune
 
-Tous les adultes doivent être formés à la protection de l’enfance, aux droits de l’enfant, aux rythmes et à la fatigue, à l’inclusion, à la mobilité, aux données, à la posture éducative, à la coopération intermétiers, à la non-humiliation et à la gestion de crise.
+Tous les adultes doivent être formés à la protection de l’enfance, aux droits de l’enfant, aux rythmes et à la fatigue, à l’inclusion, à la mobilité, aux données, à la posture éducative, à la coopération entre métiers, à la non-humiliation et à la gestion de crise.
 
 ## 13.4 Partenaires
 
-Les partenaires sportifs, culturels ou associatifs interviennent dans RIVE, mais ne pilotent pas la doctrine. Toute intervention doit être conventionnée : objectifs, qualifications, assurance, sécurité, protection, données, inclusion, coût, évaluation et sortie du partenariat.
+Les partenaires sportifs, culturels ou associatifs interviennent dans RIVE, mais ne pilotent pas la doctrine. Toute intervention doit faire l’objet d’une convention précise : objectifs, qualifications, assurance, sécurité, protection, données, inclusion, coût, évaluation, sortie du partenariat.
 
-## 13.5 Conditions de travail des agents — amplitude 07:30–19:00
+## 13.5 Conditions de travail des agents (amplitude 07:30–19:00)
 
-L’amplitude institutionnelle 07:30–19:00 ne peut être tenue que si les conditions de travail des agents sont conçues en cohérence. Aucun agent ne fait 11,5 h par jour. Le bon principe : **roulement par équipe et plages de poste distinctes**.
+L’amplitude institutionnelle 07:30–19:00 ne peut être tenue que si les conditions de travail des agents sont conçues en cohérence. Aucun agent ne fait 11,5 heures par jour. Le bon principe repose sur le roulement par équipe et l’organisation de plages de poste distinctes.
 
 ### 13.5.1 Trois plages de poste
 
-| Plage | Horaires type | Profils concernés |
-|---|---|---|
-| Matin élargi | 07:00–15:00 | équipe d’accueil échelonné, petit-déjeuner, encadrement matinal, agents de vie éducative tôt |
-| Journée complète | 09:00–17:00 | équipe pédagogique noyau (enseignants, éducateurs, intervenants spécialisés) |
-| Après-midi élargi | 11:00–19:00 ou 12:00–19:00 | équipe d’encadrement créneau 17:00–19:00, intervenants parcours sérieux, agents de vie éducative tardive |
+Une plage de matin élargi, de 07:00 à 15:00, mobilise l’équipe d’accueil échelonné, le service de petit-déjeuner, l’encadrement matinal et les agents de vie éducative du matin. Une plage de journée complète, de 09:00 à 17:00, mobilise l’équipe pédagogique du noyau (enseignants, éducateurs, intervenants spécialisés). Une plage d’après-midi élargi, de 11:00 à 19:00 ou de 12:00 à 19:00, mobilise l’équipe d’encadrement du créneau 17:00–19:00, les intervenants des parcours sérieux et les agents de vie éducative tardive.
 
-L’architecture des plages est définie par le règlement intérieur RIVE et négociée avec les organisations représentatives des personnels lors de la création du véhicule.
+L’architecture des plages est définie par le règlement intérieur de RIVE. Elle est négociée avec les organisations représentatives des personnels lors de la création du véhicule.
 
 ### 13.5.2 Compensations et reconnaissances
 
-Les agents en plage matinale ou tardive bénéficient :
-
-- D’une **indemnité de plage** explicite (ordre de grandeur : +5 à +10 % du salaire de base).
-- D’une **priorité d’aménagement** familial (en cas d’enfants en bas âge, plage choisie en concertation).
-- D’une **rotation programmée** : aucun agent n’est durablement bloqué sur la plage la plus pénible.
-- D’une **équivalence temps de transport** prise en compte (en particulier pour le 07:00, certains transports en commun ne sont pas opérationnels).
+Les agents en plage matinale ou tardive bénéficient d’une indemnité de plage explicite, d’un ordre de grandeur de 5 à 10 % du salaire de base. Ils bénéficient d’une priorité d’aménagement familial (en cas d’enfants en bas âge, la plage est choisie en concertation). Une rotation programmée est mise en place : aucun agent n’est durablement bloqué sur la plage la plus pénible. Le temps de transport est pris en compte, notamment pour la plage 07:00, certains transports en commun n’étant pas opérationnels à cette heure.
 
 ### 13.5.3 Le métier d’agent de vie éducative
 
-C’est le métier qui porte le plus la plage matinale et la plage tardive. C’est aussi le métier le plus fragile aujourd’hui (rappel ch. 13.2). RIVE doit :
+C’est le métier qui porte le plus la plage matinale et la plage tardive. C’est aussi, à ce jour, le plus fragile (ch. 13.2). Quatre conditions doivent être tenues simultanément.
 
-- Le **statutariser** : convention collective propre (à la création) ou intégration à une grille de la fonction publique territoriale.
-- Le **former** : formation initiale en alternance, formation continue obligatoire.
-- Le **payer** : salaire au-dessus du SMIC, primes plages, perspectives de carrière (mobilité interne vers d’autres métiers RIVE après expérience).
-- Le **respecter** : participation aux décisions pédagogiques, voix consultative dans la gouvernance, reconnaissance professionnelle publique.
+La première est la statutarisation : une convention collective propre, créée à la mise en place, ou une intégration à une grille de la fonction publique territoriale. La deuxième est la formation : formation initiale en alternance, formation continue obligatoire. La troisième est la rémunération : salaire au-dessus du SMIC, primes de plage, perspectives de carrière, dont la mobilité interne vers d’autres métiers RIVE après expérience. La quatrième est le respect professionnel : participation aux décisions pédagogiques, voix consultative dans la gouvernance, reconnaissance publique du métier.
 
-Sans ces quatre éléments, l’amplitude 07:30–19:00 devient une promesse intenable.
+À défaut de ces quatre éléments, l’amplitude 07:30–19:00 devient une promesse intenable.
 
 ---

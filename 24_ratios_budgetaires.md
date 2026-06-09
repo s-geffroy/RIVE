@@ -1,183 +1,139 @@
 # 24. Ratios budgétaires
 
-## 24.1 Pourquoi ce chapitre
+## 24.1 Objet du chapitre
 
-Le ch. 15 pose la doctrine financière : RIVE doit être *meilleur, plus cohérent, plus égalitaire et mesurable*, sans prétendre être moins cher au démarrage. Ce chapitre traduit cette doctrine en **ordres de grandeur exploitables** : €/enfant/an par tranche d’âge × bloc de coût, ETP/enfant, m²/enfant, comparatif au stack actuel.
+Le ch. 15 pose la doctrine financière : RIVE doit être meilleur, plus cohérent, plus égalitaire et mesurable, sans prétendre être moins coûteux au démarrage. Le présent chapitre traduit cette doctrine en ordres de grandeur exploitables : euros par enfant et par an par tranche d’âge, équivalents temps plein par enfant, mètres carrés par enfant, comparatif au cumul actuel des dépenses publiques équivalentes.
 
-Les chiffres ci-dessous sont des **ratios de cadrage**, ni un budget territorialisé (cela suppose un bassin réel), ni des engagements. Ils sont conçus pour qu’un DGS de collectivité ou un chef de bureau ministériel puisse en faire quelque chose. Les sources publiques mobilisables sont listées au ch. 20 (§ 20.10).
+Les chiffres ci-dessous sont des ratios de cadrage. Ils ne constituent ni un budget territorialisé (cela suppose un bassin réel), ni des engagements. Ils sont conçus pour qu’un directeur général des services d’une collectivité ou un chef de bureau ministériel puisse les exploiter. Les sources publiques mobilisables sont listées au ch. 20 (§ 20.10).
 
-> **Note sur les sources.** Chaque ratio ci-dessous porte une référence courte entre crochets renvoyant à une source du ch. 20.10. Tous les ordres de grandeur sont à actualiser annuellement à partir des publications officielles (DEPP/RERS, INSEE, CAF, HCFEA, Cour des Comptes, OCDE). Les chiffres présentés correspondent à des données 2022–2023 quand elles étaient disponibles au moment de la rédaction. **Aucun de ces chiffres ne dispense d’une localisation territoriale réelle en phase 0.**
+Chaque ratio porte une référence courte, entre crochets, qui renvoie à une source du ch. 20.10. Tous les ordres de grandeur doivent être actualisés annuellement à partir des publications officielles (DEPP/RERS, INSEE, CAF, HCFEA, Cour des comptes, OCDE). Les chiffres présentés correspondent à des données 2022-2023 disponibles au moment de la rédaction. Aucun de ces chiffres ne dispense d’une localisation territoriale réelle en phase 0.
 
-## 24.2 Repères du système actuel (ordres de grandeur en €/enfant/an)
+## 24.2 Repères du système actuel
 
-Les références entre crochets renvoient au ch. 20.10. **Tous les chiffres ci-dessous sont à actualiser** à partir des dernières éditions des sources citées au moment de l’instruction du dossier réel.
+Les coûts annuels par enfant à la charge des acteurs publics, dans le système actuel, se présentent comme suit. Une crèche publique (3 mois à 3 ans), en coût total acteurs publics par place, mobilise de l’ordre de 14 000 à 18 000 euros par an [REF-4, REF-5]. L’école maternelle (3 à 6 ans), État et commune cumulés, mobilise de 7 000 à 9 000 euros par enfant et par an [REF-1, tableau 7.06]. L’élémentaire (6 à 11 ans), État et commune, mobilise de 7 000 à 8 500 euros [REF-1, tableau 7.06]. Le collège (11 à 15 ans), État et département, mobilise de 10 000 à 11 500 euros [REF-1, tableau 7.06]. Le lycée général et technologique (15 à 18 ans), État et région, mobilise de 12 000 à 13 500 euros [REF-1, tableau 7.06]. Le lycée professionnel (15 à 18 ans), État et région, mobilise de 14 000 à 15 500 euros [REF-1, tableau 7.06]. Le périscolaire et l’accueil de loisirs (mercredi, vacances) ajoutent de 1 500 à 3 500 euros [REF-7, REF-8]. La restauration scolaire, après prise en compte du tarif famille, mobilise un reste à charge collectivité de 800 à 1 500 euros [REF-15]. La médecine scolaire ne mobilise que 50 à 80 euros [REF-9]. Les accompagnants d’élèves en situation de handicap mobilisent 12 000 à 18 000 euros par enfant accompagné [REF-10]. Le conservatoire ou le club sportif, par enfant pratiquant, mobilise une subvention publique de 1 000 à 4 000 euros [REF-21, REF-22].
 
-| Fonction actuelle | Coût annuel par enfant (ordre de grandeur) | Référence |
-|---|---:|:-:|
-| Crèche publique (3 mois–3 ans), coût total acteurs publics par place | 14 000–18 000 | [REF-4], [REF-5] |
-| Maternelle (3–6 ans), État + commune | 7 000–9 000 | [REF-1] tab. 7.06 |
-| Élémentaire (6–11 ans), État + commune | 7 000–8 500 | [REF-1] tab. 7.06 |
-| Collège (11–15 ans), État + département | 10 000–11 500 | [REF-1] tab. 7.06 |
-| Lycée général et technologique (15–18 ans), État + région | 12 000–13 500 | [REF-1] tab. 7.06 |
-| Lycée professionnel (15–18 ans), État + région | 14 000–15 500 | [REF-1] tab. 7.06 |
-| Périscolaire et accueil de loisirs (mercredi, vacances) | 1 500–3 500 | [REF-7], [REF-8] |
-| Restauration scolaire (reste à charge collectivité après tarif famille) | 800–1 500 | [REF-15] |
-| Médecine scolaire | 50–80 | [REF-9] |
-| AESH (rapporté à un élève notifié MDPH) | 12 000–18 000 par enfant accompagné | [REF-10] |
-| Conservatoire / club sportif par enfant pratiquant (subvention publique) | 1 000–4 000 | [REF-21], [REF-22] |
+Au total, et selon l’âge, l’enfant français moyen mobilise donc 8 000 à 20 000 euros par an de dépense publique éducative, sans compter les coûts internes des familles. Les enfants notifiés MDPH (environ 4 % des effectifs scolaires, source [REF-10]) mobilisent un budget supplémentaire significatif au titre de l’accompagnement.
 
-L’enfant français moyen mobilise donc, toutes lignes additionnées et selon l’âge, **8 000 à 20 000 € par an** de dépense publique éducative — sans compter les coûts internes des familles. Les enfants notifiés MDPH (≈ 4 % des effectifs scolaires, source [REF-10]) mobilisent un budget supplémentaire AESH significatif.
+## 24.3 Ratios cibles RIVE par tranche d’âge
 
-## 24.3 Ratios cibles RIVE (par tranche d’âge)
+La méthode retenue est la suivante : on part du coût actuel par niveau (§ 24.2) auquel on applique le surcoût d’intégration ventilé (§ 24.4). Le surcoût global s’établit entre +17 % et +30 % selon la tranche d’âge, justifié ligne par ligne plutôt qu’en pourcentage global. L’audit budgétaire localisé en phase 0 demeure indispensable.
 
-Méthode : repère du coût actuel par niveau (§ 24.2) + surcoût d’intégration ventilé (§ 24.3 bis). Le surcoût global s’établit entre +17 % et +30 % selon la tranche d’âge, justifié ligne par ligne plutôt qu’en pourcentage global. À valider par audit budgétaire localisé en phase 0.
+Pour la Maison Nid (3 mois à 3 ans), à un coût actuel de 14 000 à 18 000 euros, s’ajoute un surcoût de 15 à 20 %. La fourchette RIVE s’établit à 16 000 à 22 000 euros [REF-4, REF-5].
 
-### 24.3 bis Surcoût d’intégration ventilé
+Pour la Maison Éveil (3 à 6 ans), à un coût actuel de 8 500 à 11 000 euros, s’ajoute un surcoût de 20 à 25 %. La fourchette RIVE s’établit à 10 000 à 13 500 euros [REF-1].
 
-Le surcoût RIVE par rapport au cumul actuel des dépenses publiques équivalentes se ventile ainsi :
+Pour la Maison Fondations (6 à 8 ans), à un coût actuel de 8 500 à 10 500 euros, s’ajoute un surcoût de 20 à 25 %. La fourchette RIVE s’établit à 10 000 à 12 500 euros [REF-1].
 
-| Composante du surcoût | % cumulé approximatif | Justification |
-|---|:-:|---|
-| Amplitude horaire 07:30–19:00 (vs amplitude actuelle école + ALSH 08:00–18:00) | +5 à +8 % | Plage horaire +1 à +2 h par jour, encadrement renforcé matin et soir, petit-déjeuner. Référence : coût ALSH allongée [REF-7]. |
-| Cellule santé intégrée (vs médecine scolaire actuelle) | +2 à +4 % | Cour des Comptes [REF-9] : la médecine scolaire actuelle est très sous-dotée (≈ 50–80 €/élève/an). Cellule santé RIVE (infirmerie présente, médecin référent, psychologue, vacations) ≈ 200–400 €/enfant/an. |
-| Inclusion étendue (AESH mutualisés, UPE2A, lien MDPH dans RIVE) | +3 à +5 % | Refonte PIAL + AESH mutualisés à l’échelle RIVE (réforme statutaire requise). Hypothèse : passage du modèle individuel coûteux et inégalitaire à un modèle mutualisé de qualité équivalente [REF-10]. |
-| Parcours sport/culture hébergés (conservatoire, clubs, théâtre intégrés) | +3 à +5 % | Subventions publiques cumulées aux conservatoires + clubs ≈ 200–800 €/enfant pratiquant. Intégration dans RIVE = ≈ 400–1 000 €/enfant en accès garanti. |
-| Pauses éducatives renforcées (vs ALSH vacances actuel) | +2 à +4 % | Activités plus riches, séjours intégrés, ratio adulte/enfant supérieur. |
-| Pôle Lycée Bassin (techno/pro mutualisé, plateaux techniques) | +1 à +3 % du budget moyen RIVE | Plateaux techniques lycée pro = poste lourd, mais l’absorber depuis l’EN n’ajoute pas grand chose au coût bassin total. |
-| Direction unifiée + SI commun + évaluation indépendante | +1 à +2 % | Coûts structurels nouveaux (DG, équipe SI, marché d’évaluation publique). |
-| **Total surcoût intégration** | **+17 à +30 %** | Selon tranche et selon ambitions locales. |
+Pour la Maison Exploration (8 à 11 ans), à un coût actuel de 9 500 à 11 500 euros, s’ajoute un surcoût de 20 à 25 %. La fourchette RIVE s’établit à 11 000 à 13 500 euros [REF-1].
 
-Sources : [REF-1], [REF-4], [REF-5], [REF-7], [REF-9], [REF-10], [REF-15], [REF-21] (voir ch. 20.10).
+Pour la Maison Adolescence I (11 à 14 ans), à un coût actuel de 11 000 à 13 000 euros, s’ajoute un surcoût de 20 à 25 %. La fourchette RIVE s’établit à 13 000 à 15 500 euros [REF-1].
 
-| Tranche | Coût actuel acteurs publics | Surcoût RIVE | Fourchette RIVE €/enfant/an | Réf. |
-|---|---:|:-:|---:|:-:|
-| 3 mois–3 ans (Maison Nid) | 14 000–18 000 | +15–20 % | 16 000–22 000 | [REF-4][REF-5] |
-| 3–6 ans (Maison Éveil) | 8 500–11 000 | +20–25 % | 10 000–13 500 | [REF-1] |
-| 6–8 ans (Maison Fondations) | 8 500–10 500 | +20–25 % | 10 000–12 500 | [REF-1] |
-| 8–11 ans (Maison Exploration) | 9 500–11 500 | +20–25 % | 11 000–13 500 | [REF-1] |
-| 11–14 ans (Maison Adolescence I) | 11 000–13 000 | +20–25 % | 13 000–15 500 | [REF-1] |
-| 14–16 ans (Maison Adolescence II) | 12 000–14 500 | +15–25 % | 14 000–17 000 | [REF-1] |
-| 16–18 ans (Maison Horizon, voie générale courante) | 12 500–14 500 | +15–20 % | 14 500–17 500 | [REF-1] |
-| Pôle Lycée Bassin, voie générale spécialités rares | 13 500–15 500 | +15 % | 15 500–18 000 | [REF-1] |
-| Pôle Lycée Bassin, voie technologique | 13 500–15 500 | +15–20 % | 15 500–18 500 | [REF-1] |
-| Pôle Lycée Bassin, voie professionnelle | 15 000–18 000 | +15–20 % | 17 000–21 000 | [REF-1] |
-| **Moyenne pondérée RIVE** | — | — | **≈ 13 000–16 500** | — |
+Pour la Maison Adolescence II (14 à 16 ans), à un coût actuel de 12 000 à 14 500 euros, s’ajoute un surcoût de 15 à 25 %. La fourchette RIVE s’établit à 14 000 à 17 000 euros [REF-1].
 
-Sources principales : [REF-1] DEPP/RERS pour le coût actuel par niveau ; [REF-4][REF-5] HCFEA et CNAF pour la petite enfance ; [REF-7][REF-15] Cour des Comptes pour le périscolaire et la restauration (voir ch. 20.10).
+Pour la Maison Horizon en voie générale courante (16 à 18 ans), à un coût actuel de 12 500 à 14 500 euros, s’ajoute un surcoût de 15 à 20 %. La fourchette RIVE s’établit à 14 500 à 17 500 euros [REF-1].
 
-Ces ratios incluent l’intégralité de la chaîne (instruction + restauration + sport + culture + santé + inclusion + pauses éducatives + petit-déjeuner + 07:30–19:00), ce que le système actuel ne fait pas dans une seule ligne.
+Pour le Pôle Lycée Bassin en voie générale, spécialités rares, à un coût actuel de 13 500 à 15 500 euros, s’ajoute un surcoût de 15 %. La fourchette RIVE s’établit à 15 500 à 18 000 euros [REF-1].
 
-## 24.4 Décomposition par bloc (en % du coût total RIVE)
+Pour le Pôle Lycée Bassin en voie technologique, à un coût actuel de 13 500 à 15 500 euros, s’ajoute un surcoût de 15 à 20 %. La fourchette RIVE s’établit à 15 500 à 18 500 euros [REF-1].
 
-Référence comparative : DEPP/RERS indique que la masse salariale enseignante représente ≈ 70 % du coût d’un EPLE secondaire et ≈ 75 % du primaire. RIVE est plus diversifié en métiers (vie éducative, santé, culture, sport) mais reste à forte intensité humaine.
+Pour le Pôle Lycée Bassin en voie professionnelle, à un coût actuel de 15 000 à 18 000 euros, s’ajoute un surcoût de 15 à 20 %. La fourchette RIVE s’établit à 17 000 à 21 000 euros [REF-1].
 
-| Bloc | Part cible | Référence comparative |
-|---|:-:|---|
-| RH totale (enseignants, éducateurs, vie éducative, santé, culture, sport, encadrement) | 58–63 % | [REF-1] EPLE ≈ 70 % ; [REF-5] crèches PSU ≈ 75 % ; [REF-7] ALSH ≈ 60 % |
-| Bâtiments (entretien, énergie, fluides ; foncier supposé existant) | 8–10 % | [REF-22] OFGL |
-| Restauration (achats, cuisine, personnels) | 7–9 % | [REF-15] |
-| Sport, culture, parcours (matériel, intervenants partenaires) | 5–7 % | [REF-21], [REF-22] |
-| Pauses éducatives (séjours, stages, déplacements) | 3–5 % | [REF-5], [REF-8] |
-| Mobilité (navettes, encadrement trajets) | 2–3 % | [REF-22] |
-| Santé / inclusion (vacations, AESH mutualisés, matériel) | 3–5 % | [REF-9], [REF-10] |
-| SI, données, LLM | 1–2 % | Standard ETI publique |
-| Formation continue (≥ 5 % de la masse salariale, soit ≥ 3 % du budget) | 2–3 % | [REF-19] OCDE |
-| Évaluation indépendante | 0,5–1 % | Standard évaluation publique |
-| Fonds d’égalité (tarification sociale, accès sans frein, séjours longs) | 3–5 % | Voir § 24.4 bis |
-| Assurance, contingence, divers | 2–3 % | — |
+La moyenne pondérée RIVE s’établit donc à environ 13 000 à 16 500 euros par enfant et par an.
 
-La part RH est explicite et non négociable. Une part RH inférieure à 55 % serait un signal d’alerte (sous-investissement, dérive vers garderie sophistiquée).
+Sources principales : [REF-1] DEPP/RERS pour le coût actuel par niveau ; [REF-4, REF-5] HCFEA et CNAF pour la petite enfance ; [REF-7, REF-15] Cour des comptes pour le périscolaire et la restauration (ch. 20.10).
 
-### 24.4 bis Fonds d’égalité — justification du dimensionnement
+Ces ratios incluent l’intégralité de la chaîne : instruction, restauration, sport, culture, santé, inclusion, pauses éducatives, petit-déjeuner, amplitude 07:30–19:00. Le système actuel n’atteint cet ensemble dans aucune ligne unique.
 
-Le fonds d’égalité a été revu à la hausse (3–5 %, contre 1–2 % en v1.1) après audit de cohérence. Justification :
+## 24.4 Surcoût d’intégration ventilé
 
-- Sur 7 000 enfants d’un bassin (cible maillage), environ **20 % vivent sous le seuil de pauvreté** ([REF-16][REF-17] moyenne nationale ; **fortement à actualiser par bassin réel** : 5 % en péri-urbain favorisé, jusqu’à 40 % en QPV). Hypothèse moyenne 20 % = ≈ 1 400 enfants.
-- Un séjour long bien fait coûte 1 500–3 000 €/enfant.
-- Pour garantir 1 séjour long par cycle à ces 1 400 enfants : ≈ 2,5 M€/an, soit ≈ 2 % d’un budget bassin à 100 M€.
-- À cela s’ajoutent : tarification sociale repas, séjours courts, accès parcours sport/culture sans cotisation famille, équipements (instruments, équipements sportifs personnels), petits déplacements famille-RIVE pour enfants éloignés.
+Le surcoût RIVE, comparé au cumul actuel des dépenses publiques équivalentes, se ventile sur sept lignes.
 
-Soit un fonds d’égalité crédible **entre 3 et 5 %** du budget total pour un bassin moyen. **Pour un bassin en quartier populaire (Vague 2), le fonds doit monter à 7–10 %** au minimum — sinon l’égalité d’accès devient fiction. Un fonds en dessous transformerait l’égalité d’accès en fiction (voir ch. 17.8).
+L’amplitude horaire 07:30–19:00 (comparée à l’amplitude actuelle école et accueil de loisirs 08:00–18:00) pèse pour 5 à 8 %. La plage est allongée d’1 à 2 heures par jour, l’encadrement est renforcé matin et soir, et le petit-déjeuner est servi. Référence : coût ALSH allongée [REF-7].
 
-## 24.5 Ratios ETP / enfant
+La cellule santé intégrée (comparée à la médecine scolaire actuelle) pèse pour 2 à 4 %. La Cour des comptes [REF-9] montre que la médecine scolaire est très sous-dotée (50 à 80 euros par élève et par an). La cellule santé RIVE (infirmerie présente, médecin référent, psychologue, vacations) représente, à titre indicatif, 200 à 400 euros par enfant et par an.
 
-| Tranche | Ratio ETP / enfant (encadrement direct, hors transversaux) | Référence |
-|---|:-:|---|
-| enfants ne marchant pas (≈ 3 mois – 12 mois) | 1 / 5 | [REF-6] décret 30/08/2021, critère : marche acquise (non l’âge) |
-| enfants qui marchent (≈ 12 mois – 3 ans) | 1 / 8 | [REF-6] décret 30/08/2021 |
-| 3–6 ans | 1 / 12 | DEPP/RERS, maternelle |
-| 6–11 ans | 1 / 16 | DEPP/RERS, élémentaire |
-| 11–14 ans | 1 / 18 | DEPP/RERS, collège (cohérent) |
-| 14–18 ans (général en Maison Horizon) | 1 / 18 | DEPP/RERS, lycée général |
-| 14–18 ans (techno en Pôle Lycée Bassin) | 1 / 14 | DEPP/RERS, lycée techno |
-| 14–18 ans (pro en Pôle Lycée Bassin) | 1 / 12 | DEPP/RERS, lycée pro (plateaux techniques) |
+L’inclusion étendue (accompagnants d’élèves mutualisés, UPE2A, lien MDPH dans RIVE) pèse pour 3 à 5 %. Elle suppose une refonte du PIAL et la mutualisation des accompagnants à l’échelle RIVE (réforme statutaire requise). L’hypothèse retenue est le passage d’un modèle individuel coûteux et inégalitaire à un modèle mutualisé, à qualité équivalente [REF-10].
 
-Auxquels s’ajoutent les ETP transversaux par RIVE complète (≈ 875 enfants) :
+Les parcours sport et culture hébergés (conservatoire, clubs, théâtre intégrés) pèsent pour 3 à 5 %. Les subventions publiques cumulées aux conservatoires et aux clubs s’établissent à 200 à 800 euros par enfant pratiquant. Leur intégration dans RIVE coûte 400 à 1 000 euros par enfant en accès garanti.
 
-| Fonction transversale | ETP estimés |
-|---|---:|
-| Direction (DG + directions par âge + responsables fonctionnels) | 8–10 |
-| Santé et inclusion (infirmières, psy, référents, AESH) | 10–14 |
-| Familles (référents famille, médiation) | 4–5 |
-| Mobilité (responsable + chauffeurs/accompagnateurs) | 3–5 |
-| Restauration (cuisine sur place + offices satellites) | 10–14 |
-| SI / données | 2–3 |
-| Administratifs (RH, finances, gestion) | 6–8 |
-| Partenaires / intervenants culturels-sportifs (en ETP-équivalent) | 8–12 |
+Les pauses éducatives renforcées (par rapport à l’ALSH vacances actuel) pèsent pour 2 à 4 %. Elles correspondent à des activités plus riches, à des séjours intégrés et à un ratio adulte/enfant supérieur.
 
-Ordre de grandeur RIVE complète : **130–180 ETP directs équivalents temps plein** pour 875 enfants, soit **≈ 1 ETP pour 5 à 7 enfants tous métiers confondus**.
+Le Pôle Lycée Bassin (voies technologique et professionnelle mutualisées, plateaux techniques) pèse pour 1 à 3 % du budget moyen RIVE. Les plateaux techniques du lycée professionnel constituent un poste lourd. L’absorber depuis l’Éducation nationale ne renchérit pas le coût bassin total.
 
-> Note : ce ratio agrégé est élevé comparé au système scolaire seul (≈ 1/12 à 1/15 selon les niveaux d’après DEPP/RERS). Il est cohérent avec un système qui *agrège* dans une seule structure ce qui est aujourd’hui éclaté entre école, périscolaire, santé scolaire, ALSH, restauration, conservatoire, club sportif. Pour comparaison défendable, il faut additionner les ETP de toutes ces structures pour 875 enfants — l’ordre de grandeur cumulé est du même ordre que 130–180 ETP.
+La direction unifiée, le système d’information commun et l’évaluation indépendante pèsent pour 1 à 2 %. Il s’agit de coûts structurels nouveaux (directeur général, équipe SI, marché d’évaluation publique).
 
-## 24.6 Ratios m² / enfant
+Le total se situe entre +17 et +30 %, selon la tranche d’âge et selon les ambitions locales. Sources mobilisées : [REF-1], [REF-4], [REF-5], [REF-7], [REF-9], [REF-10], [REF-15], [REF-21] (ch. 20.10).
 
-Ventilation intérieur / extérieur (référence : décret 30/08/2021 EAJE pour la petite enfance ; arrêtés ERP type R pour les écoles ; guide ADEME / Région bâtiments scolaires) :
+## 24.5 Décomposition par bloc
 
-| Tranche | m² intérieur / enfant | m² extérieur / enfant | Total m² / enfant |
-|---|:-:|:-:|:-:|
-| 3 mois–3 ans | 7–9 (norme EAJE = 5,5 min.) | 5–8 | 12–17 |
-| 3–6 ans | 5–7 | 8–10 | 13–17 |
-| 6–11 ans | 4–6 | 6–8 | 10–14 |
-| 11–18 ans (en RIVE) | 6–8 | 4–6 | 10–14 |
-| 14–18 ans (en Pôle Lycée Bassin, voie pro) | 12–18 (plateaux techniques) | 4–6 | 16–24 |
+À titre de référence comparative, la DEPP/RERS indique que la masse salariale enseignante représente environ 70 % du coût d’un établissement public local d’enseignement du second degré et environ 75 % du primaire. RIVE est plus diversifié en métiers (vie éducative, santé, culture, sport), mais reste à forte intensité humaine.
 
-Pour une RIVE de 875 enfants, on parle de **6 000 à 8 500 m² intérieurs bâtis utiles**, plus accès partagé à des extérieurs (parcs, équipements sportifs, espaces naturels).
+Les ressources humaines totales (enseignants, éducateurs, vie éducative, santé, culture, sport, encadrement) représentent 58 à 63 % du budget. Référence comparative : EPLE environ 70 % [REF-1] ; crèches PSU environ 75 % [REF-5] ; ALSH environ 60 % [REF-7]. Les bâtiments (entretien, énergie, fluides ; foncier supposé existant) représentent 8 à 10 % [REF-22]. La restauration (achats, cuisine, personnels) représente 7 à 9 % [REF-15]. Le sport, la culture et les parcours (matériel, intervenants partenaires) représentent 5 à 7 % [REF-21, REF-22]. Les pauses éducatives (séjours, stages, déplacements) représentent 3 à 5 % [REF-5, REF-8]. La mobilité (navettes, encadrement des trajets) représente 2 à 3 % [REF-22]. La santé et l’inclusion (vacations, accompagnants mutualisés, matériel) représentent 3 à 5 % [REF-9, REF-10]. Le système d’information, les données et les LLM représentent 1 à 2 % (standard d’un opérateur public de taille intermédiaire). La formation continue (au moins 5 % de la masse salariale, soit au moins 3 % du budget) représente 2 à 3 % [REF-19]. L’évaluation indépendante représente 0,5 à 1 % (standard de l’évaluation publique). Le fonds d’égalité (tarification sociale, accès sans frein, séjours longs) représente 3 à 5 % (voir 24.6). L’assurance, la contingence et les divers représentent 2 à 3 %.
 
-Pour un **Pôle Lycée Bassin** servant les 8 RIVEs du maillage : **5 000 à 8 000 m² intérieurs supplémentaires**, dont une part importante en plateaux techniques (voie pro), ateliers spécialisés, laboratoires et lieux de stage.
+La part RH est explicite et structurelle. Une part RH inférieure à 55 % serait un signal d’alerte. Elle indiquerait un sous-investissement et une dérive vers la garderie sophistiquée.
 
-Ces ratios supposent une **mutualisation forte de l’existant** (anciennes écoles, salles communales, friches publiques requalifiées, gymnases municipaux, conservatoires). Une RIVE construite intégralement à neuf serait financièrement et écologiquement absurde — d’où l’option « bâtiments existants prioritairement » (ch. 19.1).
+## 24.6 Fonds d’égalité : justification du dimensionnement
 
-## 24.7 Coûts évités
+Le fonds d’égalité a été revu à la hausse, dans une fourchette de 3 à 5 % du budget total. La justification est la suivante.
 
-RIVE déplace, n’ajoute pas, les charges suivantes que les familles ou les institutions assument déjà :
+Sur 7 000 enfants d’un bassin (cible maillage), environ 20 % vivent sous le seuil de pauvreté ([REF-16, REF-17], moyenne nationale, fortement à actualiser par bassin réel : 5 % en péri-urbain favorisé, jusqu’à 40 % en quartier prioritaire). Avec une hypothèse moyenne de 20 %, cela représente environ 1 400 enfants.
 
-- Périscolaire municipal et accueils de loisirs (≈ 1 500–3 500 €/enfant/an).
-- Conservatoire et école de musique municipal (≈ 800–2 500 €/enfant/an pour les pratiquants).
-- Clubs sportifs subventionnés (≈ 200–600 €/enfant/an de subvention publique + cotisations familles).
-- Restes à charge famille pour activités, cantine, garde matinale et soirée (≈ 1 000–3 000 €/famille/an, hautement inégal).
-- Réseaux d’aide aux devoirs et soutien scolaire externes (≈ 500–2 000 €/enfant/an pour les familles concernées).
+Un séjour long correctement organisé coûte 1 500 à 3 000 euros par enfant. Pour garantir un séjour long par cycle à ces 1 400 enfants, il faut donc mobiliser environ 2,5 millions d’euros par an, soit environ 2 % d’un budget de bassin à 100 millions. À cela s’ajoutent la tarification sociale des repas, les séjours courts, l’accès aux parcours sport et culture sans cotisation famille, les équipements (instruments, équipements sportifs personnels) et les petits déplacements famille-RIVE pour les enfants éloignés.
 
-Le coût *net* incrémental de RIVE pour la dépense publique consolidée n’est donc pas la fourchette brute du § 24.3, mais cette fourchette **minorée** des dépenses qui disparaissent ailleurs. Le calcul localisé doit être conduit en phase 0.
+Le fonds d’égalité crédible se situe ainsi entre 3 et 5 % du budget total pour un bassin moyen. Pour un bassin en quartier populaire (deuxième vague), il doit monter à 7 ou 10 % au minimum. À défaut, l’égalité d’accès devient fiction (ch. 17.8).
 
-## 24.8 Trajectoire pluriannuelle pour la V1
+## 24.7 Ratios équivalents temps plein par enfant
 
-| Année | Effectif | Budget annuel brut (M€) | Coût moyen €/enfant |
-|---|---:|---:|---:|
-| Année 1 | 350–500 | 7–10 | 18 000–22 000 |
-| Année 2 | 550–700 | 9–12 | 15 500–18 500 |
-| Année 3 | 750–900 | 11–15 | 13 500–17 000 |
+Les ratios d’encadrement direct, hors transversaux, varient avec l’âge. Pour les enfants ne marchant pas (environ 3 à 12 mois), le ratio est de 1 pour 5 [REF-6, décret du 30 août 2021, critère de la marche acquise]. Pour les enfants qui marchent (environ 12 mois à 3 ans), le ratio passe à 1 pour 8 [REF-6]. Pour les 3 à 6 ans, le ratio est de 1 pour 12 (DEPP/RERS, maternelle). Pour les 6 à 11 ans, il est de 1 pour 16 (DEPP/RERS, élémentaire). Pour les 11 à 14 ans, il est de 1 pour 18 (DEPP/RERS, collège). Pour les 14 à 18 ans en voie générale (Maison Horizon), il reste à 1 pour 18 (DEPP/RERS, lycée général). Pour les 14 à 18 ans en voie technologique (Pôle Lycée Bassin), il passe à 1 pour 14 (DEPP/RERS, lycée technologique). Pour les 14 à 18 ans en voie professionnelle (Pôle Lycée Bassin), il passe à 1 pour 12 (DEPP/RERS, lycée professionnel, plateaux techniques).
 
-Le **coût/enfant baisse à mesure que les effectifs croissent**, car beaucoup de coûts fixes (direction, SI, cellule santé) s’amortissent. C’est l’une des justifications budgétaires de la taille cible 500–900 par RIVE.
+À ces ratios s’ajoutent les équivalents temps plein transversaux par RIVE complète (environ 875 enfants). La direction (directeur général, directions par âge, responsables fonctionnels) mobilise 8 à 10 ETP. La santé et l’inclusion (infirmières, psychologue, référents, accompagnants) mobilisent 10 à 14 ETP. Les familles (référents famille, médiation) mobilisent 4 à 5 ETP. La mobilité (responsable, chauffeurs et accompagnateurs) mobilise 3 à 5 ETP. La restauration (cuisine sur place et offices satellites) mobilise 10 à 14 ETP. Le système d’information et les données mobilisent 2 à 3 ETP. Les administratifs (RH, finances, gestion) mobilisent 6 à 8 ETP. Les partenaires et intervenants culturels et sportifs, en ETP équivalent, mobilisent 8 à 12 ETP.
 
-À l’échelle du **maillage bassin (≈ 7 000 enfants, 8 RIVEs + 1 Pôle Lycée Bassin)** : budget annuel cible de **95–125 M€/an** à régime. Comparable au cumul actuel des budgets éducatifs publics consolidés sur le même bassin (instruction primaire + secondaire + crèches + périscolaire + restauration scolaire + conservatoire + soutien aux clubs + santé scolaire + AESH), augmenté d’une marge qualité estimée +15–25 %.
+L’ordre de grandeur d’une RIVE complète s’établit ainsi à 130 à 180 équivalents temps plein directs pour 875 enfants, soit environ 1 ETP pour 5 à 7 enfants tous métiers confondus.
 
-## 24.9 Conditions de soutenabilité
+Le ratio agrégé est élevé comparé au système scolaire seul (environ 1 pour 12 à 1 pour 15 selon les niveaux d’après DEPP/RERS). Il est cohérent avec un système qui agrège, dans une seule structure, ce que le système actuel répartit entre école, périscolaire, santé scolaire, ALSH, restauration, conservatoire et club sportif. Pour comparer rigoureusement, il faudrait additionner les équivalents temps plein de toutes ces structures pour 875 enfants. L’ordre de grandeur cumulé est du même ordre que la fourchette 130 à 180.
 
-Pour qu’un dossier d’instruction reste crédible côté budget :
+## 24.8 Ratios mètres carrés par enfant
 
-1. Préciser à la phase 0 la **structure de financement** : État (instruction), Régions (lycée), Départements (collège), Communes/EPCI (petite enfance, périscolaire, restauration), CAF (PSU, ALSH), ARS (santé/inclusion), Europe (FSE+, FEDER), familles (tarification sociale plafonnée).
-2. Préserver des **lignes incompressibles** : santé, formation continue, évaluation. Les premières années budgétaires tendues, on est tenté de les rogner — c’est ce qui transformerait RIVE en garderie sophistiquée.
-3. Présenter explicitement les **coûts évités** dans le même tableau que les coûts engagés. Sinon l’élu lit un budget en hausse sans contre-partie.
-4. Conditionner la montée à 8 RIVEs / bassin à un audit budgétaire **après l’année 3** de la V1.
+La ventilation entre l’intérieur et l’extérieur, en référence au décret du 30 août 2021 pour la petite enfance, aux arrêtés ERP type R pour les écoles, et au guide ADEME et régions pour les bâtiments scolaires, se présente comme suit.
+
+Pour les 3 mois à 3 ans, les mètres carrés intérieurs varient entre 7 et 9 par enfant (norme EAJE 5,5 minimum). Les mètres carrés extérieurs varient entre 5 et 8. Le total se situe entre 12 et 17.
+
+Pour les 3 à 6 ans, les mètres carrés intérieurs varient entre 5 et 7. Les mètres carrés extérieurs varient entre 8 et 10. Le total se situe entre 13 et 17.
+
+Pour les 6 à 11 ans, les mètres carrés intérieurs varient entre 4 et 6. Les mètres carrés extérieurs varient entre 6 et 8. Le total se situe entre 10 et 14.
+
+Pour les 11 à 18 ans dans une RIVE, les mètres carrés intérieurs varient entre 6 et 8. Les mètres carrés extérieurs varient entre 4 et 6. Le total se situe entre 10 et 14.
+
+Pour les 14 à 18 ans dans un Pôle Lycée Bassin, voie professionnelle, les mètres carrés intérieurs varient entre 12 et 18 (plateaux techniques inclus). Les mètres carrés extérieurs varient entre 4 et 6. Le total se situe entre 16 et 24.
+
+Pour une RIVE de 875 enfants, l’ensemble représente 6 000 à 8 500 mètres carrés intérieurs bâtis utiles, complétés par un accès partagé à des extérieurs (parcs, équipements sportifs, espaces naturels). Pour un Pôle Lycée Bassin servant les 8 RIVEs du maillage, il faut compter 5 000 à 8 000 mètres carrés intérieurs supplémentaires, dont une part importante en plateaux techniques de la voie professionnelle, ateliers spécialisés, laboratoires et lieux de stage.
+
+Ces ratios supposent une mutualisation forte de l’existant (anciennes écoles, salles communales, friches publiques requalifiées, gymnases municipaux, conservatoires). Une RIVE construite intégralement en neuf serait financièrement et écologiquement absurde, ce qui justifie le choix « bâtiments existants prioritairement » (ch. 19.1).
+
+## 24.9 Coûts évités
+
+RIVE déplace certaines charges plutôt qu’il ne les ajoute. Les familles ou les institutions les assument déjà. Le périscolaire municipal et les accueils de loisirs représentent environ 1 500 à 3 500 euros par enfant et par an. Le conservatoire et l’école de musique municipale représentent 800 à 2 500 euros par enfant et par an pour les pratiquants. Les clubs sportifs subventionnés représentent 200 à 600 euros par enfant et par an de subvention publique, sans compter les cotisations familles. Les restes à charge des familles pour les activités, la cantine, la garde matinale et la soirée se situent entre 1 000 et 3 000 euros par famille et par an, hautement inégaux. Les réseaux d’aide aux devoirs et le soutien scolaire externes mobilisent 500 à 2 000 euros par enfant et par an pour les familles concernées.
+
+Le coût net incrémental de RIVE pour la dépense publique consolidée n’est donc pas la fourchette brute du § 24.3. Il s’agit de cette fourchette minorée des dépenses qui disparaissent ailleurs. Le calcul localisé doit être conduit en phase 0.
+
+## 24.10 Trajectoire pluriannuelle de la première implantation
+
+L’année 1 mobilise 350 à 500 enfants pour un budget annuel brut de 7 à 10 millions d’euros, soit 18 000 à 22 000 euros par enfant. L’année 2 mobilise 550 à 700 enfants pour un budget de 9 à 12 millions, soit 15 500 à 18 500 euros par enfant. L’année 3 mobilise 750 à 900 enfants pour un budget de 11 à 15 millions, soit 13 500 à 17 000 euros par enfant.
+
+Le coût par enfant décroît à mesure que les effectifs augmentent, car beaucoup de coûts fixes (direction, système d’information, cellule santé) s’amortissent. C’est l’une des justifications budgétaires de la taille cible de 500 à 900 enfants par RIVE.
+
+À l’échelle du maillage bassin (environ 7 000 enfants, 8 RIVEs et 1 Pôle Lycée Bassin), le budget annuel cible se situe à 95 à 125 millions d’euros à régime stabilisé. Il est comparable au cumul actuel des budgets éducatifs publics consolidés sur le même bassin (instruction primaire et secondaire, crèches, périscolaire, restauration scolaire, conservatoire, soutien aux clubs, santé scolaire, accompagnants d’élèves), augmenté d’une marge qualité estimée à +15 à +25 %.
+
+## 24.11 Conditions de soutenabilité
+
+Pour qu’un dossier d’instruction reste crédible côté budget, quatre conditions doivent être tenues.
+
+La première consiste à préciser, dès la phase 0, la structure de financement : l’État (pour l’instruction), les régions (pour le lycée), les départements (pour le collège), les communes et EPCI (pour la petite enfance, le périscolaire et la restauration), la CAF (pour la PSU et l’ALSH), l’ARS (pour la santé et l’inclusion), l’Europe (FSE+, FEDER) et les familles (par une tarification sociale plafonnée).
+
+La deuxième consiste à préserver les lignes incompressibles : santé, formation continue, évaluation. Les premières années budgétaires tendues, la tentation existe de les rogner. C’est précisément ce qui transformerait RIVE en garderie sophistiquée.
+
+La troisième consiste à présenter explicitement les coûts évités, dans le même tableau que les coûts engagés. À défaut, l’élu lit un budget en hausse sans contrepartie.
+
+La quatrième consiste à conditionner la montée vers 8 RIVEs par bassin à un audit budgétaire conduit à l’issue de la troisième année de la première implantation.
 
 ---

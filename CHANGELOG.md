@@ -6,6 +6,17 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le pr
 
 ## [Unreleased]
 
+### Changed
+
+- Refonte intégrale de la rédaction du Blue Book pour atteindre une voix unifiée de note d'instruction (haut fonctionnaire), sans signaux IA : suppression des tirets cadratins, conversion des listes à puces et tables récapitulatives en prose, retrait des tics lexicaux récurrents.
+- Suppression de toute mention de version (v1, v1.1, v1.2, v1.3) dans le corps des documents (`00_avant_propos.md`, `00_index.md`, `README.md`, `EXEC_BRIEF.md`, `DOSSIER_POLITIQUE.md`, chapitres 01 à 26). Les versions restent suivies par Git et par le présent fichier `CHANGELOG.md`.
+- Renommage du chapitre 04 « Périmètre de la V1 » en « Périmètre du projet ».
+- Renommage du chapitre 03 « Principes non négociables » en « Principes structurants ».
+
+### Added
+
+- `27_plan_de_transition.md` : nouveau chapitre proposant une voie possible de transition entre la situation française actuelle et le déploiement de RIVE, organisée en quatre temps (pré-engagement, implantation pilote, consolidation et maillage de bassin, diffusion réglée).
+
 ## [1.3.0] - 2026-06-09
 
 Révision après auto-challenge dur de la v1.2. Cible : honnêteté complète, sources auditables, lisibilité par niveau.

@@ -1,79 +1,45 @@
 # 19. Annexes opérationnelles intégrées
 
-## 19.1 Matrice des décisions validées
+## 19.1 Récapitulatif des décisions
 
-| Domaine | Décision V1 (v1.1) |
-|---|---|
-| Nom | RIVE |
-| Sigle | Réseau Intégré de Vie Éducative |
-| Âge | 3 mois–18 ans (jusqu’au baccalauréat, voies G/T/P) |
-| Forme | campus-réseau local ; maillage à l’échelle bassin |
-| Unité RIVE | 500–900 enfants |
-| Bassin | ≈ 8 RIVEs pour 7 000 enfants |
-| Territoire V1 | ville moyenne / périurbain mixte |
-| Vague 2 | bassin mixte + quartier populaire |
-| Bâtiments | existants prioritairement |
-| Horaires | 07:30 (accueil échelonné) – 09:00 (noyau) – 17:00 – 19:00 |
-| Noyau éducatif | 09:00–17:00 |
-| 17:00–19:00 | intégré, parcours sérieux possibles, rien d’essentiel exclusif |
-| Calendrier | propre : semaines allégées, été 5–6 semaines |
-| Pauses éducatives | RIVE ouvert en mode centre de loisirs intégré |
-| Sport/culture | tronc commun + parcours sérieux hébergés intégralement |
-| Sport club | club RIVE en convention avec clubs locaux |
-| Musique | conservatoire intégré progressif (cycles dans RIVE) |
-| Théâtre | école théâtre/oralité complète |
-| Arts | école arts/design/matière |
-| Lycée | voies générale, technologique, professionnelle |
-| Plateaux techniques | mutualisés à l’échelle bassin |
-| Restauration | cuisine locale/bio, monde, végétarienne forte, **petit-déjeuner** |
-| Végétarien | option quotidienne garantie |
-| Santé | cellule santé intégrée (infirmerie, médecin référent, psy, PMI) |
-| Inclusion | référent + AESH mutualisés + UPE2A intégrée + lien MDPH |
-| Devoirs | pas d’apprentissage obligatoire dépendant des parents |
-| LLM | non frontaux, appui pédagogique |
-| Données | compartimentation stricte |
-| Portage juridique | à instruire (voir ch. 22) |
-| Articulation EN | à instruire (voir ch. 23) |
-| Ratios budgétaires | voir ch. 24 |
-| Évaluation | indépendante |
+Le projet retient les choix suivants. Le nom public est RIVE, sigle de Réseau Intégré de Vie Éducative. L’âge couvert s’étend de 3 mois à 18 ans, jusqu’au baccalauréat, dans les voies générale, technologique et professionnelle. La forme territoriale est celle d’un campus-réseau local, qui se déploie à l’échelle du bassin sous la forme d’un maillage. L’unité RIVE accueille 500 à 900 enfants. Le bassin compte environ 8 RIVEs pour 7 000 enfants. Le territoire de première implantation est une ville moyenne ou un périurbain mixte. La deuxième vague associe un bassin mixte et un quartier populaire. Les bâtiments existants sont mobilisés en priorité.
+
+Les horaires fixent un accueil échelonné à partir de 07:30, un noyau éducatif de 09:00 à 17:00, et un créneau intégré de 17:00 à 19:00. Le créneau 17:00–19:00 accueille des parcours sérieux, mais rien d’essentiel n’y est exclusif. Le calendrier est propre : semaines allégées, été ramené à 5 ou 6 semaines. Les pauses éducatives maintiennent RIVE en mode centre de loisirs intégré.
+
+Pour le sport et la culture, le projet associe un tronc commun à des parcours sérieux hébergés intégralement. Le sport de club s’organise via un club RIVE en convention avec les clubs locaux. La musique repose sur un conservatoire intégré progressif, avec cycles internes à RIVE. Le théâtre prend la forme d’une école de théâtre et d’oralité complète. Les arts s’organisent autour d’un pôle arts, design et matière.
+
+Le lycée déploie les voies générale, technologique et professionnelle, avec des plateaux techniques mutualisés à l’échelle du bassin.
+
+La restauration vise une cuisine locale, biologique et ouverte sur le monde, avec une part forte de végétarien et un petit-déjeuner servi le matin. L’option végétarienne quotidienne est garantie.
+
+La santé est portée par une cellule santé intégrée (infirmerie, médecin référent, psychologue, protection maternelle et infantile). L’inclusion repose sur un référent dédié, des accompagnants d’élèves mutualisés, une UPE2A intégrée et un lien direct avec la MDPH.
+
+Aucun apprentissage obligatoire ne dépend des parents. Les grands modèles de langage sont utilisés en arrière-plan, non frontalement, comme un appui pédagogique. Les données sont strictement compartimentées.
+
+Le portage juridique reste à instruire (ch. 22). L’articulation avec l’Éducation nationale est instruite au ch. 23. Les ratios budgétaires sont précisés au ch. 24. L’évaluation est indépendante.
 
 ## 19.2 Protocole mobilité minimal
 
-Chaque trajet doit avoir un niveau de risque, un adulte responsable, une liste enfants, un horaire départ, un horaire arrivée, un mode de transport, une validation présence, une procédure incident et un scénario météo.
+Chaque trajet doit comporter un niveau de risque, un adulte responsable, une liste des enfants concernés, un horaire de départ et d’arrivée, un mode de transport, une validation de présence, une procédure d’incident et un scénario météo.
 
 ## 19.3 Protocole protection minimal
 
-Toute alerte de protection suit : mise en sécurité, alerte référent protection, trace factuelle, décision selon gravité, information autorités si nécessaire, information famille selon procédure, suivi, audit.
+Toute alerte de protection suit une séquence stricte : mise en sécurité, alerte au référent protection, trace factuelle, décision selon la gravité, information des autorités si nécessaire, information de la famille selon procédure, suivi, audit.
 
 Aucune réputation institutionnelle ne prime sur la protection de l’enfant.
 
 ## 19.4 Convention partenaire minimale
 
-Toute convention doit inclure : objectif, public, horaires, lieu, qualifications, assurance, sécurité, protection, inclusion, données, coût, évaluation et résiliation.
+Toute convention doit préciser : l’objectif, le public, les horaires, le lieu, les qualifications requises, l’assurance, la sécurité, la protection de l’enfance, l’inclusion, les données, le coût, l’évaluation et les conditions de résiliation.
 
 ## 19.5 Glossaire
 
-| Terme | Définition |
-|---|---|
-| RIVE | Réseau Intégré de Vie Éducative — unité locale couvrant 500–900 enfants |
-| Bassin | zone géographique couverte par plusieurs RIVEs en maillage |
-| Maillage de bassin | ≈ 8 RIVEs pour 7 000 enfants |
-| Campus-réseau | architecture locale multi-sites intégrée d’une RIVE |
-| Maison RIVE | site ou unité d’âge à l’intérieur d’une RIVE |
-| Maison Nid | unité 3 mois–3 ans |
-| Maison Éveil | unité 3–6 ans |
-| Maison Fondations | unité 6–8 ans |
-| Maison Exploration | unité 8–11 ans |
-| Maison Adolescence | unité 11–16 ans |
-| Maison Horizon | unité 16–18 ans (lycée G/T/P) |
-| Parcours RIVE | approfondissement sportif, culturel, artistique ou scientifique hébergé dans RIVE |
-| Tronc commun | expérience garantie à tous |
-| Pause éducative | période hors progression scolaire structurée, RIVE ouvert en mode centre de loisirs intégré |
-| Calendrier propre | calendrier annuel RIVE distinct du calendrier national |
-| Cellule santé intégrée | unité regroupant infirmerie, médecin, psychologue, PMI, médecine scolaire à l’échelle RIVE |
-| Droit à l’oubli pédagogique | effacement ou révision des profils temporaires |
-| LLM non frontal | IA utilisée en soutien, pas chatbot libre enfant |
-| Fausse intégration | coordination apparente sans gouvernance unique |
-| Institution totale | dérive où le système capte trop la vie de l’enfant |
+RIVE désigne le Réseau Intégré de Vie Éducative et, par extension, une unité locale couvrant 500 à 900 enfants. Le bassin est la zone géographique couverte par plusieurs RIVEs en maillage. Le maillage de bassin réunit environ 8 RIVEs pour 7 000 enfants.
+
+Le campus-réseau correspond à l’architecture locale multi-sites intégrée d’une RIVE. Les Maisons RIVE sont les sites ou unités d’âge à l’intérieur d’une RIVE. La Maison Nid accueille les 3 mois à 3 ans, la Maison Éveil les 3 à 6 ans, la Maison Fondations les 6 à 8 ans, la Maison Exploration les 8 à 11 ans, la Maison Adolescence les 11 à 16 ans, la Maison Horizon les 16 à 18 ans (lycée général, technologique, professionnel).
+
+Le parcours RIVE désigne un approfondissement sportif, culturel, artistique ou scientifique hébergé dans RIVE. Le tronc commun désigne l’expérience garantie à tous. La pause éducative correspond à la période hors progression scolaire structurée, pendant laquelle RIVE reste ouvert en mode centre de loisirs intégré. Le calendrier propre est le calendrier annuel RIVE, distinct du calendrier national.
+
+La cellule santé intégrée regroupe, à l’échelle d’une RIVE, l’infirmerie, le médecin référent, le psychologue, la protection maternelle et infantile et la médecine scolaire. Le droit à l’oubli pédagogique permet l’effacement ou la révision des profils temporaires. Un grand modèle de langage non frontal désigne une intelligence artificielle utilisée en soutien, et non en chatbot offert à l’enfant. La fausse intégration désigne une coordination apparente sans gouvernance unique. L’institution totale désigne la dérive où le système capte trop la vie de l’enfant.
 
 ---

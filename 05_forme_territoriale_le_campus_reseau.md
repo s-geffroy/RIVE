@@ -1,71 +1,59 @@
 # 5. Forme territoriale : le campus-réseau
 
-## 5.0 Deux niveaux à ne pas confondre
+## 5.1 Deux niveaux à ne pas confondre
 
-RIVE comporte deux niveaux territoriaux distincts et il est essentiel de ne pas les confondre :
+L’architecture RIVE comporte deux niveaux territoriaux distincts. Leur confusion est la première source d’erreur dans la lecture du projet.
 
-1. **Niveau RIVE (unité locale)** : un campus-réseau accueillant ≈ 500 à 900 enfants, organisé en plusieurs sites coordonnés. C’est l’objet de ce chapitre.
-2. **Niveau bassin (cluster de RIVEs)** : un maillage de plusieurs RIVEs couvrant la totalité d’un bassin de vie. Un bassin de ≈ 7 000 enfants comporte ≈ 8 RIVEs.
+Le niveau RIVE est celui d’une unité locale. Il s’agit d’un campus-réseau accueillant 500 à 900 enfants, organisé en plusieurs sites coordonnés. Le présent chapitre lui est consacré.
 
-Une RIVE n’est pas un bassin. Un bassin n’est pas une RIVE. La V1 instruit le niveau RIVE ; la cible de doctrine est la couverture du bassin par maillage (voir ch. 18 et 22).
+Le niveau bassin est celui d’un maillage de plusieurs RIVEs. Il couvre la totalité d’un bassin de vie. Pour un bassin d’environ 7 000 enfants, le maillage comprend approximativement 8 RIVEs.
 
-## 5.1 Pourquoi un réseau au niveau d’une RIVE ?
+Une RIVE n’est pas un bassin ; un bassin n’est pas une RIVE. Le pilote instruit le niveau RIVE ; la cible de doctrine est la couverture du bassin par maillage (ch. 18 et 22).
 
-Le projet initial pourrait faire penser à un grand campus unique. Ce modèle est séduisant, mais peu réaliste en V1. Il demande du foncier, des travaux, des autorisations, un financement massif et un délai long.
+## 5.2 Pourquoi un réseau au niveau d’une RIVE
 
-Le campus-réseau est plus intelligent pour démarrer. Il utilise l’existant et le transforme en système cohérent.
+L’idée d’un grand campus unique pourrait sembler séduisante. Elle est peu réaliste pour un démarrage. Elle suppose du foncier, des travaux, des autorisations, un financement massif et un délai long.
 
-## 5.2 Composition du réseau d’une RIVE
+Le campus-réseau est, à ce stade, le choix le plus intelligent. Il s’appuie sur l’existant et le transforme en système cohérent.
 
-Une RIVE peut s’appuyer sur des crèches, écoles maternelles, écoles élémentaires, collèges, lycées (général, technologique, professionnel), gymnases, stades, piscines, conservatoires, écoles de musique, médiathèques, centres culturels, salles municipales, maisons de quartier, centres de loisirs, ateliers municipaux, parcs, forêts, fermes pédagogiques, bases de loisirs et plateaux techniques pour les voies pro/techno.
+## 5.3 Composition du réseau d’une RIVE
 
-## 5.3 Risque de fausse intégration
+Une RIVE peut s’appuyer sur les ressources publiques et associatives présentes localement : crèches, écoles maternelles et élémentaires, collèges, lycées dans leurs trois voies, gymnases, stades, piscines, conservatoires, écoles de musique, médiathèques, centres culturels, salles municipales, maisons de quartier, centres de loisirs, ateliers municipaux, parcs, forêts, fermes pédagogiques, bases de loisirs, plateaux techniques pour les voies professionnelle et technologique.
 
-Le risque principal du réseau est évident : chaque institution continue à fonctionner comme avant, et RIVE devient un nom posé sur une coordination molle.
+## 5.4 Risque de fausse intégration
 
-Pour l’éviter, il faut cinq verrous :
+Le risque principal du modèle en réseau est évident. Chaque institution peut continuer à fonctionner comme avant, et RIVE devient alors un simple nom posé sur une coordination molle.
 
-1. direction unique ;
-2. budget intégré ;
-3. système d’information commun ;
-4. planning enfant unique ;
-5. culture RH commune.
+Pour éviter cette dérive, cinq verrous sont nécessaires : une direction unique ; un budget intégré ; un système d’information commun ; un planning enfant unique ; une culture des ressources humaines partagée.
 
-Sans ces cinq éléments, RIVE ne remplace pas le système fragmenté. Il le maquille.
+À défaut de ces cinq éléments, RIVE ne se substitue pas au système fragmenté ; il se contente de le maquiller.
 
-## 5.4 Topologie recommandée d’une RIVE
+## 5.5 Topologie recommandée d’une RIVE
 
-Une RIVE doit viser **5 à 7 sites principaux**, plus des sites partenaires.
+Une RIVE doit viser 5 à 7 sites principaux, complétés par des sites partenaires.
 
-| Site | Fonction |
-|---|---|
-| Pôle central | direction, familles, santé, inclusion, SI, protection |
-| Maison Nid | 3 mois–3 ans |
-| Maison Éveil | 3–6 ans |
-| Maison Fondations | 6–8 ans |
-| Maison Exploration | 8–11 ans |
-| Maison Adolescence | 11–16 ans |
-| Maison Horizon | 16–18 ans (tronc commun lycée + voie générale courante) |
-| Sites partenaires | sport, musique, théâtre, arts, pauses éducatives |
+Le pôle central abrite la direction, les services aux familles, la cellule santé, l’inclusion, le système d’information et la fonction protection. Les Maisons accueillent les enfants par tranches d’âge. La Maison Nid couvre les 3 mois à 3 ans. La Maison Éveil prend le relais jusqu’à 6 ans. La Maison Fondations correspond aux 6 à 8 ans, suivie de la Maison Exploration pour les 8 à 11 ans. La Maison Adolescence couvre les 11 à 16 ans. La Maison Horizon accueille les lycéens, à savoir le tronc commun lycée et la voie générale courante. Les sites partenaires complètent enfin l’ensemble en matière de sport, de musique, de théâtre, d’arts et de pauses éducatives.
 
-La voie technologique et la voie professionnelle ne se déploient **pas** intégralement dans chaque RIVE. Elles sont portées par le **Pôle Lycée Bassin** mutualisé entre les RIVEs du maillage (voir ch. 5.5 et ch. 6.7).
+La voie technologique et la voie professionnelle ne se déploient pas intégralement dans chaque RIVE. Elles sont portées par le Pôle Lycée Bassin, mutualisé entre les RIVEs du maillage (ch. 5.6 et 6.7).
 
 Au-delà de 7 sites principaux, le risque logistique augmente fortement.
 
-## 5.5 Maillage d’un bassin
+## 5.6 Maillage d’un bassin
 
-Quand plusieurs RIVEs couvrent le même bassin, elles partagent un nombre limité mais structurant de fonctions, organisées en **Pôles bassin** :
+Lorsque plusieurs RIVEs couvrent le même bassin, elles partagent un nombre limité mais structurant de fonctions, organisées en Pôles bassin.
 
-| Pôle bassin | Fonction |
-|---|---|
-| Pôle Lycée Bassin | voies technologique et professionnelle (3–6 spécialités phares par Pôle), plateaux techniques, spécialités rares du général ; les autres spécialités pro sont couvertes par mutualisation inter-bassins, alternance ou partenariat EN (voir ch. 6.7.4) |
-| Pôle Santé Bassin | médecin référent, vacations spécialisées (orthophonie, psychomotricité, ophtalmologie, dentaire) |
-| Pôle Cuisine Bassin | cuisine centrale qualitative avec offices satellites par RIVE |
-| Pôle SI Bassin | système d’information commun, données compartimentées, équipe technique mutualisée |
-| Pôle Partenaires Bassin | conventions cadres avec fédérations sportives, conservatoires, écoles d’art, compagnies de théâtre |
+Le Pôle Lycée Bassin porte les voies technologique et professionnelle (3 à 6 spécialités phares par Pôle), les plateaux techniques et les spécialités rares de la voie générale. Les autres spécialités professionnelles sont couvertes par mutualisation inter-bassins, par alternance ou par partenariat avec l’Éducation nationale (ch. 6.7.4).
 
-Chaque RIVE conserve : son directeur général, sa direction par tranche d’âge, ses équipes pédagogiques et de vie éducative, ses familles, son planning enfant, sa proximité quotidienne.
+Le Pôle Santé Bassin réunit le médecin référent et les vacations spécialisées en orthophonie, psychomotricité, ophtalmologie et soins dentaires.
 
-**Frontière de référence** : un enfant n’a qu’**une seule RIVE de rattachement institutionnel**. Quand il fréquente un Pôle bassin (plateau technique lycée, séance d’orthophoniste, séjour Pôle Cuisine), son suivi institutionnel reste porté par sa RIVE. La RIVE de rattachement reçoit, agrège et compartimente les données issues des Pôles bassin (voir ch. 14).
+Le Pôle Cuisine Bassin organise une cuisine centrale qualitative avec offices satellites dans chaque RIVE.
+
+Le Pôle SI Bassin opère le système d’information commun, en s’appuyant sur une équipe technique mutualisée et des données compartimentées.
+
+Le Pôle Partenaires Bassin signe les conventions cadres avec les fédérations sportives, les conservatoires, les écoles d’art et les compagnies de théâtre.
+
+Chaque RIVE conserve, pour sa part, son directeur général, sa direction par tranche d’âge, ses équipes pédagogiques et de vie éducative, ses familles, son planning enfant et sa proximité quotidienne.
+
+La frontière de référence tient en une règle simple. Un enfant n’a qu’une seule RIVE de rattachement institutionnel. Lorsqu’il fréquente un Pôle bassin (plateau technique du lycée, séance d’orthophoniste, séjour Pôle Cuisine), son suivi institutionnel reste porté par sa RIVE. La RIVE de rattachement reçoit, agrège et compartimente les données issues des Pôles bassin (ch. 14).
 
 ---

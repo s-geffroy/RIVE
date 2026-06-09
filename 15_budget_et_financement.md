@@ -2,31 +2,26 @@
 
 ## 15.1 Position de vérité
 
-RIVE ne doit pas être vendu comme moins cher par défaut. Ce serait fragile et probablement faux au démarrage.
+RIVE ne doit pas être présenté comme moins coûteux par défaut. La promesse serait fragile et, probablement, fausse au démarrage.
 
-Le bon argument est différent : RIVE doit être **meilleur, plus cohérent, plus égalitaire et mesurable**, avec une soutenabilité démontrée par les coûts évités et la mutualisation réelle.
+L’argument correct est différent. RIVE doit être meilleur, plus cohérent, plus égalitaire et mesurable, avec une soutenabilité démontrée par les coûts évités et la mutualisation réelle.
 
-Pour l’instruction politique, ce chapitre fixe la doctrine et les financeurs. Les **ratios chiffrés** (€/enfant/an par tranche d’âge, ETP/enfant, m²/enfant) sont traités au ch. 24, en cohérence avec la doctrine ici posée.
+Pour l’instruction politique, le présent chapitre pose la doctrine et identifie les financeurs. Les ratios chiffrés (euros par enfant et par an par tranche d’âge, équivalents temps plein par enfant, mètres carrés par enfant) sont traités au ch. 24, en cohérence avec la doctrine établie ici.
 
 ## 15.2 Blocs de coût
 
-Les blocs principaux sont les RH, les bâtiments, la restauration, la mobilité, le sport, la culture, les vacances, le SI, la formation, l’évaluation, le fonds d’égalité, les partenaires, l’assurance et la maintenance.
+Les blocs principaux sont les suivants : ressources humaines, bâtiments, restauration, mobilité, sport, culture, vacances, système d’information, formation, évaluation, fonds d’égalité, partenaires, assurance, maintenance.
 
 ## 15.3 Financeurs possibles
 
-État, communes/intercommunalités, département, région, CAF, ARS selon les volets, Europe, familles via tarification sociale limitée, mécénat encadré sans gouvernance.
+Les financeurs mobilisables sont l’État, les communes et intercommunalités, le département, la région, la CAF, l’ARS selon les volets, les fonds européens, les familles via une tarification sociale limitée, et le mécénat encadré (sans accès à la gouvernance).
 
 ## 15.4 Gratuité recommandée
 
-- 07:30–08:30 (accueil échelonné + petit-déjeuner) : gratuité publique.
-- 09:00–17:00 (noyau éducatif) : gratuité publique.
-- 17:00–19:00 : tarification sociale ou gratuité ciblée.
-- Pauses éducatives (anciennement « vacances ») : droit garanti, tarification sociale.
-- Repas : tarification sociale.
-- Parcours sport / musique / théâtre / arts : pas de sélection par revenu, pas de tarif d’inscription bloquant.
+La gratuité publique couvre la plage 07:30–08:30 (accueil échelonné et petit-déjeuner) et le noyau éducatif 09:00–17:00. Pour le créneau 17:00–19:00, une tarification sociale ou une gratuité ciblée s’applique. Les pauses éducatives, anciennement « vacances », ouvrent un droit garanti sous tarification sociale. Les repas relèvent d’une tarification sociale. Les parcours sportifs, musicaux, théâtraux et artistiques n’opèrent pas de sélection par le revenu et ne comportent aucun tarif d’inscription bloquant.
 
-## 15.5 Prochaine étape
+## 15.5 Étape suivante
 
-Le budget V1 doit être localisé : territoire réel, bâtiments réels, salaires, travaux, denrées, partenaires, transports, assurances, SI, énergie et contingence.
+Le budget de la première implantation doit être localisé : territoire réel, bâtiments réels, salaires, travaux, denrées, partenaires, transports, assurances, système d’information, énergie, contingence.
 
 ---
