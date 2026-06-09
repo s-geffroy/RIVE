@@ -6,6 +6,36 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le pr
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-06-09
+
+Révision de rigueur d'instruction politique après auto-challenge dur de la v1.1. Cible : tenir devant un chef de bureau ministériel ou un DGS exigeant.
+
+### Fixed (les 4 critiques)
+
+- **Sourçage budgétaire (ch. 24)** : chaque ratio porte désormais une référence courte vers une source publique. Méthode explicite (coût actuel + surcoût intégration estimé). Fonds d'égalité revu à 3–5 % (vs 1–2 % en v1.1) sur justification quantifiée.
+- **Sources publiques étoffées (ch. 20)** : refonte du chapitre en 12 sections couvrant cadres pédagogiques, juridiques, petite enfance, périscolaire, santé/inclusion, numérique/IA, restauration, sport, protection de l'enfance, **données budgétaires** (DEPP/RERS, INSEE, CNAF, HCFEA, Cour des Comptes, OCDE, France Stratégie/CNESCO, Injep), cadres expérimentaux.
+- **Chaîne juridique EN (ch. 23)** : reconnaissance que L401-1 seul est insuffisant. Chaîne complète à 9 instruments (loi de programmation + L401-1 + L421-19-17 + décret d'application + arrêté calendrier + convention nationale enseignants + accord-cadre dialogue social + convention bipartite Académie/RIVE + convention santé scolaire/inclusion).
+- **Portage juridique (ch. 22)** : recommandation V1 repivotée. GIP seul abandonné comme option principale. Nouvelle reco : **EP expérimental par la loi** en principal, **GIP + EPLE expérimental couplés** en repli. Matrice véhicule × scénario EN ajoutée pour tracer les compatibilités.
+- **Lycée mathématiquement faisable (ch. 6.7, ch. 5)** : architecture à double étage. Maison Horizon par RIVE = tronc commun lycée + voie générale courante. **Pôle Lycée Bassin** mutualisé = spécialités rares + voies technologique et professionnelle + plateaux techniques. Une RIVE seule ne porte plus les 3 voies.
+
+### Added
+
+- **Principe 3.8 — Présence individuelle bornée** : plafond quotidien par tranche d'âge (9 h petite enfance, 10 h primaire, 11 h secondaire) pour empêcher l'institution totale malgré l'ouverture 07:30–19:00.
+- **Vague 3 (ch. 18)** : passage explicite de 2 RIVEs (Vagues 1+2) au maillage complet du bassin (8 RIVEs), avec Pôles bassin et véhicule juridique définitif.
+- **Pôles bassin (ch. 5.5, ch. 13)** : Pôle Lycée Bassin, Pôle Santé Bassin, Pôle Cuisine Bassin, Pôle SI Bassin, Pôle Partenaires Bassin. Architecture de mutualisation explicitée.
+- **Règles d'accès opérationnelles contre la capture sociale (ch. 25.4)** : sectorisation, quotas par décile de revenu, tirage au sort en cas de sursouscription, indicateur de composition sociale publié annuellement.
+
+### Changed
+
+- **ch. 2 — table de nommage** : ajout du niveau « Bassin éducatif RIVE » (maillage) et du niveau « Pôle bassin RIVE » (mutualisation). Distinction RIVE/bassin rendue inéquivoque.
+- **ch. 25 — honnêteté doctrinale** : tensions 17–19h et capture sociale reformulées sans dissimulation. RIVE *réduit* l'inégalité d'accès aux parcours sérieux, ne la supprime pas. Pendant la V1, RIVE est par définition en îlot — c'est traité par règles d'accès, pas dissous dans une cible lointaine.
+- **ch. 24 — ratios m²/enfant** : ventilation intérieur / extérieur ajoutée, ligne dédiée Pôle Lycée Bassin (plateaux techniques voie pro).
+- **ch. 24 — décomposition par bloc** : RH ramenée à 58–63 % (vs 60–65 %) ; fonds d'égalité 3–5 % (vs 1–2 %). Références comparatives DEPP ajoutées pour chaque bloc.
+
+### Documentation
+
+- Index `00_index.md` et `README.md` portés à v1.2.
+
 ## [1.1.0] - 2026-06-08
 
 ### Added
@@ -65,6 +95,7 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le pr
   - `20_references_publiques_a_verifier_avant_instruction.md`
   - `21_conclusion.md`
 
-[Unreleased]: https://github.com/s-geffroy/RIVE/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/s-geffroy/RIVE/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/s-geffroy/RIVE/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/s-geffroy/RIVE/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/s-geffroy/RIVE/releases/tag/v1.0.0

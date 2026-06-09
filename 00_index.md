@@ -1,4 +1,4 @@
-# RIVE — Blue Book V1 (révision v1.1)
+# RIVE — Blue Book V1 (révision v1.2)
 
 ## Index des chapitres
 
@@ -6,7 +6,7 @@
 
 Ce dossier contient le Blue Book RIVE découpé en chapitres, avec un fichier Markdown par chapitre.
 
-### Corps doctrinal (V1, révisé en v1.1)
+### Corps doctrinal (V1, révisé en v1.2)
 
 00. [Avant-propos](./00_avant_propos.md)
 01. [Résumé exécutif](./01_resume_executif.md)
@@ -31,7 +31,7 @@ Ce dossier contient le Blue Book RIVE découpé en chapitres, avec un fichier Ma
 20. [Références publiques à vérifier avant instruction](./20_references_publiques_a_verifier_avant_instruction.md)
 21. [Conclusion](./21_conclusion.md)
 
-### Chapitres d’instruction politique (ajoutés en v1.1)
+### Chapitres d’instruction politique (ajoutés en v1.1, révisés en v1.2)
 
 22. [Portage juridique](./22_portage_juridique.md)
 23. [Articulation avec l’Éducation nationale](./23_articulation_education_nationale.md)
@@ -41,4 +41,4 @@ Ce dossier contient le Blue Book RIVE découpé en chapitres, avec un fichier Ma
 
 ---
 
-La version courante est **v1.1** (juin 2026). Elle intègre les changements doctrinaux suivants : ouverture à 07:30, continuité jusqu’au baccalauréat (≈ 18 ans, voies G/T/P), calendrier annuel propre, RIVE = unité de 500–900 enfants / bassin = maillage de ≈ 8 RIVEs, parcours sérieux intégrés, cellule santé intégrée. Voir `CHANGELOG.md`.
+La version courante est **v1.2** (juin 2026). Elle apporte une révision de rigueur d’instruction politique : sourçage des ratios budgétaires (DEPP/RERS, INSEE, CAF, HCFEA, Cour des Comptes), chaîne juridique complète pour l’absorption EN, Pôle Lycée Bassin pour la mutualisation lycée techno/pro, principe de présence individuelle bornée, règles d’accès opérationnelles contre la capture sociale, Vague 3 (maillage complet) explicite. Voir `CHANGELOG.md`.

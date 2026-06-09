@@ -4,9 +4,16 @@
 
 Une RIVE doit avoir un **directeur général de RIVE**. Il n’est pas un coordinateur symbolique. Il porte l’arbitrage réel.
 
-Autour de lui : direction petite enfance (3 mois–3 ans), direction 3–11 ans, direction 11–16 ans, **direction 16–18 ans (lycée G/T/P)**, responsable sport/culture/clubs, responsable santé/inclusion/protection, responsable familles, responsable mobilité, responsable restauration, responsable SI/données/IA, responsable pauses éducatives, responsable budget/partenariats.
+Autour de lui : direction petite enfance (3 mois–3 ans), direction 3–11 ans, direction 11–16 ans, **direction Maison Horizon 16–18 ans** (tronc commun lycée + voie générale courante), responsable sport/culture/clubs, responsable santé/inclusion/protection, responsable familles, responsable mobilité, responsable restauration, responsable SI/données/IA, responsable pauses éducatives, responsable budget/partenariats.
 
-Au niveau bassin, quand plusieurs RIVEs coexistent, une **coordination de bassin** légère (et non une hyperstructure) assure la mutualisation (cuisine centrale, plateaux techniques, SI, doctrine partagée) sans déposséder les DG de leur autorité opérationnelle. Voir ch. 22 (portage juridique) pour le véhicule.
+Au niveau bassin, plusieurs **Pôles bassin** complètent l’architecture sans déposséder les DG de leur autorité opérationnelle :
+
+- **Pôle Lycée Bassin** : direction propre, portant voies technologique et professionnelle + spécialités rares (≈ 1 directeur lycée bassin pour ≈ 8 RIVEs, voir ch. 6.7).
+- **Pôle Santé Bassin** : médecin référent bassin.
+- **Pôle SI Bassin** : responsable SI mutualisé.
+- **Pôle Cuisine Bassin** : responsable restauration mutualisé.
+
+Une **coordination de bassin** légère (et non une hyperstructure) assure la cohérence entre les DG de RIVE et les directions de Pôle bassin. Voir ch. 22 (portage juridique) pour le véhicule.
 
 ## 13.2 Métiers essentiels
 

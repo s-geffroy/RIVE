@@ -53,4 +53,20 @@ Plus un système accompagne l’enfant longtemps, plus il risque de collecter tr
 
 RIVE ne doit pas s’évaluer lui-même. Les résultats doivent être mesurés par un acteur indépendant et publiés avec leurs limites.
 
+## 3.8 Présence individuelle bornée
+
+RIVE ouvre 07:30–19:00 (11,5 h d’amplitude institutionnelle), mais **aucun enfant pris individuellement** ne doit dépasser un plafond quotidien de présence physique, fixé par tranche d’âge :
+
+| Tranche | Plafond quotidien individuel |
+|---|---:|
+| 3 mois–3 ans | 9 h |
+| 3–6 ans | 10 h |
+| 6–11 ans | 10 h |
+| 11–16 ans | 11 h |
+| 16–18 ans | libre, autonomie d’aménagement |
+
+L’ouverture longue est un service rendu aux familles, pas une amplitude imposée aux enfants. Au-delà du plafond, RIVE engage un dialogue avec la famille : aménagement, transport, navette, soutien social. Le plafond n’est *jamais* relâché « pour faciliter l’organisation adulte ».
+
+Ce principe est cohérent avec les recommandations PMI (petite enfance) et la doctrine pédiatrique sur les rythmes de l’enfant. C’est l’une des bornes structurelles qui empêchent RIVE de glisser vers l’institution totale (ch. 17.1).
+
 ---

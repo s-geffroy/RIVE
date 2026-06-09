@@ -78,19 +78,66 @@ Création d’un véhicule juridique nouveau dédié, de niveau national, encadr
 | Compatibilité RGPD | + | + | + | + | + | + |
 | Reproductibilité | + | + | + | + | + | ++ |
 
-## 22.5 Recommandation argumentée
+## 22.5 Recommandation argumentée (révisée)
 
-Pour la **V1 (RIVE pilote)** : **GIP**. C’est le seul véhicule qui combine vitesse de constitution, capacité d’associer État + collectivités + CAF + ARS, modulabilité d’échelle, et souplesse RH. La faiblesse intrinsèque du GIP (durée limitée, contrôle citoyen faible) est acceptable pour la durée d’un pilote de 3 à 5 ans.
+L’audit de cohérence v1.2 a fait apparaître une **incompatibilité structurelle** entre la recommandation initiale (GIP seul) et l’option d’articulation EN retenue au ch. 23 (absorption par dérogation expérimentale). Un GIP n’est en effet pas un véhicule d’accueil naturel pour des fonctionnaires d’État détachés en grand nombre, et ne dispose pas de compétences natives sur la petite enfance (PMI, PSU) ni sur le secondaire.
 
-Pour la **cible bassin (maillage de 8 RIVEs)** : **EP spécifique créé par la loi** (voire EPCC étendu à l’éducation par voie législative). Cette cible suppose qu’une fenêtre politique nationale s’ouvre après la V1, sur la base de résultats vérifiables. Aucune RIVE ne devrait dépendre d’un véhicule définitif avant d’avoir prouvé sa doctrine.
+La recommandation est donc révisée comme suit :
 
-Pour les bassins qui voudraient répliquer **sans attendre la loi nationale** : **régie ou syndicat mixte intercommunal** sur compétence éducative déléguée, en convention forte avec l’EN locale.
+### Pour la V1 (RIVE pilote) — Option principale
+
+**EP expérimental créé par dérogation législative**, à durée limitée (5 à 7 ans renouvelables), portant à la fois :
+
+- le statut d’établissement scolaire au sens du Code de l’éducation (permettant d’accueillir des enseignants mis à disposition),
+- la compétence petite enfance déléguée par le département (PMI) et la commune (PSU/CAF),
+- la compétence périscolaire / restauration / sport-culture déléguée par la commune,
+- la compétence santé scolaire déléguée par l’État,
+- le portage budgétaire et la responsabilité juridique unifiée.
+
+Ce véhicule **n’existe pas encore** dans le droit français. Sa création exige une **loi de programmation RIVE** (voir ch. 23 § 23.6) ouvrant l’expérimentation.
+
+### Pour la V1 — Option de repli
+
+À défaut de fenêtre législative, **couplage GIP + EPLE expérimental** :
+
+- Un **GIP** porte les fonctions non scolaires (petite enfance, périscolaire, sport, culture, restauration, santé, inclusion).
+- Un **EPLE expérimental** (dérogation L401-1 renforcée) porte le temps scolaire et accueille les enseignants détachés.
+- Une **convention de coordination GIP/EPLE** assure l’intégration opérationnelle.
+
+Cette option est juridiquement plus fragile (deux structures à coordonner) mais peut démarrer plus vite, sans loi nationale.
+
+### Pour la cible bassin (maillage de 8 RIVEs + Pôle Lycée Bassin) — Cible définitive
+
+**EP par la loi**, à durée pérenne, taillé pour le maillage de bassin et la mutualisation des Pôles bassin (Lycée, Santé, Cuisine, SI).
+
+Cette cible reste subordonnée à une **fenêtre politique nationale** ouverte après la V1, sur la base de résultats vérifiables. Aucune RIVE ne devrait dépendre d’un véhicule définitif avant d’avoir prouvé sa doctrine.
+
+### Pour les bassins qui voudraient répliquer sans attendre la loi nationale
+
+**Régie ou syndicat mixte intercommunal** sur compétence éducative déléguée, en convention forte avec l’EN locale. Réplicabilité plus faible mais possible localement.
 
 ## 22.6 Décisions à prendre en phase 0
 
 - Désigner le porteur politique (un préfet, un président d’EPCI, un maire de ville moyenne, ou un trio collectivité + État + CAF).
-- Trancher le véhicule de la V1 (recommandation : GIP).
-- Préparer la convention constitutive : objet, membres, durée, gouvernance, contrôle, budget initial, sortie.
-- Anticiper la doctrine du véhicule cible bassin (EP spécifique) pour ne pas avoir à tout refaire.
+- Trancher le véhicule de la V1 : **option principale (EP expérimental par la loi)** ou **option de repli (GIP + EPLE expérimental couplés)** selon l’ouverture de la fenêtre législative.
+- Si option principale : engager le travail législatif (loi de programmation RIVE — voir ch. 23 § 23.6).
+- Si option de repli : préparer la convention GIP + le projet d’EPLE expérimental + la convention de coordination.
+- Anticiper la doctrine du véhicule cible bassin (EP par la loi) pour ne pas avoir à tout refaire.
+
+## 22.7 Compatibilité véhicule × scénario EN
+
+Le véhicule juridique et le scénario d’articulation EN (ch. 23) sont des décisions **couplées**. Matrice de compatibilité :
+
+| Véhicule | Scénario A (absorption) | Scénario B (partenariat) | Scénario C (parallèle) |
+|---|:-:|:-:|:-:|
+| EPLE expérimental | ✓ | partiel | — |
+| GIP seul | — | ✓ | — |
+| GIP + EPLE couplés | ✓ | ✓ | — |
+| EPCC étendu | ✓ par dérogation | ✓ | — |
+| Régie / syndicat mixte | partiel | ✓ | — |
+| SCIC | — | partiel | ✓ |
+| EP par la loi | ✓ | ✓ | ✓ |
+
+La combinaison **(EP par la loi, scénario A)** offre la cohérence maximale et est la cible. La V1 peut démarrer sur **(GIP + EPLE couplés, scénario A)** ou **(GIP, scénario B)** selon les contraintes politiques de phase 0.
 
 ---

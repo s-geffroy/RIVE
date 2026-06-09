@@ -15,18 +15,22 @@ Chaque mot compte.
 
 ## 2.2 Niveaux de nommage
 
-| Niveau | Nom |
-|---|---|
-| Système public | RIVE |
-| Nom développé | Réseau Intégré de Vie Éducative |
-| Nom institutionnel | Service public RIVE |
-| Architecture locale | Campus-réseau éducatif intégré RIVE |
-| Unité locale | RIVE + nom du territoire |
-| Sites d’âge | Maisons RIVE |
-| Activités longues | Parcours RIVE |
-| Document de référence | Blue Book RIVE |
+| Niveau | Nom | Périmètre |
+|---|---|---|
+| Système public | RIVE | doctrine nationale |
+| Nom développé | Réseau Intégré de Vie Éducative | — |
+| Nom institutionnel | Service public RIVE | — |
+| Bassin éducatif RIVE | Maillage RIVE + nom du bassin | cluster de plusieurs RIVEs couvrant un bassin de vie (≈ 8 RIVEs pour 7 000 enfants) |
+| Unité locale | RIVE + nom du territoire | une RIVE (500–900 enfants) |
+| Architecture locale | Campus-réseau éducatif intégré RIVE | architecture multi-sites d’une RIVE |
+| Sites d’âge | Maisons RIVE | site ou unité d’âge dans une RIVE |
+| Activités longues | Parcours RIVE | approfondissement sport / culture / arts |
+| Mutualisations bassin | Pôle bassin RIVE | équipement, plateau ou service partagé entre RIVEs (ex : Pôle Lycée Bassin, Pôle Santé Bassin, Pôle Cuisine Bassin) |
+| Document de référence | Blue Book RIVE | — |
 
-Exemples : **RIVE Montauban Sud**, **RIVE Toulouse Nord**, **RIVE Castres Bassin**.
+Exemples : **Maillage RIVE Castres Bassin** (≈ 8 RIVEs) ; à l’intérieur duquel **RIVE Castres Centre**, **RIVE Castres Lameilhé**, **RIVE Castres Saïx**, etc. ; et **Pôle Lycée Bassin Castres** pour les voies technologique et professionnelle mutualisées.
+
+Ce vocabulaire est non négociable. Confondre une RIVE avec un bassin est la première erreur conceptuelle à éviter.
 
 ## 2.3 Ce que RIVE n’est pas
 

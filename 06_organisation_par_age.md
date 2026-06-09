@@ -38,18 +38,42 @@ Objectifs : consolidation du socle, argumentation, projets longs, stages, orient
 
 À 16 ans, le jeune doit avoir appris, pratiqué, présenté, échoué, recommencé, débattu, coopéré et commencé à comprendre ses propres engagements. La scolarité obligatoire s’arrête ici ; l’engagement RIVE continue jusqu’au baccalauréat.
 
-## 6.7 16–18 ans : voie générale, technologique, professionnelle
+## 6.7 16–18 ans : Maison Horizon et Pôle Lycée Bassin
 
-RIVE accompagne ses jeunes jusqu’à la sortie du secondaire, dans les trois voies du lycée français :
+RIVE accompagne ses jeunes jusqu’à la sortie du secondaire, dans les trois voies du lycée français : générale, technologique, professionnelle.
 
-- **Voie générale** : approfondissement disciplinaire, spécialités, oralité, recherche, préparation post-bac.
-- **Voie technologique** : sciences appliquées, plateaux techniques, projets industriels, design, santé-social, hôtellerie, agronomie.
-- **Voie professionnelle** : plateaux techniques métiers, alternance, stages longs en entreprise, certification professionnelle, lien filières locales.
+### 6.7.1 Reconnaissance d’une contrainte mathématique
+
+Une RIVE seule (500–900 enfants, 3 mois–18 ans) n’a structurellement pas la masse critique pour porter à pleine échelle les trois voies du lycée. Sur ≈ 50 jeunes par classe d’âge, il est impossible d’offrir simultanément :
+
+- les 13 spécialités du bac général,
+- les 7 filières du bac technologique,
+- les ≈ 80 spécialités du bac professionnel,
+- les plateaux techniques associés (cuisine pédagogique, atelier mécanique, plateau industriel, plateau santé-social, etc.).
+
+Tenter de le faire à l’échelle d’une RIVE conduirait soit à une offre lycée appauvrie, soit à des coûts disproportionnés, soit aux deux.
+
+### 6.7.2 Architecture retenue : double étage
+
+L’architecture retenue est à **deux étages** :
+
+| Étage | Périmètre | Contenu |
+|---|---|---|
+| Maison Horizon (par RIVE) | dans chaque RIVE | orientation, tronc commun lycée (humanités, sciences communes, EPS, langues, philosophie), socle d’étude, suivi inclusion, santé, restauration, parcours sport/culture intégrés. Voie générale courante avec spécialités les plus demandées. |
+| Pôle Lycée Bassin | au niveau bassin (1 pour ≈ 8 RIVEs) | spécialités rares de la voie générale (grec ancien, NSI haut niveau, arts plastiques approfondis), **intégralité de la voie technologique**, **intégralité de la voie professionnelle**, plateaux techniques, ateliers, partenariats entreprises locales. |
+
+Le jeune lycéen reste **rattaché à sa Maison Horizon** (sa RIVE de référence) pour son suivi institutionnel, sa restauration, sa santé, son inclusion, ses parcours sport/culture. Mais il se déplace sur les créneaux pédagogiques concernés vers le Pôle Lycée Bassin pour les enseignements spécialisés et plateaux techniques. Mobilité aménagée par RIVE (voir ch. 12).
+
+### 6.7.3 Statut RIVE après 16 ans
 
 Le statut RIVE à cet âge est différent : aucune obligation légale, mais un engagement de continuité institutionnelle. Le jeune peut entrer, sortir, revenir. Il reste connu, suivi, soutenu. Il a accès au tronc commun culturel, sportif, santé/inclusion, restauration et étude, dans une autonomie réelle.
 
-Les plateaux techniques (voies technologique et professionnelle) sont l’une des fonctions les plus exigeantes du réseau RIVE — équipements, sécurité, maintenance, enseignants spécialisés. La mutualisation à l’échelle du **maillage de bassin** (plusieurs RIVEs partageant un plateau technique) est généralement la seule solution réaliste.
+### 6.7.4 Risques propres
 
-Le risque à éviter : créer un RIVE qui s’arrête de fait au collège, en sous-investissant le lycée. Ce serait reproduire la fragmentation qu’on combat.
+- **Risque distance** : la mobilité quotidienne Maison Horizon ↔ Pôle Lycée Bassin doit rester raisonnable (≤ 20 minutes). Au-delà, on recrée la fragmentation que RIVE combat.
+- **Risque appauvrissement Maison Horizon** : si la Maison Horizon devient un simple « hub administratif » du Pôle Lycée Bassin, l’ancrage local du lycéen disparaît. Le tronc commun lycée dans la Maison Horizon doit rester substantiel.
+- **Risque hiérarchie implicite** : une Maison Horizon = lycée général local + Pôle Lycée Bassin = voies techno/pro pourrait recréer une hiérarchie sociale entre voies. À combattre par : mêmes locaux qualitatifs, mêmes services, mêmes parcours sport/culture, indemnités mobilité égales pour tous les déplacements vers les Pôles bassin.
+
+Le risque à éviter : créer une RIVE qui s’arrête de fait au collège, en sous-investissant le lycée. Ce serait reproduire la fragmentation qu’on combat.
 
 ---

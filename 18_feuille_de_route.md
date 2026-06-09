@@ -30,16 +30,34 @@ Actions : recrutement direction, recrutement RH critique, travaux légers, forma
 
 750 à 900 enfants. Décision : continuer, corriger, répliquer ou arrêter.
 
-## Vague 2
+## Vague 2 — Double pilote (années 4–6 environ)
 
-Double pilote : bassin mixte et quartier populaire, dans deux RIVEs.
+Deux RIVEs supplémentaires : une dans un bassin mixte comparable à la V1 ; une dans un quartier populaire.
 
-La vague 2 ne doit commencer que si la V1 a produit des résultats suffisamment solides et des corrections documentées.
+La Vague 2 ne doit commencer que si la V1 a produit des résultats suffisamment solides et des corrections documentées. Elle teste la **transférabilité** de la doctrine, mais reste à petite échelle.
 
-## Cible doctrinale à terme : maillage de bassin
+## Vague 3 — Maillage de bassin (années 6–12 environ)
 
-Une fois une RIVE éprouvée dans un bassin, la cible est la **couverture totale du bassin par maillage** (≈ 8 RIVEs pour un bassin de 7 000 enfants). Cette montée à l’échelle bassin n’est pas la V1, mais elle est l’horizon explicite du projet — sans quoi le risque de capture sociale d’une RIVE isolée resterait élevé.
+Vague 3 est la **traduction opérationnelle** de la cible doctrinale : couverture totale d’un bassin par maillage.
 
-Le passage du pilote au maillage suppose : portage juridique consolidé (ch. 22), accord d’absorption avec l’EN (ch. 23), trajectoire budgétaire pluriannuelle (ch. 24) — décision politique de niveau collectivité / État.
+Sur le bassin de la V1, ouverture progressive des **6 autres RIVEs** pour atteindre les ≈ 8 RIVEs cibles (en supposant un bassin de ≈ 7 000 enfants). Le rythme attendu : 1 à 2 RIVEs ouvertes par an.
+
+Pendant la Vague 3 se mettent en place :
+
+- **Les Pôles bassin** : Pôle Lycée Bassin (voies techno et pro, voir ch. 6.7), Pôle Santé Bassin (médecin référent partagé), Pôle Cuisine Bassin (cuisine centrale partagée), Pôle SI Bassin.
+- **La gouvernance bassin** : coordination légère des 8 DG de RIVE, instance politique de pilotage stratégique.
+- **Le véhicule juridique cible** : passage du véhicule pilote (GIP ou EP expérimental V1) au véhicule définitif (EP par la loi recommandé — voir ch. 22).
+
+Vague 3 est conditionnée à : audit positif Vague 2, accord politique de niveau national, trajectoire budgétaire pluriannuelle votée (voir ch. 24), accord EN consolidé sur le statut des enseignants détachés (voir ch. 23).
+
+## Cible doctrinale à terme
+
+Une fois le bassin V1 couvert (Vague 3 achevée), la doctrine est **diffusée** à d’autres bassins selon une logique d’adoption volontaire et conditionnée :
+
+- Initiative d’une collectivité ou d’un EPCI candidat.
+- Cadre national stabilisé (EP par la loi).
+- Évaluation comparative entre bassins.
+
+Aucune ouverture nationale uniforme n’est dans la doctrine RIVE — la qualité tient à la taille humaine de chaque unité et à l’ancrage local de chaque maillage.
 
 ---

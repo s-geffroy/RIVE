@@ -45,15 +45,27 @@ Une RIVE doit viser **5 à 7 sites principaux**, plus des sites partenaires.
 | Maison Fondations | 6–8 ans |
 | Maison Exploration | 8–11 ans |
 | Maison Adolescence | 11–16 ans |
-| Maison Horizon | 16–18 ans (voies générale, technologique, professionnelle) |
-| Sites partenaires | sport, musique, théâtre, arts, pauses éducatives, plateaux techniques pro/techno |
+| Maison Horizon | 16–18 ans (tronc commun lycée + voie générale courante) |
+| Sites partenaires | sport, musique, théâtre, arts, pauses éducatives |
+
+La voie technologique et la voie professionnelle ne se déploient **pas** intégralement dans chaque RIVE. Elles sont portées par le **Pôle Lycée Bassin** mutualisé entre les RIVEs du maillage (voir ch. 5.5 et ch. 6.7).
 
 Au-delà de 7 sites principaux, le risque logistique augmente fortement.
 
 ## 5.5 Maillage d’un bassin
 
-Quand plusieurs RIVEs couvrent le même bassin, elles partagent : tarification, gouvernance politique, SI, doctrine, cuisine centrale possible, partenaires culturels et sportifs majeurs, médecine scolaire, mutualisation de certaines spécialisations rares (plateaux techniques lycée pro, parcours musique haute exigence, équipements sportifs lourds).
+Quand plusieurs RIVEs couvrent le même bassin, elles partagent un nombre limité mais structurant de fonctions, organisées en **Pôles bassin** :
 
-Mais chaque RIVE conserve : son directeur général, sa direction par tranche d’âge, ses équipes, ses familles, son planning enfant, sa proximité quotidienne. Aucun enfant n’est suivi par plusieurs RIVEs en même temps — la RIVE est la maison institutionnelle de référence.
+| Pôle bassin | Fonction |
+|---|---|
+| Pôle Lycée Bassin | voies technologique et professionnelle, plateaux techniques, spécialités rares du général (voir ch. 6.7) |
+| Pôle Santé Bassin | médecin référent, vacations spécialisées (orthophonie, psychomotricité, ophtalmologie, dentaire) |
+| Pôle Cuisine Bassin | cuisine centrale qualitative avec offices satellites par RIVE |
+| Pôle SI Bassin | système d’information commun, données compartimentées, équipe technique mutualisée |
+| Pôle Partenaires Bassin | conventions cadres avec fédérations sportives, conservatoires, écoles d’art, compagnies de théâtre |
+
+Chaque RIVE conserve : son directeur général, sa direction par tranche d’âge, ses équipes pédagogiques et de vie éducative, ses familles, son planning enfant, sa proximité quotidienne.
+
+**Frontière de référence** : un enfant n’a qu’**une seule RIVE de rattachement institutionnel**. Quand il fréquente un Pôle bassin (plateau technique lycée, séance d’orthophoniste, séjour Pôle Cuisine), son suivi institutionnel reste porté par sa RIVE. La RIVE de rattachement reçoit, agrège et compartimente les données issues des Pôles bassin (voir ch. 14).
 
 ---
