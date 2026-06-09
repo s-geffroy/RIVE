@@ -56,10 +56,43 @@ RIVE absorbe la fonction inclusion comme une fonction de premier rang, pas comme
 Cela suppose :
 
 - Un **référent inclusion** par RIVE, formé MDPH, PPS, PAI, PAP, PPRE.
-- Des **AESH mutualisés à l’échelle de la RIVE** (et non plus suivant strictement chaque enfant), avec un suivi qualité élevé. Ce point demande une dérogation explicite au statut actuel des AESH (voir ch. 23).
+- Des **AESH mutualisés à l’échelle de la RIVE** (voir 10.6.1 ci-dessous pour les détails et les conditions).
 - Une coopération conventionnée avec **MDPH, ARS, IME, ITEP, SESSAD** : les enfants en situation de handicap ou trouble du neurodéveloppement restent dans RIVE chaque fois que c’est viable, avec leurs accompagnements dans les murs.
 - L’inclusion vaut aussi pour les **élèves à haut potentiel**, les **élèves allophones nouvellement arrivés** (UPE2A intégrée), les enfants en **rupture scolaire ou phobie scolaire** : RIVE absorbe les dispositifs aujourd’hui externalisés.
 
 L’inclusion ne doit pas devenir un drapeau. C’est un travail quotidien, lourd, qui se mesure : taux de scolarisation effective des enfants notifiés MDPH, durée moyenne avant prise en charge orthophonie, taux de jeunes sans solution à 16 ans.
+
+### 10.6.1 AESH mutualisés — préciser la « refonte PIAL »
+
+L’expression « refonte PIAL » du ch. 23 instrument 9 nécessite d’être déclinée. Le dispositif PIAL actuel mutualise déjà localement les AESH au sein d’une circonscription, mais souffre de critiques connues : dépersonnalisation du lien adulte-enfant, perte de continuité, AESH précaires et mal payés.
+
+Le modèle visé par RIVE consiste en :
+
+| Élément | État actuel | Cible RIVE |
+|---|---|---|
+| Notification MDPH | par enfant | inchangé — la MDPH reste compétente |
+| Affectation | par enfant (idéalement) ou par PIAL (en pratique) | **par équipe AESH RIVE**, avec règles de stabilité (un enfant garde le même AESH référent autant que possible) |
+| Statut | contractuel précaire | titularisation progressive, formation initiale renforcée, salaire au-dessus du SMIC, perspective de carrière |
+| Effectifs | sous-dotation chronique [REF-10] | dotation calculée à partir des notifications + besoins évalués par référent inclusion RIVE |
+| Pilotage | recteur (PIAL) | DG RIVE + recteur (co-pilotage) sous convention |
+| Évaluation | rare | annuelle, anonymisée, conjointe MDPH/RIVE/familles |
+
+**Conditions de mise en œuvre** :
+
+- Sans loi (RIVE_lite, voir ch. 23.7) : amélioration possible dans le cadre PIAL existant, avec gains marginaux. La titularisation et la mutualisation par équipe RIVE restent hors d’atteinte.
+- Avec loi de programmation RIVE : refonte complète possible, intégrée à la convention santé/inclusion (ch. 23 instrument 9).
+
+L’honnêteté impose de dire que **la cible AESH RIVE ne peut être atteinte sans loi**. La voie infra-législative s’arrête au PIAL renforcé.
+
+### 10.6.2 Pôle Santé Bassin
+
+Au niveau du bassin, plusieurs RIVEs partagent un **Pôle Santé Bassin** (ch. 5.5) qui mutualise :
+
+- Le **médecin référent** (≥ 1 ETP pour ≈ 8 RIVEs, soit ≈ 7 000 enfants — référence : densité médicale rurale acceptable).
+- Les **vacations spécialisées** : orthophoniste, psychomotricien, ophtalmologie, dentiste, pédopsychiatre.
+- Les **campagnes de dépistage** annuelles ou pluriannuelles (visuelles, dentaires, auditives, dépistage troubles d’apprentissage).
+- La **veille santé bassin** : épidémie, allergie groupée, signaux faibles.
+
+Le Pôle Santé Bassin est conventionné avec ARS, département (PMI), MENJ (médecine scolaire). Le médecin référent du Pôle peut être détaché de l’EN, recruté en contractuel par le porteur RIVE, ou délégué par l’ARS — selon le véhicule juridique retenu (ch. 22).
 
 ---

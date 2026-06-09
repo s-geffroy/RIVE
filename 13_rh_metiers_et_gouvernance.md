@@ -31,4 +31,38 @@ Tous les adultes doivent être formés à la protection de l’enfance, aux droi
 
 Les partenaires sportifs, culturels ou associatifs interviennent dans RIVE, mais ne pilotent pas la doctrine. Toute intervention doit être conventionnée : objectifs, qualifications, assurance, sécurité, protection, données, inclusion, coût, évaluation et sortie du partenariat.
 
+## 13.5 Conditions de travail des agents — amplitude 07:30–19:00
+
+L’amplitude institutionnelle 07:30–19:00 ne peut être tenue que si les conditions de travail des agents sont conçues en cohérence. Aucun agent ne fait 11,5 h par jour. Le bon principe : **roulement par équipe et plages de poste distinctes**.
+
+### 13.5.1 Trois plages de poste
+
+| Plage | Horaires type | Profils concernés |
+|---|---|---|
+| Matin élargi | 07:00–15:00 | équipe d’accueil échelonné, petit-déjeuner, encadrement matinal, agents de vie éducative tôt |
+| Journée complète | 09:00–17:00 | équipe pédagogique noyau (enseignants, éducateurs, intervenants spécialisés) |
+| Après-midi élargi | 11:00–19:00 ou 12:00–19:00 | équipe d’encadrement créneau 17:00–19:00, intervenants parcours sérieux, agents de vie éducative tardive |
+
+L’architecture des plages est définie par le règlement intérieur RIVE et négociée avec les organisations représentatives des personnels lors de la création du véhicule.
+
+### 13.5.2 Compensations et reconnaissances
+
+Les agents en plage matinale ou tardive bénéficient :
+
+- D’une **indemnité de plage** explicite (ordre de grandeur : +5 à +10 % du salaire de base).
+- D’une **priorité d’aménagement** familial (en cas d’enfants en bas âge, plage choisie en concertation).
+- D’une **rotation programmée** : aucun agent n’est durablement bloqué sur la plage la plus pénible.
+- D’une **équivalence temps de transport** prise en compte (en particulier pour le 07:00, certains transports en commun ne sont pas opérationnels).
+
+### 13.5.3 Le métier d’agent de vie éducative
+
+C’est le métier qui porte le plus la plage matinale et la plage tardive. C’est aussi le métier le plus fragile aujourd’hui (rappel ch. 13.2). RIVE doit :
+
+- Le **statutariser** : convention collective propre (à la création) ou intégration à une grille de la fonction publique territoriale.
+- Le **former** : formation initiale en alternance, formation continue obligatoire.
+- Le **payer** : salaire au-dessus du SMIC, primes plages, perspectives de carrière (mobilité interne vers d’autres métiers RIVE après expérience).
+- Le **respecter** : participation aux décisions pédagogiques, voix consultative dans la gouvernance, reconnaissance professionnelle publique.
+
+Sans ces quatre éléments, l’amplitude 07:30–19:00 devient une promesse intenable.
+
 ---

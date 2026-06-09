@@ -85,14 +85,22 @@ La v1.1 répondait : la cible doctrinale est la couverture totale par maillage d
 
 ### Règles d’accès explicites pendant la V1
 
-| Règle | Mécanisme | Justification |
-|---|---|---|
-| Sectorisation géographique d’inscription | RIVE recrute prioritairement dans un secteur défini en concertation avec collectivités et acteurs locaux | Évite l’auto-sélection par mobilité familiale |
-| Diversité sociale garantie | Quotas par décile de revenu familial (objectif : reproduire la distribution du bassin à ± 10 %) ou par zone d’habitation (mix QPV / hors QPV) | Empêche que RIVE devienne soit un RIVE-élite soit un RIVE-relégation |
-| Tirage au sort en cas de sursouscription | Tirage public, transparent, audité, avec liste d’attente prioritaire selon mixité sociale | Évite la capture par familles informées |
-| Frères et sœurs prioritaires | Priorité explicite pour les fratries dans la même RIVE | Cohérence avec ch. 12 et logique familiale |
-| Pas de critère d’admission par dossier scolaire ou parcours préalable | Aucun enfant n’est exclu pour « niveau » | Maintien de la non-sélection |
-| Communication active vers les familles éloignées de l’institution | Référent famille proactif, médiation, simplification administrative | Anti-non-recours |
+| Règle | Mécanisme | Base légale envisageable | Justification |
+|---|---|---|---|
+| Sectorisation géographique d’inscription | RIVE recrute prioritairement dans un secteur défini en concertation avec collectivités et acteurs locaux | Code de l’éducation L211-2 et L213-1 (sectorisation collège/lycée) ; règlement intérieur RIVE | Évite l’auto-sélection par mobilité familiale |
+| Diversité sociale garantie | Quotas par zone d’habitation (mix QPV / hors QPV) plutôt que par revenu familial | Code de l’urbanisme et politique de la ville (loi SRU 2000 et ses suites, AFFELNET-Lycée modèle Paris) ; conventions Cités Éducatives | Empêche que RIVE devienne soit un RIVE-élite soit un RIVE-relégation |
+| Tirage au sort en cas de sursouscription | Tirage public, transparent, audité par huissier ou commission citoyenne, avec listes d’attente prioritaires | Précédents : AFFELNET-Lycée Île-de-France (Paris, Versailles) ; concours d’admission d’établissements publics | Évite la capture par familles informées |
+| Frères et sœurs prioritaires | Priorité explicite pour les fratries dans la même RIVE | Pratique courante des EPLE (règlement intérieur) | Cohérence avec ch. 12 et logique familiale |
+| Pas de critère d’admission par dossier scolaire ou parcours préalable | Aucun enfant n’est exclu pour « niveau » | Code de l’éducation L111-1 (droit à l’éducation), L131-5 (école inclusive) | Maintien de la non-sélection |
+| Communication active vers les familles éloignées de l’institution | Référent famille proactif, médiation, simplification administrative | Convention CAF (engagement médiation), conventions départementales action sociale | Anti-non-recours |
+
+### Note sur les quotas par revenu
+
+Le projet initial v1.2 envisageait des quotas par décile de revenu familial. **Cette voie est juridiquement fragile** : la collecte du revenu fiscal des familles pour conditionner l’accès à un service public éducatif gratuit n’a pas de base légale claire et serait probablement censurée par le Conseil constitutionnel sur le fondement du principe d’égalité.
+
+La voie retenue en v1.3 est donc une **mixité par zone d’habitation** (mix QPV / hors QPV, sectorisation socialement diversifiée), inspirée des modèles AFFELNET-Lycée Paris depuis 2021 et des Cités Éducatives. Cette voie est solide juridiquement et a déjà fait ses preuves.
+
+Si une voie quotas-revenu devait être envisagée à plus long terme, elle exigerait : (a) une base légale créée par la loi de programmation RIVE (ch. 23), (b) un avis CNIL préalable, (c) un dispositif déclaratif simplifié (et non collecte fiscale directe).
 
 ### Bornage temporel et engagement de Vague 3
 

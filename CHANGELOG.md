@@ -6,6 +6,39 @@ Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le pr
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-06-09
+
+Révision après auto-challenge dur de la v1.2. Cible : honnêteté complète, sources auditables, lisibilité par niveau.
+
+### Added
+
+- **EXEC_BRIEF.md** : brief exécutif 1 page pour ministre / président d’EPCI / décideur (lecture 2 min).
+- **DOSSIER_POLITIQUE.md** : dossier politique court 5 pages pour cabinet / DGS / chef de bureau (lecture 15 min).
+- **ch. 23.7 — Voie infra-législative « RIVE_lite »** : section dédiée à ce que RIVE peut être SANS loi de programmation. Trajectoire double piste explicite (cible + lite). Conditions de bascule.
+- **ch. 24.3 bis — Surcoût d’intégration ventilé** : justification ligne par ligne (amplitude horaire, cellule santé, inclusion, parcours, pauses, Pôle Lycée Bassin, direction unifiée) remplaçant le « +10–30 % » global de la v1.2.
+- **ch. 10.6.1 — AESH et refonte PIAL précisées** : modèle visé (équipe AESH RIVE, titularisation progressive, co-pilotage DG/recteur) ; reconnaissance que la cible n’est atteignable qu’avec loi.
+- **ch. 10.6.2 — Pôle Santé Bassin** : explicité dans le ch. 10 (incohérence v1.2 corrigée).
+- **ch. 14.1 — Pôle SI Bassin** : explicité dans le ch. 14 (incohérence v1.2 corrigée).
+- **ch. 13.5 — Conditions de travail amplitude 07:30–19:00** : trois plages de poste, compensations, statut de l’agent de vie éducative.
+- **ch. 16.2 — Indicateurs primaires complétés** : composition sociale publiée annuellement, décrochage post-16, accès aux parcours sérieux par décile.
+- **ch. 18 — Horizon trans-mandats** : portage par l’infra-politique, verrous de réversibilité, doctrine trans-partisane.
+- **ch. 8.3 bis — Résolution tension calendrier propre vs zones académiques** : grandes pauses alignées sur zones A/B/C, été raccourci par les deux bouts, semaine éducative supplémentaire en option, semaines d’instruction allégées.
+- **ch. 6.7.4 — Mutualisation à 4 échelles** des spécialités pro pour couvrir le maximum : Pôle local, inter-bassins, alternance, partenariat EN.
+- **ch. 6.7.4 bis — Spécialisation différenciée** des Pôles Lycée Bassin entre eux (carte régionale des spécialités).
+
+### Changed
+
+- **ch. 20.10 — Sources budgétaires** : remplacement des hashtags par des références citables [REF-1] à [REF-23] avec édition, indicateur principal, localisation (chapitre / tableau).
+- **ch. 24 — Ratios sourcés** : chaque ligne du § 24.2, 24.3, 24.4, 24.5 porte des références [REF-N] vers le ch. 20.10.
+- **ch. 24.5 — Ratios EAJE corrigés** : critère « marche acquise » (décret 30/08/2021) au lieu d’un seuil d’âge approximatif.
+- **ch. 24.4 bis — Fonds d’égalité localisé** : 3–5 % en bassin moyen, **7–10 % en bassin en quartier populaire**. Justification quantifiée.
+- **ch. 25.4 — Tirage au sort et base légale** : remplacement des quotas par revenu (juridiquement fragile) par une mixité par zone d’habitation (modèle AFFELNET-Lycée Paris). Bases légales citées pour chaque règle d’accès.
+- **ch. 6.6 / 6.7 — Frontière 14–16 / 16–18 clarifiée** : la Maison Horizon prend le relais à l’entrée en seconde, pas à l’âge biologique 16.
+
+### Documentation
+
+- Index `00_index.md` et `README.md` portés à v1.3 avec les trois entrées documentaires en tête.
+
 ## [1.2.0] - 2026-06-09
 
 Révision de rigueur d'instruction politique après auto-challenge dur de la v1.1. Cible : tenir devant un chef de bureau ministériel ou un DGS exigeant.
@@ -95,7 +128,8 @@ Révision de rigueur d'instruction politique après auto-challenge dur de la v1.
   - `20_references_publiques_a_verifier_avant_instruction.md`
   - `21_conclusion.md`
 
-[Unreleased]: https://github.com/s-geffroy/RIVE/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/s-geffroy/RIVE/compare/v1.3.0...HEAD
+[1.3.0]: https://github.com/s-geffroy/RIVE/compare/v1.2.0...v1.3.0
 [1.2.0]: https://github.com/s-geffroy/RIVE/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/s-geffroy/RIVE/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/s-geffroy/RIVE/releases/tag/v1.0.0

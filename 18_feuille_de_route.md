@@ -60,4 +60,38 @@ Une fois le bassin V1 couvert (Vague 3 achevée), la doctrine est **diffusée** 
 
 Aucune ouverture nationale uniforme n’est dans la doctrine RIVE — la qualité tient à la taille humaine de chaque unité et à l’ancrage local de chaque maillage.
 
+## Horizon trans-mandats : posture stratégique
+
+RIVE est un projet à horizon 10 à 15 ans entre la phase 0 et le maillage complet d’un bassin. Cet horizon **dépasse structurellement la durée d’un mandat politique** (5 ans pour le président, 6 ans pour le maire, 5 ans pour le conseiller régional).
+
+Aucun élu ne porte personnellement un projet à 12 ans. La survie politique de RIVE exige donc une **stratégie trans-mandats explicite** :
+
+### Portage par l’infra-politique
+
+- **Élus locaux dans la durée** : un président d’EPCI ou un maire peut être réélu et porter le projet sur 12 ans (deux mandats), à condition que la coalition locale tienne.
+- **Hauts fonctionnaires territoriaux** : DGS et DGA enfance/éducation restent souvent en poste plus longtemps que les élus et sont les garants de la continuité.
+- **Préfet, recteur d’académie, directeur CAF** : portages d’État relativement stables, transmissibles entre titulaires.
+- **Conseil de bassin RIVE** : instance citoyenne (familles, équipes, partenaires) qui devient progressivement le gardien du projet, au-delà des alternances.
+
+### Verrous de réversibilité
+
+Le Blue Book doit prévoir des **verrous** qui rendent l’arrêt de RIVE coûteux politiquement, même pour un successeur hostile :
+
+- **Engagements pluriannuels écrits** dans la convention constitutive du véhicule (ch. 22), 5 à 7 ans renouvelables.
+- **Investissements bâtimentaires** déjà réalisés et difficiles à revendre.
+- **Compétences déléguées** entre acteurs publics, difficile à reprendre unilatéralement.
+- **Communauté éducative** mobilisée (familles, équipes, partenaires) qui devient une force d’opposition à tout arrêt brutal.
+- **Publication annuelle d’une évaluation indépendante** qui rend l’arrêt sans justification coûteux pour le successeur.
+
+### Doctrine trans-partisane
+
+RIVE doit être conçu pour être **adopté par des coalitions de couleurs politiques différentes**. Cela suppose :
+
+- Pas de marqueur idéologique fort dans le nom et la communication.
+- Une doctrine qui parle à la fois aux thèmes de gauche (égalité d’accès, service public fort, lutte contre la fragmentation) et aux thèmes de droite (qualité, autorité, ancrage territorial, lien parents-enfants protégé).
+- Un véhicule juridique (ch. 22) qui n’est pas associé à une seule famille politique.
+- Une évaluation indépendante (ch. 16) qui protège la doctrine des contestations partisanes.
+
+L’honnêteté : si la stratégie trans-mandats échoue, RIVE risque l’abandon ou le démantèlement à mi-parcours. C’est l’un des risques majeurs (ch. 17.9).
+
 ---

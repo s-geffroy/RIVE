@@ -10,39 +10,60 @@ Les chiffres ci-dessous sont des **ratios de cadrage**, ni un budget territorial
 
 ## 24.2 Repères du système actuel (ordres de grandeur en €/enfant/an)
 
-| Fonction actuelle | Coût annuel par enfant (ordre de grandeur) | Source principale |
-|---|---:|---|
-| Crèche publique (3 mois–3 ans), coût total acteurs publics | 12 000–18 000 | [HCFEA — Accueil du jeune enfant, rapports annuels] ; [CNAF — rapport d’activité PSU] |
-| Maternelle (3–6 ans), État + commune | 7 000–9 000 | [DEPP — RERS, indicateur dépense intérieure d’éducation par élève] |
-| Élémentaire (6–11 ans), État + commune | 6 500–8 500 | [DEPP — RERS] |
-| Collège (11–15 ans), État + département | 9 500–11 500 | [DEPP — RERS] |
-| Lycée général et technologique (15–18 ans), État + région | 11 500–13 500 | [DEPP — RERS] |
-| Lycée professionnel (15–18 ans), État + région | 13 500–15 500 | [DEPP — RERS] |
-| Périscolaire et accueil de loisirs (mercredi, vacances) | 1 500–3 500 | [CNAF — données ALSH] ; [Cour des Comptes — rapports périscolaire] |
-| Restauration scolaire (reste à charge collectivité après tarif famille) | 800–1 500 | [Cour des Comptes — restauration collective scolaire] |
-| Conservatoire / club sportif par enfant pratiquant (subvention publique) | 1 000–4 000 | [Injep — pratiques culturelles et sportives] ; [collectivités — budgets culture/sport ouverts] |
+Les références entre crochets renvoient au ch. 20.10. **Tous les chiffres ci-dessous sont à actualiser** à partir des dernières éditions des sources citées au moment de l’instruction du dossier réel.
 
-L’enfant français moyen mobilise donc, toutes lignes additionnées et selon l’âge, **8 000 à 20 000 € par an** de dépense publique éducative — sans compter les coûts internes des familles. Sources DEPP/RERS, INSEE, CNAF, HCFEA, Cour des Comptes (voir ch. 20.10).
+| Fonction actuelle | Coût annuel par enfant (ordre de grandeur) | Référence |
+|---|---:|:-:|
+| Crèche publique (3 mois–3 ans), coût total acteurs publics par place | 14 000–18 000 | [REF-4], [REF-5] |
+| Maternelle (3–6 ans), État + commune | 7 000–9 000 | [REF-1] tab. 7.06 |
+| Élémentaire (6–11 ans), État + commune | 7 000–8 500 | [REF-1] tab. 7.06 |
+| Collège (11–15 ans), État + département | 10 000–11 500 | [REF-1] tab. 7.06 |
+| Lycée général et technologique (15–18 ans), État + région | 12 000–13 500 | [REF-1] tab. 7.06 |
+| Lycée professionnel (15–18 ans), État + région | 14 000–15 500 | [REF-1] tab. 7.06 |
+| Périscolaire et accueil de loisirs (mercredi, vacances) | 1 500–3 500 | [REF-7], [REF-8] |
+| Restauration scolaire (reste à charge collectivité après tarif famille) | 800–1 500 | [REF-15] |
+| Médecine scolaire | 50–80 | [REF-9] |
+| AESH (rapporté à un élève notifié MDPH) | 12 000–18 000 par enfant accompagné | [REF-10] |
+| Conservatoire / club sportif par enfant pratiquant (subvention publique) | 1 000–4 000 | [REF-21], [REF-22] |
+
+L’enfant français moyen mobilise donc, toutes lignes additionnées et selon l’âge, **8 000 à 20 000 € par an** de dépense publique éducative — sans compter les coûts internes des familles. Les enfants notifiés MDPH (≈ 4 % des effectifs scolaires, source [REF-10]) mobilisent un budget supplémentaire AESH significatif.
 
 ## 24.3 Ratios cibles RIVE (par tranche d’âge)
 
-Méthode : repère du coût actuel par niveau (§ 24.2, sources DEPP/RERS, HCFEA, CNAF) + surcoût intégration (santé/inclusion étendues, accueil 07:30–19:00, pauses éducatives, parcours sport/culture hébergés, petit-déjeuner). Ce surcoût est estimé entre +10 % et +30 % selon la tranche, à valider par audit budgétaire localisé en phase 0.
+Méthode : repère du coût actuel par niveau (§ 24.2) + surcoût d’intégration ventilé (§ 24.3 bis). Le surcoût global s’établit entre +17 % et +30 % selon la tranche d’âge, justifié ligne par ligne plutôt qu’en pourcentage global. À valider par audit budgétaire localisé en phase 0.
 
-| Tranche | Coût actuel acteurs publics | Surcoût RIVE estimé | Fourchette RIVE €/enfant/an |
-|---|---:|:-:|---:|
-| 3 mois–3 ans (Maison Nid) | 14 000–18 000 | +15–20 % | 16 000–22 000 |
-| 3–6 ans (Maison Éveil) | 8 500–11 000 | +20–25 % | 10 000–13 500 |
-| 6–8 ans (Maison Fondations) | 8 500–10 500 | +20–25 % | 10 000–12 500 |
-| 8–11 ans (Maison Exploration) | 9 500–11 500 | +20–25 % | 11 000–13 500 |
-| 11–14 ans (Maison Adolescence I) | 11 000–13 000 | +20–25 % | 13 000–15 500 |
-| 14–16 ans (Maison Adolescence II) | 12 000–14 500 | +15–25 % | 14 000–17 000 |
-| 16–18 ans (Maison Horizon, voie générale courante) | 12 500–14 500 | +15–20 % | 14 500–17 500 |
-| Pôle Lycée Bassin, voie générale spécialités rares | 13 500–15 500 | +15 % | 15 500–18 000 |
-| Pôle Lycée Bassin, voie technologique | 13 500–15 500 | +15–20 % | 15 500–18 500 |
-| Pôle Lycée Bassin, voie professionnelle | 15 000–18 000 | +15–20 % | 17 000–21 000 |
-| **Moyenne pondérée RIVE** | — | — | **≈ 13 000–16 500** |
+### 24.3 bis Surcoût d’intégration ventilé
 
-Sources : DEPP/RERS pour le coût actuel par niveau ; HCFEA et CNAF pour la petite enfance ; Cour des Comptes pour le périscolaire et la restauration (voir ch. 20.10).
+Le surcoût RIVE par rapport au cumul actuel des dépenses publiques équivalentes se ventile ainsi :
+
+| Composante du surcoût | % cumulé approximatif | Justification |
+|---|:-:|---|
+| Amplitude horaire 07:30–19:00 (vs amplitude actuelle école + ALSH 08:00–18:00) | +5 à +8 % | Plage horaire +1 à +2 h par jour, encadrement renforcé matin et soir, petit-déjeuner. Référence : coût ALSH allongée [REF-7]. |
+| Cellule santé intégrée (vs médecine scolaire actuelle) | +2 à +4 % | Cour des Comptes [REF-9] : la médecine scolaire actuelle est très sous-dotée (≈ 50–80 €/élève/an). Cellule santé RIVE (infirmerie présente, médecin référent, psychologue, vacations) ≈ 200–400 €/enfant/an. |
+| Inclusion étendue (AESH mutualisés, UPE2A, lien MDPH dans RIVE) | +3 à +5 % | Refonte PIAL + AESH mutualisés à l’échelle RIVE (réforme statutaire requise). Hypothèse : passage du modèle individuel coûteux et inégalitaire à un modèle mutualisé de qualité équivalente [REF-10]. |
+| Parcours sport/culture hébergés (conservatoire, clubs, théâtre intégrés) | +3 à +5 % | Subventions publiques cumulées aux conservatoires + clubs ≈ 200–800 €/enfant pratiquant. Intégration dans RIVE = ≈ 400–1 000 €/enfant en accès garanti. |
+| Pauses éducatives renforcées (vs ALSH vacances actuel) | +2 à +4 % | Activités plus riches, séjours intégrés, ratio adulte/enfant supérieur. |
+| Pôle Lycée Bassin (techno/pro mutualisé, plateaux techniques) | +1 à +3 % du budget moyen RIVE | Plateaux techniques lycée pro = poste lourd, mais l’absorber depuis l’EN n’ajoute pas grand chose au coût bassin total. |
+| Direction unifiée + SI commun + évaluation indépendante | +1 à +2 % | Coûts structurels nouveaux (DG, équipe SI, marché d’évaluation publique). |
+| **Total surcoût intégration** | **+17 à +30 %** | Selon tranche et selon ambitions locales. |
+
+Sources : [REF-1], [REF-4], [REF-5], [REF-7], [REF-9], [REF-10], [REF-15], [REF-21] (voir ch. 20.10).
+
+| Tranche | Coût actuel acteurs publics | Surcoût RIVE | Fourchette RIVE €/enfant/an | Réf. |
+|---|---:|:-:|---:|:-:|
+| 3 mois–3 ans (Maison Nid) | 14 000–18 000 | +15–20 % | 16 000–22 000 | [REF-4][REF-5] |
+| 3–6 ans (Maison Éveil) | 8 500–11 000 | +20–25 % | 10 000–13 500 | [REF-1] |
+| 6–8 ans (Maison Fondations) | 8 500–10 500 | +20–25 % | 10 000–12 500 | [REF-1] |
+| 8–11 ans (Maison Exploration) | 9 500–11 500 | +20–25 % | 11 000–13 500 | [REF-1] |
+| 11–14 ans (Maison Adolescence I) | 11 000–13 000 | +20–25 % | 13 000–15 500 | [REF-1] |
+| 14–16 ans (Maison Adolescence II) | 12 000–14 500 | +15–25 % | 14 000–17 000 | [REF-1] |
+| 16–18 ans (Maison Horizon, voie générale courante) | 12 500–14 500 | +15–20 % | 14 500–17 500 | [REF-1] |
+| Pôle Lycée Bassin, voie générale spécialités rares | 13 500–15 500 | +15 % | 15 500–18 000 | [REF-1] |
+| Pôle Lycée Bassin, voie technologique | 13 500–15 500 | +15–20 % | 15 500–18 500 | [REF-1] |
+| Pôle Lycée Bassin, voie professionnelle | 15 000–18 000 | +15–20 % | 17 000–21 000 | [REF-1] |
+| **Moyenne pondérée RIVE** | — | — | **≈ 13 000–16 500** | — |
+
+Sources principales : [REF-1] DEPP/RERS pour le coût actuel par niveau ; [REF-4][REF-5] HCFEA et CNAF pour la petite enfance ; [REF-7][REF-15] Cour des Comptes pour le périscolaire et la restauration (voir ch. 20.10).
 
 Ces ratios incluent l’intégralité de la chaîne (instruction + restauration + sport + culture + santé + inclusion + pauses éducatives + petit-déjeuner + 07:30–19:00), ce que le système actuel ne fait pas dans une seule ligne.
 
@@ -52,17 +73,17 @@ Référence comparative : DEPP/RERS indique que la masse salariale enseignante r
 
 | Bloc | Part cible | Référence comparative |
 |---|:-:|---|
-| RH totale (enseignants, éducateurs, vie éducative, santé, culture, sport, encadrement) | 58–63 % | DEPP/RERS : EPLE ≈ 70 % ; crèches PSU ≈ 75 % ; ALSH ≈ 60 % |
-| Bâtiments (entretien, énergie, fluides ; foncier supposé existant) | 8–10 % | Collectivités — données budgétaires ouvertes |
-| Restauration (achats, cuisine, personnels) | 7–9 % | Cour des Comptes — restauration scolaire |
-| Sport, culture, parcours (matériel, intervenants partenaires) | 5–7 % | Injep / collectivités |
-| Pauses éducatives (séjours, stages, déplacements) | 3–5 % | CNAF — données ALSH vacances |
-| Mobilité (navettes, encadrement trajets) | 2–3 % | Collectivités — transports scolaires |
-| Santé / inclusion (vacations, AESH mutualisés, matériel) | 3–5 % | MENJ — bilan AESH ; ARS |
-| SI, données, LLM | 1–2 % | DINUM / collectivités |
-| Formation continue (≥ 5 % de la masse salariale, soit ≥ 3 % du budget) | 2–3 % | Recommandation OCDE |
+| RH totale (enseignants, éducateurs, vie éducative, santé, culture, sport, encadrement) | 58–63 % | [REF-1] EPLE ≈ 70 % ; [REF-5] crèches PSU ≈ 75 % ; [REF-7] ALSH ≈ 60 % |
+| Bâtiments (entretien, énergie, fluides ; foncier supposé existant) | 8–10 % | [REF-22] OFGL |
+| Restauration (achats, cuisine, personnels) | 7–9 % | [REF-15] |
+| Sport, culture, parcours (matériel, intervenants partenaires) | 5–7 % | [REF-21], [REF-22] |
+| Pauses éducatives (séjours, stages, déplacements) | 3–5 % | [REF-5], [REF-8] |
+| Mobilité (navettes, encadrement trajets) | 2–3 % | [REF-22] |
+| Santé / inclusion (vacations, AESH mutualisés, matériel) | 3–5 % | [REF-9], [REF-10] |
+| SI, données, LLM | 1–2 % | Standard ETI publique |
+| Formation continue (≥ 5 % de la masse salariale, soit ≥ 3 % du budget) | 2–3 % | [REF-19] OCDE |
 | Évaluation indépendante | 0,5–1 % | Standard évaluation publique |
-| Fonds d’égalité (tarification sociale, accès sans frein, séjours longs) | 3–5 % | Voir § 24.4 bis pour justification |
+| Fonds d’égalité (tarification sociale, accès sans frein, séjours longs) | 3–5 % | Voir § 24.4 bis |
 | Assurance, contingence, divers | 2–3 % | — |
 
 La part RH est explicite et non négociable. Une part RH inférieure à 55 % serait un signal d’alerte (sous-investissement, dérive vers garderie sophistiquée).
@@ -71,19 +92,19 @@ La part RH est explicite et non négociable. Une part RH inférieure à 55 % ser
 
 Le fonds d’égalité a été revu à la hausse (3–5 %, contre 1–2 % en v1.1) après audit de cohérence. Justification :
 
-- Sur 7 000 enfants d’un bassin (cible maillage), environ **20 % vivent sous le seuil de pauvreté** (donnée INSEE moyenne nationale ; à actualiser par bassin réel). Soit ≈ 1 400 enfants.
+- Sur 7 000 enfants d’un bassin (cible maillage), environ **20 % vivent sous le seuil de pauvreté** ([REF-16][REF-17] moyenne nationale ; **fortement à actualiser par bassin réel** : 5 % en péri-urbain favorisé, jusqu’à 40 % en QPV). Hypothèse moyenne 20 % = ≈ 1 400 enfants.
 - Un séjour long bien fait coûte 1 500–3 000 €/enfant.
 - Pour garantir 1 séjour long par cycle à ces 1 400 enfants : ≈ 2,5 M€/an, soit ≈ 2 % d’un budget bassin à 100 M€.
 - À cela s’ajoutent : tarification sociale repas, séjours courts, accès parcours sport/culture sans cotisation famille, équipements (instruments, équipements sportifs personnels), petits déplacements famille-RIVE pour enfants éloignés.
 
-Soit un fonds d’égalité crédible **entre 3 et 5 %** du budget total. Un fonds en dessous transformerait l’égalité d’accès en fiction (voir ch. 17.8).
+Soit un fonds d’égalité crédible **entre 3 et 5 %** du budget total pour un bassin moyen. **Pour un bassin en quartier populaire (Vague 2), le fonds doit monter à 7–10 %** au minimum — sinon l’égalité d’accès devient fiction. Un fonds en dessous transformerait l’égalité d’accès en fiction (voir ch. 17.8).
 
 ## 24.5 Ratios ETP / enfant
 
 | Tranche | Ratio ETP / enfant (encadrement direct, hors transversaux) | Référence |
 |---|:-:|---|
-| 3 mois–1 an | 1 / 5 | décret 30/08/2021 sur EAJE |
-| 1–3 ans | 1 / 8 | décret 30/08/2021 |
+| enfants ne marchant pas (≈ 3 mois – 12 mois) | 1 / 5 | [REF-6] décret 30/08/2021, critère : marche acquise (non l’âge) |
+| enfants qui marchent (≈ 12 mois – 3 ans) | 1 / 8 | [REF-6] décret 30/08/2021 |
 | 3–6 ans | 1 / 12 | DEPP/RERS, maternelle |
 | 6–11 ans | 1 / 16 | DEPP/RERS, élémentaire |
 | 11–14 ans | 1 / 18 | DEPP/RERS, collège (cohérent) |

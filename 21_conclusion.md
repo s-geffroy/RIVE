@@ -10,8 +10,8 @@ RIVE ne cherche pas à tout faire à la place des familles. Il cherche à faire 
 
 La V1 doit maintenant être instruite froidement : territoire réel, bâtiments réels, coût réel, RH réelle, partenaires réels, risques réels. C’est seulement à cette condition que RIVE peut passer de l’idée forte au système testable.
 
-**Fin du corps doctrinal du Blue Book RIVE V1 (révision v1.2).**
+**Fin du corps doctrinal du Blue Book RIVE V1 (révision v1.3).**
 
 Les chapitres 22 à 26 qui suivent complètent le Blue Book à la demande d’une instruction politique : portage juridique, articulation Éducation nationale, ratios budgétaires, cohérence doctrinale et reformulation du droit aux pauses éducatives. Ils n’ajoutent pas de doctrine nouvelle ; ils instruisent ce qui restait ouvert dans la v1 initiale.
 
-La révision v1.2 corrige les fragilités introduites par la v1.1 : ratios budgétaires désormais sourcés (ch. 24 et ch. 20), chaîne juridique de l’absorption EN complète (ch. 23), portage juridique repivoté (ch. 22), faisabilité du lycée explicitée par mutualisation bassin (ch. 6.7 et ch. 5.5), honnêteté doctrinale sur les limites résiduelles (ch. 25), présence individuelle bornée (principe 3.8), Vague 3 du maillage explicite (ch. 18).
+La révision v1.3 corrige les fragilités introduites par la v1.2 : voie infra-législative « RIVE_lite » assumée pour permettre un démarrage sans loi (ch. 23.7), sources budgétaires citables avec codes [REF-N] et surcoût d’intégration ventilé ligne par ligne (ch. 20 et ch. 24), précisions sur AESH et Pôle Santé Bassin (ch. 10), base légale du tirage au sort (ch. 25), résolution de la tension calendrier vs zones académiques (ch. 8), stratégie trans-mandats (ch. 18), conditions de travail amplitude 07:30–19:00 (ch. 13), mutualisation à 4 échelles des spécialités pro (ch. 6.7), indicateurs primaires d’évaluation complétés (ch. 16). Trois entrées documentaires sont introduites pour la lecture par niveau : brief exécutif, dossier court, Blue Book complet.

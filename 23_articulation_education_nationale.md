@@ -138,6 +138,72 @@ Le **Scénario C (parallèle)** n’est pas recommandé pour la V1 : il fragilis
 
 La loi de programmation RIVE n’est crédible que si une majorité parlementaire ou un cabinet ministériel s’engage à porter le texte. Les fenêtres-types : début de quinquennat (programme présidentiel), suite d’un rapport public marquant (Cour des Comptes, France Stratégie, mission parlementaire), ou réponse à une crise éducative ouverte. Le calendrier de la V1 doit s’aligner sur ces fenêtres et non l’inverse.
 
+## 23.7 La voie infra-législative (« RIVE_lite »)
+
+L’honnêteté impose de reconnaître que la loi de programmation peut prendre 5 à 10 ans avant de s’ouvrir. Dans cet intervalle, RIVE doit pouvoir exister sans loi, en exploitant uniquement le droit en vigueur. Cette voie est appelée **RIVE_lite** dans ce chapitre.
+
+### 23.7.1 Ce que permet le droit en vigueur
+
+Sans loi nouvelle, mobilisables :
+
+| Instrument | Apport |
+|---|---|
+| Article L401-1 | Dérogations pédagogiques au sein d’un EPLE expérimental |
+| Article L421-19-17 et s. | Gouvernance étendue type EPLEI (modèle à imiter pour RIVE) |
+| PEDT (Projet Éducatif De Territoire) | Coordination scolaire / périscolaire / culturel / sport, signé Académie + Préfet + Collectivité |
+| Plan Mercredi | Cadre périscolaire qualitatif |
+| ALSH (CNAF) | Pauses éducatives, base CAF |
+| PSU (CNAF) | Petite enfance |
+| Convention santé scolaire bilatérale | Médecine scolaire mutualisée à la marge |
+| PIAL existant | Mutualisation AESH dans le cadre actuel (par circonscription) |
+| GIP ou SCIC | Véhicule juridique pour porter l’ensemble |
+
+### 23.7.2 Ce que RIVE_lite peut faire
+
+- **07:30–19:00 d’amplitude** : oui, via convention CAF (ALSH) + PEDT + commune.
+- **Restauration + santé + inclusion + culture + sport + parcours intégrés** : oui, via GIP/SCIC porteur.
+- **Petite enfance intégrée** : oui, via délégation PSU et coordination PMI.
+- **Calendrier propre (semaines allégées)** : partiel, dans la limite des dérogations L401-1.
+- **Tronc commun lycée + voie générale partielle** : oui, dans un EPLE expérimental.
+- **Cellule santé intégrée** : oui, via convention bilatérale ARS / Académie.
+- **Évaluation indépendante** : oui, via marché d’évaluation publique classique.
+
+### 23.7.3 Ce que RIVE_lite NE peut PAS faire
+
+- **Vraies dérogations au calendrier scolaire national** (zones A/B/C, dates DNB/bac) — relève d’un arrêté ministériel hors du droit en vigueur.
+- **Détachement massif d’enseignants sous autorité fonctionnelle d’un DG non EN** — précaire juridiquement à grande échelle.
+- **AESH vraiment mutualisés à l’échelle RIVE** au-delà du cadre PIAL — exige réforme statutaire nationale.
+- **Pôle Lycée Bassin mutualisé en autorité unique** — la sectorisation lycée reste académique.
+- **Pôle Santé Bassin absorbant la médecine scolaire** — partage de compétence ARS/EN/département complexe à conventionner.
+
+Ces limites doivent être assumées et communiquées. RIVE_lite est un **PEDT renforcé sous gouvernance unifiée**, pas l’absorption complète promise par le scénario A.
+
+### 23.7.4 Trajectoire double piste
+
+La V1 doit donc être conçue selon une **trajectoire double piste** :
+
+```
+Piste 1 (cible)       : V1 → fenêtre législative → loi RIVE → cible bassin
+Piste 2 (RIVE_lite)   : V1_lite → consolidation infra-législative → maillage_lite
+```
+
+La trajectoire double piste a deux conséquences :
+
+1. **La V1 doit être conçue dès l’origine pour fonctionner en mode RIVE_lite**, et passer au mode cible si et seulement si la loi se vote.
+2. **La V1 ne doit jamais sur-promettre.** Communiquer « RIVE est l’intégration totale école/périscolaire/santé/culture » sans loi, c’est dire le faux et préparer la déception. Vrai : « RIVE est un saut qualitatif d’intégration, dans la limite du droit en vigueur ».
+
+### 23.7.5 Critère de bascule piste 1 → cible
+
+La bascule de RIVE_lite vers la cible complète exige :
+
+1. Loi de programmation RIVE votée + décret d’application.
+2. Arrêté calendrier RIVE publié.
+3. Convention nationale enseignants signée.
+4. Budget de transition assuré (≥ 18 mois).
+5. Audit d’acceptabilité interne (équipes, familles, partenaires).
+
+Sans ces 5 conditions, la cible n’est pas activée. RIVE reste en mode lite indéfiniment — ce qui n’est pas un échec : c’est l’honnêteté d’un dispositif sans loi.
+
 ## 23.7 Décisions à prendre en phase 0
 
 - Désigner l’interlocuteur ministériel (cabinet du MENJ, DGESCO, recteur d’académie).

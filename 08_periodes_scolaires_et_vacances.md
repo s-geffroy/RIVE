@@ -24,15 +24,29 @@ L’option exacte (4 jours pleins / 4,5 jours allégés / 5 jours allégés) est
 
 | Période | Durée RIVE | Comparatif national |
 |---|---|---|
-| Été | 5 à 6 semaines | ≈ 8 semaines |
+| Été | 5 à 6 semaines de pause familiale | ≈ 8 semaines |
 | Toussaint | 2 semaines | 2 semaines |
 | Hiver | 2 semaines | 2 semaines |
 | Printemps | 2 semaines | 2 semaines |
 | Fin d’année | 2 semaines | 2 semaines |
-| Total pauses | ≈ 13–14 semaines | ≈ 16 semaines |
-| Total éducatif | ≈ 38–39 semaines | ≈ 36 semaines |
+| Total pauses familiales | ≈ 13–14 semaines | ≈ 16 semaines |
+| Total éducatif (présence RIVE possible) | ≈ 38–39 semaines | ≈ 36 semaines |
 
-Soit ≈ **2–3 semaines d’ouverture éducative supplémentaires par an** comparé au calendrier national, sans alourdir la charge quotidienne.
+Soit ≈ **2–3 semaines d’ouverture éducative supplémentaires par an** comparé au calendrier national.
+
+### 8.3 bis Résoudre la tension calendrier propre vs zones A/B/C
+
+La tension entre calendrier propre et zones académiques A/B/C, restée ouverte en v1.1 et v1.2, se résout ainsi :
+
+1. **Les dates de début et de fin des grandes pauses (été, Noël, Toussaint, hiver, printemps) restent alignées sur les zones académiques A/B/C** de la zone d’appartenance du bassin. C’est non négociable : familles, transports, examens DNB/bac restent cadrés nationalement.
+2. **L’été est raccourci par les deux bouts** : RIVE rouvre la dernière semaine d’août (et non début septembre) et anticipe la sortie estivale de quelques jours. Gain : ≈ 1,5 semaine.
+3. **Les vacances de fin d’année et les petites pauses** sont conservées à 2 semaines.
+4. **Une « semaine éducative supplémentaire »** est ouverte à l’intérieur d’une grande pause au choix (par exemple : 3e semaine de Toussaint en option facultative pour stages et projets, hors instruction scolaire).
+5. **La densité hebdomadaire d’instruction** est réduite (moins d’heures de classe par jour, plus de plages de respiration). Cette réduction est compensée par les 1,5 à 2 semaines d’ouverture éducative en plus.
+
+Cette voie est compatible avec le droit en vigueur (le calendrier RIVE des semaines supplémentaires est un calendrier *éducatif* sans portée scolaire stricte) et préserve le calendrier national pour les départs familiaux et les examens.
+
+**Sans loi de programmation**, c’est la seule voie réaliste. Avec loi, une dérogation au calendrier scolaire national (zones A/B/C) deviendrait possible et permettrait un calendrier propre plus profond. Voir ch. 23.
 
 ## 8.4 Statut des pauses éducatives
 

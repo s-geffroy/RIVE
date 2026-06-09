@@ -76,24 +76,67 @@ Ces références ne remplacent pas une analyse juridique. Elles indiquent les ca
 - CRIP départementale, dispositif 119.
 - Recommandations HAS et ANESM en protection de l’enfance.
 
-## 20.10 Données budgétaires et statistiques
+## 20.10 Données budgétaires et statistiques — sources auditables
 
-Sources mobilisées pour les ratios du chapitre 24.
+Sources mobilisées pour les ratios du chapitre 24. Chaque source est référencée avec le minimum d’information nécessaire à une vérification rapide. **Édition à actualiser à la dernière édition publiée** au moment de l’instruction.
 
-- **DEPP — RERS** (Repères et références statistiques sur les enseignements, la formation et la recherche, MENJ, annuel) : coûts par élève par niveau et par voie ; effectifs ; taux d’encadrement ; résultats aux examens.
-- **DEPP — Géographie de l’École** : disparités territoriales.
-- **DEPP — Bilan social du ministère** : effectifs et carrières des enseignants.
-- **INSEE** : démographie par tranche d’âge, par EPCI, par commune ; revenus médians par bassin de vie.
-- **CAF / CNAF — données ouvertes** : fréquentation ALSH, EAJE, allocations.
-- **CAF / CNAF — rapport annuel d’activité**.
-- **HCFEA — rapports annuels** : « L’accueil des jeunes enfants », « État de l’enfance ».
-- **Cour des Comptes** : rapports thématiques éducation, périscolaire, sport, jeunesse (référé annuel + rapports publics).
-- **Cour des Comptes — La gestion des enseignants** (référé 2017 et suivants).
-- **Caisse des Dépôts — Banque des Territoires** : études secteur éducatif, financement périscolaire.
-- **OCDE — Regards sur l’éducation** : comparatifs internationaux €/élève, temps d’instruction, ratios.
-- **France Stratégie / CNESCO** : études évaluation, inégalités éducatives.
-- **ANS / Injep** : pratiques sportives et culturelles des jeunes.
-- **Données ouvertes data.gouv.fr** : finances locales, budgets éducatifs collectivités.
+### Coût par élève / par enfant
+
+- **[REF-1] DEPP — RERS** : *Repères et références statistiques sur les enseignements, la formation et la recherche*, MENJ, édition annuelle (dernière édition disponible : RERS 2024, parution septembre).
+  - Indicateur principal : « Dépense intérieure d’éducation (DIE) par élève », par niveau (préélémentaire, élémentaire, collège, lycée GT, lycée pro) et par origine (État, collectivités).
+  - Localisation : chapitre 7 « Coût et financement », tableaux 7.06 à 7.08 dans les éditions récentes.
+  - URL pérenne : `https://www.education.gouv.fr/reperes-et-references-statistiques`
+- **[REF-2] DEPP — L’état de l’École** : édition annuelle, synthèse des chiffres clés MENJ.
+- **[REF-3] DEPP — Bilan social du ministère** : annuel, effectifs et carrières enseignants.
+
+### Petite enfance
+
+- **[REF-4] HCFEA — Rapport annuel sur l’accueil du jeune enfant** : Haut Conseil de la famille, de l’enfance et de l’âge, édition annuelle.
+  - Indicateurs : coût horaire complet par mode de garde, capacité offerte, taux de couverture.
+  - URL : `https://www.strategie.gouv.fr/publications` (section HCFEA).
+- **[REF-5] CNAF — Rapport d’activité annuel et données ouvertes** : prestations PSU, prestation accueil, données ALSH.
+- **[REF-6] Décret n° 2021-1131 du 30 août 2021** relatif aux assistants maternels et aux établissements d’accueil de jeunes enfants (codification des taux d’encadrement, normes de surface).
+
+### Périscolaire et accueil de loisirs
+
+- **[REF-7] Cour des Comptes — rapports publics thématiques** : périscolaire, restauration scolaire (référés et rapports périodiques, dernier référé restauration scolaire 2020).
+- **[REF-8] CNAF — données ouvertes ALSH** : `data.caf.fr`.
+
+### Santé scolaire et inclusion
+
+- **[REF-9] Cour des Comptes — *La médecine scolaire* (2020)** : référé public.
+- **[REF-10] DEPP — Données AESH** : bilan annuel effectifs et coûts.
+- **[REF-11] MENJ — Note d’information PIAL** : organisation, effectifs.
+
+### Enseignants
+
+- **[REF-12] Cour des Comptes — *La gestion des enseignants* (2017)** + suites.
+- **[REF-13] Décret n° 2014-940 du 20 août 2014** : obligations de service des enseignants 2nd degré.
+
+### Restauration
+
+- **[REF-14] Loi EGAlim** (loi n° 2018-938 du 30 octobre 2018) — articles sur la restauration collective.
+- **[REF-15] Cour des Comptes — *La restauration collective publique* (référé 2020)**.
+
+### Démographie et revenus
+
+- **[REF-16] INSEE — Bilan démographique** : annuel.
+- **[REF-17] INSEE — Données ouvertes filosofi** : revenus médians par bassin, EPCI, commune.
+- **[REF-18] INSEE — recensement par tranche d’âge** : effectifs jeunesse par bassin.
+
+### Comparatifs internationaux
+
+- **[REF-19] OCDE — *Regards sur l’éducation*** : édition annuelle, indicateurs B (financement) et D (organisation).
+
+### Évaluation et inégalités
+
+- **[REF-20] France Stratégie / CNESCO** : études évaluation éducation, inégalités scolaires.
+- **[REF-21] Injep / ANS** : pratiques sportives et culturelles des jeunes.
+
+### Données budgétaires locales
+
+- **[REF-22] data.gouv.fr / OFGL (Observatoire des finances et de la gestion publique locales)** : budgets éducatifs des collectivités, dépenses par habitant.
+- **[REF-23] Caisse des Dépôts — Banque des Territoires** : études secteur éducatif.
 
 ## 20.11 Cadres expérimentaux et innovation publique
 

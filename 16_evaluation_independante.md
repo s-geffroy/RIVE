@@ -16,7 +16,10 @@ Une V1 sérieuse doit durer au moins 3 ans. Une évaluation réellement robuste 
 8. stabilité RH ;
 9. inclusion ;
 10. coût complet ;
-11. satisfaction familiale sans dépossession.
+11. satisfaction familiale sans dépossession ;
+12. **composition sociale des inscrits par rapport au bassin** — proportion des enfants par décile de revenu familial et par zone (QPV / hors QPV), publiée annuellement (voir ch. 25.4). Si l’écart à la composition du bassin dépasse 15 %, déclenchement automatique d’une révision des règles d’accès ;
+13. **décrochage post-16 ans** — proportion des jeunes sortis du système RIVE entre 16 et 18 ans sans solution scolaire ou professionnelle, comparée au taux du bassin ;
+14. **accès aux parcours sérieux par décile de revenu** — proportion des enfants de chaque décile inscrits dans un parcours sérieux musique, sport, théâtre ou arts.
 
 ## 16.3 Indicateurs secondaires
 

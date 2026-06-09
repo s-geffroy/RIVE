@@ -58,7 +58,7 @@ Quand plusieurs RIVEs couvrent le même bassin, elles partagent un nombre limit�
 
 | Pôle bassin | Fonction |
 |---|---|
-| Pôle Lycée Bassin | voies technologique et professionnelle, plateaux techniques, spécialités rares du général (voir ch. 6.7) |
+| Pôle Lycée Bassin | voies technologique et professionnelle (3–6 spécialités phares par Pôle), plateaux techniques, spécialités rares du général ; les autres spécialités pro sont couvertes par mutualisation inter-bassins, alternance ou partenariat EN (voir ch. 6.7.4) |
 | Pôle Santé Bassin | médecin référent, vacations spécialisées (orthophonie, psychomotricité, ophtalmologie, dentaire) |
 | Pôle Cuisine Bassin | cuisine centrale qualitative avec offices satellites par RIVE |
 | Pôle SI Bassin | système d’information commun, données compartimentées, équipe technique mutualisée |
