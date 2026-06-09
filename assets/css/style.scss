@@ -6,3 +6,22 @@
 .page-header .btn {
   display: none;
 }
+
+.project-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-logo {
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  color: #fff;
+}
+
+@media screen and (max-width: 42em) {
+  .project-logo {
+    max-width: 220px;
+  }
+}
