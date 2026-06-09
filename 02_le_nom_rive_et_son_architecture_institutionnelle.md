@@ -16,8 +16,6 @@ Le nom RIVE désigne le système public dans son ensemble. Le sigle complet, Ré
 
 L’architecture interne de chaque unité prend le nom de campus-réseau éducatif intégré RIVE. Les sites d’âge qui la composent sont appelés Maisons RIVE. Les approfondissements en sport, culture ou arts sont désignés par l’expression Parcours RIVE. Les équipements, plateaux ou services mutualisés entre plusieurs RIVEs d’un même bassin portent le nom de Pôle bassin RIVE, qualifié par sa fonction : Pôle Lycée Bassin, Pôle Santé Bassin, Pôle Cuisine Bassin.
 
-Le document de référence est désigné par l’expression Blue Book RIVE.
-
 Une déclinaison concrète prend par exemple la forme suivante : le Maillage RIVE Castres Bassin comprend environ 8 RIVEs, parmi lesquelles RIVE Castres Centre, RIVE Castres Lameilhé ou RIVE Castres Saïx, complétées par le Pôle Lycée Bassin Castres pour les voies technologique et professionnelle mutualisées.
 
 Ce vocabulaire doit être tenu fermement. Confondre une RIVE avec un bassin reste la première erreur conceptuelle à éviter.

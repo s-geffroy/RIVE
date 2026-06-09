@@ -1,18 +1,18 @@
-# RIVE, Blue Book
+# RIVE
 
 ## Index des chapitres
 
 RIVE signifie Réseau Intégré de Vie Éducative.
 
-Le présent dépôt contient le Blue Book RIVE découpé en chapitres, à raison d’un fichier Markdown par chapitre.
+Le présent dépôt contient le document RIVE découpé en chapitres, à raison d’un fichier Markdown par chapitre.
 
 ### Trois entrées documentaires
 
 Selon le temps disponible, le lecteur peut choisir entre trois entrées.
 
-- [Brief exécutif (1 page)](./EXEC_BRIEF.md), lecture en 2 minutes, à l’usage du ministre, du président d’EPCI ou du décideur.
-- [Dossier politique court (5 pages)](./DOSSIER_POLITIQUE.md), lecture en 15 minutes, à l’usage du cabinet, du directeur général des services ou du chef de bureau.
-- Blue Book complet (ci-dessous, 28 chapitres), comme référence opérationnelle complète.
+- [Brief exécutif](./EXEC_BRIEF.md), lecture en 2 minutes, à l’usage du ministre, du président d’EPCI ou du décideur.
+- [Dossier politique court](./DOSSIER_POLITIQUE.md), lecture en 15 minutes, à l’usage du cabinet, du directeur général des services ou du chef de bureau.
+- Document complet (ci-dessous, 28 chapitres), comme référence opérationnelle complète.
 
 ### Corps doctrinal
 

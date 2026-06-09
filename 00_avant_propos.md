@@ -1,4 +1,4 @@
-# RIVE, Blue Book
+# RIVE
 
 ## Réseau Intégré de Vie Éducative
 

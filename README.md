@@ -1,12 +1,12 @@
-# RIVE, Blue Book
+# RIVE
 
-Le présent dépôt contient le Blue Book RIVE (Réseau Intégré de Vie Éducative), découpé en chapitres au format Markdown.
+Le présent dépôt contient le document RIVE (Réseau Intégré de Vie Éducative), découpé en chapitres au format Markdown.
 
 ## Trois entrées selon le temps disponible
 
-- [**Brief exécutif (1 page)**](./EXEC_BRIEF.md), lecture en 2 minutes, à destination du ministre, du président d’EPCI ou du décideur.
-- [**Dossier politique court (5 pages)**](./DOSSIER_POLITIQUE.md), lecture en 15 minutes, à destination du cabinet, du directeur général des services ou du chef de bureau.
-- **Blue Book complet** (`00_index.md`, 28 chapitres), comme référence opérationnelle complète.
+- [**Brief exécutif**](./EXEC_BRIEF.md), lecture en 2 minutes, à destination du ministre, du président d’EPCI ou du décideur.
+- [**Dossier politique court**](./DOSSIER_POLITIQUE.md), lecture en 15 minutes, à destination du cabinet, du directeur général des services ou du chef de bureau.
+- **Document complet** (`00_index.md`, 28 chapitres), comme référence opérationnelle complète.
 
 ## Principe
 
@@ -50,4 +50,8 @@ Un fichier Markdown correspond à un chapitre. Le fichier `00_index.md` sert de 
 
 ## Statut
 
-Document d’instruction politique destiné à être discuté avec des décideurs publics (collectivités, État, cabinets ministériels). Le Blue Book n’engage que son auteur. Toute mise à jour de la documentation est tracée dans `CHANGELOG.md`.
+Document d’instruction politique destiné à être discuté avec des décideurs publics (collectivités, État, cabinets ministériels).
+
+Le présent document n’engage que son auteur.
+
+Toute mise à jour de la documentation est tracée dans `CHANGELOG.md`.
